@@ -3,6 +3,7 @@ import re
 import json
 import time
 import requests
+import subprocess
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
@@ -238,6 +239,11 @@ def main():
     log(f"{len(banco)} total salvo")
     log("Finalizado com sucesso")
 
+def git_push():
+    subprocess.run(["git", "add", "frontend/public/conquistas.json"])
+    subprocess.run(["git", "commit", "-m", "update data"], check=False)
+    subprocess.run(["git", "push"])
+
 #inicial
 #n=10;
 #for i in range(1, 11): 
@@ -250,3 +256,4 @@ def main():
 URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
 if __name__ == "__main__":
     main()
+    git_push()
