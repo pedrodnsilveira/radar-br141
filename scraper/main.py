@@ -239,14 +239,14 @@ def main():
     log("Finalizado com sucesso")
 
 #inicial
-n=10;
-for i in range(1, 11): 
-    URL = 'https://br.twstats.com/br141/index.php?page=ennoblements&pn='+str(n)
-    n=n-1
-    main()
-    time.sleep(2)
+#n=10;
+#for i in range(1, 11): 
+#    URL = 'https://br.twstats.com/br141/index.php?page=ennoblements&pn='+str(n)
+#    n=n-1
+#    main()
+#    time.sleep(2)
 
 #rotina
-#URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
-#if __name__ == "__main__":
-#    main()
+URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
+if __name__ == "__main__":
+    main()
