@@ -257,3 +257,4 @@ URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
 if __name__ == "__main__":
     main()
     git_push()
+    print("Sucesso na execucao")
