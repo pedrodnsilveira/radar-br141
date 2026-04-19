@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "273|614",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "kaverao",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 19:23:15"
+  },
+  {
+    "coordenadas": "557|627",
+    "proprietario_anterior": "fabrica de cultura",
+    "tribo_anterior": null,
+    "proprietario_novo": "w4rlock",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 19:22:01"
+  },
+  {
+    "coordenadas": "452|726",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 19:21:44"
+  },
+  {
     "coordenadas": "632|232",
     "proprietario_anterior": "DanielWeiss",
     "tribo_anterior": null,
