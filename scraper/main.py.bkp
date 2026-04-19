@@ -4,10 +4,8 @@ import json
 import time
 import requests
 import subprocess
-import sys
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-from telegram_notify import notificar_conquistas
 
 # ======================================================
 # CONFIG
@@ -237,9 +235,6 @@ def main():
 
     salvar(banco)
 
-    if novos:
-        notificar_conquistas(novos)
-
     log(f"{len(novos)} novos registros")
     log(f"{len(banco)} total salvo")
     log("Finalizado com sucesso")
@@ -287,4 +282,3 @@ if __name__ == "__main__":
     else:
         print("Execucao concluida, mas falhou no git")
         sys.exit(1)
-
