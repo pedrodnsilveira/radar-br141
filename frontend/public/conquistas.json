@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "578|354",
+    "proprietario_anterior": "ItoO",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "ItoO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-19 18:46:30"
+  },
+  {
+    "coordenadas": "447|811",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "just...G",
+    "tribo_nova": "HtR",
+    "data_hora_conquista": "2026-04-19 18:45:37"
+  },
+  {
+    "coordenadas": "612|420",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 18:44:57"
+  },
+  {
+    "coordenadas": "455|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shiraname",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-19 18:42:01"
+  },
+  {
+    "coordenadas": "532|523",
+    "proprietario_anterior": "HeitorLucass",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 18:40:56"
+  },
+  {
     "coordenadas": "467|489",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
