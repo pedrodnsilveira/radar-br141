@@ -240,21 +240,45 @@ def main():
     log("Finalizado com sucesso")
 
 def git_push():
-    subprocess.run(["git", "add", "frontend/public/conquistas.json"])
-    subprocess.run(["git", "commit", "-m", "update data"], check=False)
-    subprocess.run(["git", "push"])
+    try:
+        subprocess.run(
+            ["git", "add", "frontend/public/conquistas.json"],
+            check=True
+        )
 
-#inicial
-#n=10;
-#for i in range(1, 11): 
-#    URL = 'https://br.twstats.com/br141/index.php?page=ennoblements&pn='+str(n)
-#    n=n-1
-#    main()
-#    time.sleep(2)
+        subprocess.run(
+            ["git", "commit", "-m", "update data"],
+            check=False
+        )
 
-#rotina
+        subprocess.run(
+            ["git", "push"],
+            check=True
+        )
+
+        return True
+
+    except subprocess.CalledProcessError as e:
+        print(f"Erro no git: {e}")
+        return False
+
+
+# inicial
+# n=10
+# for i in range(1,11):
+#     URL = 'https://br.twstats.com/br141/index.php?page=ennoblements&pn='+str(n)
+#     n=n-1
+#     main()
+#     time.sleep(2)
+
+# rotina
 URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
+
 if __name__ == "__main__":
     main()
-    git_push()
-    print("Sucesso na execucao")
+
+    if git_push():
+        print("Sucesso na execucao")
+    else:
+        print("Execucao concluida, mas falhou no git")
+        sys.exit(1)
