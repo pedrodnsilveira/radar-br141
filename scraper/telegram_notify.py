@@ -15,7 +15,6 @@ RANGES = [
     ("K68", 600, 699, 800, 899),
 ]
 
-
 def enviar_telegram(msg):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
