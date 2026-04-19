@@ -113,6 +113,42 @@ def baixar_html():
                     timeout=60000
                 )
 
+                page.wait_for_timeout(5000)
+
+                html = page.content()
+
+                print(html[:5000])   # DEBUG
+
+                browser.close()
+
+                return html
+
+        except Exception as e:
+            log(f"Erro: {e}")
+            if tentativa < MAX_RETRY:
+                time.sleep(3)
+            else:
+                raise
+
+def baixar_html2():
+    for tentativa in range(1, MAX_RETRY + 1):
+        try:
+            log(f"Baixando página... tentativa {tentativa}")
+
+            with sync_playwright() as p:
+                browser = p.chromium.launch(
+                    headless=True,
+                    args=["--no-sandbox"]
+                )
+
+                page = browser.new_page()
+
+                page.goto(
+                    URL,
+                    wait_until="domcontentloaded",
+                    timeout=60000
+                )
+
                 page.wait_for_selector(
                     "tr.r1, tr.r2",
                     timeout=15000
