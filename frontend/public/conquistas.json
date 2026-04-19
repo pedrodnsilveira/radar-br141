@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "298|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dinosboys",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-19 19:47:12"
+  },
+  {
+    "coordenadas": "417|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 19:46:57"
+  },
+  {
     "coordenadas": "548|209",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
