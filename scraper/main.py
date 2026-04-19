@@ -9,7 +9,8 @@ URL = "https://br.twstats.com/br141/index.php?page=ennoblements&live=live"
 
 BASE = os.path.dirname(os.path.dirname(__file__))
 DATA = os.path.join(BASE, "data")
-ARQ = os.path.join(DATA, "conquistas.json")
+#ARQ = os.path.join(DATA, "conquistas.json")
+ARQ = "frontend/public/conquistas.json"
 
 os.makedirs(DATA, exist_ok=True)
 
