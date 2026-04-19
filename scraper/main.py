@@ -3,6 +3,7 @@ import re
 import json
 import time
 import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
@@ -94,6 +95,42 @@ def parse_player(txt):
     return txt, None
 
 def baixar_html():
+    for tentativa in range(1, MAX_RETRY + 1):
+        try:
+            log(f"Baixando página... tentativa {tentativa}")
+
+            with sync_playwright() as p:
+                browser = p.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--no-sandbox",
+                        "--disable-blink-features=AutomationControlled"
+                    ]
+                )
+
+                page = browser.new_page(
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
+                    viewport={"width": 1366, "height": 768},
+                    locale="pt-BR"
+                )
+
+                page.goto(URL, wait_until="networkidle", timeout=60000)
+
+                html = page.content()
+
+                browser.close()
+
+                return html
+
+        except Exception as e:
+            log(f"Erro: {e}")
+
+            if tentativa < MAX_RETRY:
+                time.sleep(3)
+            else:
+                raise
+
+def baixar_html_requests():
     for tentativa in range(1, MAX_RETRY + 1):
         try:
             log(f"Baixando página... tentativa {tentativa}")
