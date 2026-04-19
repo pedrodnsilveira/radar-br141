@@ -1,11 +1,33 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState, useRef } from "react";
 
 const COLORS = ['#378ADD', '#1D9E75', '#D85A30', '#BA7517', '#D4537E', '#7F77DD', '#639922', '#E24B4A'];
 const DAY_NAMES = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
 
 function pad2(n) { return String(n).padStart(2, '0'); }
+
+function RankingCard({ title, items, color, emptyMsg = "Sem dados" }) {
+  const max = items[0]?.[1] || 1;
+  return (
+    <div style={{ background: '#fff', border: '1px solid #e8e8e0', borderRadius: '12px', padding: '16px 20px' }}>
+      <div style={{ fontSize: '10px', color: '#888', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: '12px', fontWeight: 600 }}>{title}</div>
+      {items.length === 0 && <div style={{ fontSize: '12px', color: '#bbb', padding: '8px 0' }}>{emptyMsg}</div>}
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        {items.slice(0, 8).map(([name, count], i) => (
+          <div key={name} style={{ display: 'flex', alignItems: 'center', padding: '7px 0', borderBottom: i < Math.min(items.length, 8) - 1 ? '1px solid #f0f0ea' : 'none' }}>
+            <span style={{ fontSize: '10px', color: '#bbb', width: '22px' }}>#{i + 1}</span>
+            <span style={{ fontSize: '12px', flex: 1, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{name}</span>
+            <div style={{ width: '60px', height: '4px', background: '#f0f0ea', borderRadius: '3px', margin: '0 10px', flexShrink: 0 }}>
+              <div style={{ width: `${Math.round(count / max * 100)}%`, height: '4px', borderRadius: '3px', background: color }} />
+            </div>
+            <span style={{ fontSize: '12px', fontWeight: 600, minWidth: '24px', textAlign: 'right', color }}>{count}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 export default function Home() {
   const [dados, setDados] = useState([]);
@@ -15,7 +37,7 @@ export default function Home() {
   const chartsRef = useRef([]);
 
   useEffect(() => {
-    fetch("/public/conquistas.json")
+    fetch("/conquistas.json")
       .then(r => r.json())
       .then((raw) => {
         const enriched = raw
@@ -27,10 +49,8 @@ export default function Home() {
 
   useEffect(() => {
     if (dados.length === 0) return;
-
     const existing = document.getElementById('chartjs-cdn');
     if (existing) { initCharts(dados); return; }
-
     const script = document.createElement('script');
     script.id = 'chartjs-cdn';
     script.src = 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js';
@@ -56,10 +76,7 @@ export default function Home() {
     if (barRef.current) {
       chartsRef.current.push(new window.Chart(barRef.current, {
         type: 'bar',
-        data: {
-          labels: dayLabels,
-          datasets: [{ label: 'Conquistas', data: dayCounts, backgroundColor: '#378ADD', borderRadius: 4, borderSkipped: false }]
-        },
+        data: { labels: dayLabels, datasets: [{ label: 'Conquistas', data: dayCounts, backgroundColor: '#378ADD', borderRadius: 4, borderSkipped: false }] },
         options: {
           responsive: true, maintainAspectRatio: false,
           plugins: { legend: { display: false } },
@@ -94,11 +111,7 @@ export default function Home() {
         type: 'line',
         data: {
           labels: Array.from({ length: 24 }, (_, i) => pad2(i) + 'h'),
-          datasets: [{
-            label: 'Atividade', data: hourBuckets,
-            borderColor: '#1D9E75', backgroundColor: 'rgba(29,158,117,0.08)',
-            borderWidth: 1.5, pointRadius: 2, fill: true, tension: 0.4
-          }]
+          datasets: [{ label: 'Atividade', data: hourBuckets, borderColor: '#1D9E75', backgroundColor: 'rgba(29,158,117,0.08)', borderWidth: 1.5, pointRadius: 2, fill: true, tension: 0.4 }]
         },
         options: {
           responsive: true, maintainAspectRatio: false,
@@ -137,6 +150,28 @@ export default function Home() {
   const top5tribes = Object.entries(tribeCounts).sort((a, b) => b[1] - a[1]).slice(0, 5);
   const totalTribes = top5tribes.reduce((a, b) => a + b[1], 0);
 
+  // Tribos que conquistaram aldeias
+  const triboConquistouCounts = {};
+  dados.forEach(x => { if (x.tribo_nova) triboConquistouCounts[x.tribo_nova] = (triboConquistouCounts[x.tribo_nova] || 0) + 1; });
+  const topTriboConquistou = Object.entries(triboConquistouCounts).sort((a, b) => b[1] - a[1]);
+
+  // Jogadores que conquistaram aldeias bárbaras (sem dono anterior)
+  const barbaraCounts = {};
+  dados.filter(x => (x.proprietario_anterior == "Aldeia de Bárbaros")).forEach(x => {
+    barbaraCounts[x.proprietario_novo] = (barbaraCounts[x.proprietario_novo] || 0) + 1;
+  });
+  const topBarbara = Object.entries(barbaraCounts).sort((a, b) => b[1] - a[1]);
+
+  // Jogadores que perderam aldeias
+  const perderamCounts = {};
+  dados.forEach(x => { if (x.proprietario_anterior) perderamCounts[x.proprietario_anterior] = (perderamCounts[x.proprietario_anterior] || 0) + 1; });
+  const topPerderam = Object.entries(perderamCounts).sort((a, b) => b[1] - a[1]);
+
+  // Tribos que perderam aldeias
+  const triboPerderamCounts = {};
+  dados.forEach(x => { if (x.tribo_anterior) triboPerderamCounts[x.tribo_anterior] = (triboPerderamCounts[x.tribo_anterior] || 0) + 1; });
+  const topTriboPerdeu = Object.entries(triboPerderamCounts).sort((a, b) => b[1] - a[1]);
+
   const hmMatrix = Array.from({ length: 24 }, () => new Array(7).fill(0));
   dados.forEach(x => {
     const h = parseInt(x.data_hora_conquista.slice(11, 13));
@@ -162,14 +197,14 @@ export default function Home() {
     htitle: { fontSize: '20px', fontWeight: 600, color: '#1a1a18', letterSpacing: '0.05em' },
     hsub: { fontSize: '11px', color: '#888', letterSpacing: '0.1em', textTransform: 'uppercase', marginTop: '3px' },
     badge: { fontSize: '10px', padding: '3px 10px', borderRadius: '4px', background: '#eaf3de', color: '#3b6d11', letterSpacing: '0.08em', fontWeight: 600 },
+    sectionLabel: (color) => ({ fontSize: '11px', color: '#444', letterSpacing: '0.12em', textTransform: 'uppercase', fontWeight: 700, margin: '28px 0 12px', borderLeft: `3px solid ${color}`, paddingLeft: '10px' }),
     metrics: { display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '10px', marginBottom: '20px' },
     metric: { background: '#fff', border: '1px solid #e8e8e0', borderRadius: '10px', padding: '14px 16px' },
     mLabel: { fontSize: '10px', color: '#888', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: '6px' },
     mValue: { fontSize: '28px', fontWeight: 600, color: '#1a1a18', lineHeight: 1 },
     mSub: { fontSize: '11px', color: '#888', marginTop: '4px' },
-    chartsRow: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px', marginBottom: '20px' },
-    chartsRow2: { display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: '12px', marginBottom: '20px' },
-    chartsRow3: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px', marginBottom: '20px' },
+    row2: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px', marginBottom: '20px' },
+    row15: { display: 'grid', gridTemplateColumns: '1.5fr 1fr', gap: '12px', marginBottom: '20px' },
     card: { background: '#fff', border: '1px solid #e8e8e0', borderRadius: '12px', padding: '16px 20px' },
     cardTitle: { fontSize: '10px', color: '#888', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: '12px', fontWeight: 600 },
     tableCard: { background: '#fff', border: '1px solid #e8e8e0', borderRadius: '12px', padding: '16px 20px', marginBottom: '20px' },
@@ -232,7 +267,7 @@ export default function Home() {
       </div>
 
       {/* Barras + Rosca */}
-      <div style={s.chartsRow}>
+      <div style={s.row2}>
         <div style={s.card}>
           <div style={s.cardTitle}>Conquistas por Dia (7 dias)</div>
           <div style={{ position: 'relative', width: '100%', height: '180px' }}>
@@ -256,7 +291,7 @@ export default function Home() {
       </div>
 
       {/* Linha por hora + Top players */}
-      <div style={s.chartsRow2}>
+      <div style={s.row15}>
         <div style={s.card}>
           <div style={s.cardTitle}>Atividade por Hora do Dia</div>
           <div style={{ position: 'relative', width: '100%', height: '160px' }}>
@@ -281,7 +316,7 @@ export default function Home() {
       </div>
 
       {/* Feed recente + Mapa de calor */}
-      <div style={s.chartsRow3}>
+      <div style={s.row2}>
         <div style={s.card}>
           <div style={s.cardTitle}>Atividade Recente</div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '4px', maxHeight: '240px', overflowY: 'auto' }}>
@@ -304,12 +339,12 @@ export default function Home() {
             <div />
             {DAY_NAMES.map(d => <div key={d} style={{ fontSize: '9px', color: '#888', textAlign: 'center' }}>{d}</div>)}
             {hmRows.map(h => (
-              <>
-                <div key={`lbl-${h}`} style={{ fontSize: '9px', color: '#888', display: 'flex', alignItems: 'center' }}>{pad2(h)}h</div>
+              <React.Fragment key={h}>
+                <div style={{ fontSize: '9px', color: '#888', display: 'flex', alignItems: 'center' }}>{pad2(h)}h</div>
                 {Array.from({ length: 7 }, (_, d) => (
                   <div key={`${h}-${d}`} title={`${hmMatrix[h][d]} conquistas`} style={{ aspectRatio: '1', borderRadius: '3px', background: hmColor(hmMatrix[h][d]) }} />
                 ))}
-              </>
+              </React.Fragment>
             ))}
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px', marginTop: '10px', fontSize: '9px', color: '#888' }}>
@@ -320,6 +355,40 @@ export default function Home() {
             Mais
           </div>
         </div>
+      </div>
+
+      {/* ── CONQUISTAS ── */}
+      <div style={s.sectionLabel('#1D9E75')}>Conquistas</div>
+      <div style={s.row2}>
+        <RankingCard
+          title="Tribos que mais conquistaram aldeias"
+          items={topTriboConquistou}
+          color="#1D9E75"
+          emptyMsg="Sem dados de tribo"
+        />
+        <RankingCard
+          title="Jogadores que conquistaram aldeias bárbaras"
+          items={topBarbara}
+          color="#378ADD"
+          emptyMsg="Nenhuma conquista bárbara registrada"
+        />
+      </div>
+
+      {/* ── PERDAS ── */}
+      <div style={s.sectionLabel('#D85A30')}>Perdas</div>
+      <div style={s.row2}>
+        <RankingCard
+          title="Jogadores que mais perderam aldeias"
+          items={topPerderam}
+          color="#D85A30"
+          emptyMsg="Sem perdas registradas"
+        />
+        <RankingCard
+          title="Tribos que mais perderam aldeias"
+          items={topTriboPerdeu}
+          color="#BA7517"
+          emptyMsg="Sem perdas de tribo registradas"
+        />
       </div>
 
       {/* Tabela */}
