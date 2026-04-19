@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "548|209",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "kyngg12",
+    "tribo_nova": "=WP=",
+    "data_hora_conquista": "2026-04-19 19:42:43"
+  },
+  {
+    "coordenadas": "664|279",
+    "proprietario_anterior": "Kingvalle",
+    "tribo_anterior": null,
+    "proprietario_novo": "harger paul",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-19 19:38:27"
+  },
+  {
+    "coordenadas": "520|174",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Exgustavo1995",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-19 19:38:16"
+  },
+  {
+    "coordenadas": "419|745",
+    "proprietario_anterior": "Feiticeiro boladão",
+    "tribo_anterior": "URSS",
+    "proprietario_novo": "Polentero",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 19:35:25"
+  },
+  {
     "coordenadas": "554|562",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
