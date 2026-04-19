@@ -31,13 +31,13 @@ function FilterBar({ todos, filters, setFilters }) {
         return Array.from(s).sort();
     }, [todos]);
 
-    const hasFilters = filters.tribo || filters.jogador || filters.dataInicio || filters.dataFim || filters.apenasBarbaras;
+    const hasFilters = filters.tribo || filters.jogador || filters.dataInicio || filters.dataFim || filters.tipoBarbaras;
 
     const sel = { height: '32px', fontSize: '12px', border: '1px solid #e8e8e0', borderRadius: '6px', padding: '0 8px', background: '#fff', color: '#1a1a18', cursor: 'pointer', outline: 'none', width: '100%' };
     const inp = { ...sel };
     const lbl = { fontSize: '10px', color: '#888', letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: '4px', display: 'block' };
 
-    const clear = () => setFilters({ tribo: '', jogador: '', dataInicio: '', dataFim: '', apenasBarbaras: false });
+    const clear = () => setFilters({ tribo: '', jogador: '', dataInicio: '', dataFim: '', tipoBarbaras: '' });
 
     return (
         <div style={{ background: '#fff', border: '1px solid #e8e8e0', borderRadius: '12px', padding: '16px 20px', marginBottom: '20px' }}>
@@ -52,7 +52,7 @@ function FilterBar({ todos, filters, setFilters }) {
                 )}
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: '12px', alignItems: 'end' }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '16px', alignItems: 'start' }}>
                 <div>
                     <label style={lbl}>Tribo</label>
                     <select style={sel} value={filters.tribo} onChange={e => setFilters(f => ({ ...f, tribo: e.target.value }))}>
@@ -69,17 +69,34 @@ function FilterBar({ todos, filters, setFilters }) {
                 </div>
                 <div>
                     <label style={lbl}>Data início</label>
-                    <input type="date" style={inp} value={filters.dataInicio} onChange={e => setFilters(f => ({ ...f, dataInicio: e.target.value }))} />
+                    <input type="datetime-local" style={inp} value={filters.dataInicio} onChange={e => setFilters(f => ({ ...f, dataInicio: e.target.value }))} />
                 </div>
                 <div>
                     <label style={lbl}>Data fim</label>
-                    <input type="date" style={inp} value={filters.dataFim} onChange={e => setFilters(f => ({ ...f, dataFim: e.target.value }))} />
+                    <input type="datetime-local" style={inp} value={filters.dataFim} onChange={e => setFilters(f => ({ ...f, dataFim: e.target.value }))} />
                 </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', paddingBottom: '4px' }}>
-                    <input type="checkbox" id="chk-barbara" checked={filters.apenasBarbaras}
-                        onChange={e => setFilters(f => ({ ...f, apenasBarbaras: e.target.checked }))}
-                        style={{ cursor: 'pointer', width: '14px', height: '14px' }} />
-                    <label htmlFor="chk-barbara" style={{ fontSize: '12px', color: '#444', cursor: 'pointer' }}>Só bárbaras</label>
+                <div>
+                    <label style={lbl}>Bárbaras</label>
+
+                    <label style={{ display: 'flex', alignItems: 'center', gap: '6px', cursor: 'pointer', fontSize: '12px' }}>
+                        <input
+                            type="radio"
+                            name="barbaras"
+                            checked={filters.tipoBarbaras === "apenas"}
+                            onChange={() => setFilters(f => ({ ...f, tipoBarbaras: "apenas" }))}
+                        />
+                        Apenas bárbaras
+                    </label>
+
+                    <label style={{ display: 'flex', alignItems: 'center', gap: '6px', cursor: 'pointer', fontSize: '12px' }}>
+                        <input
+                            type="radio"
+                            name="barbaras"
+                            checked={filters.tipoBarbaras === "sem"}
+                            onChange={() => setFilters(f => ({ ...f, tipoBarbaras: "sem" }))}
+                        />
+                        Sem bárbaras
+                    </label>
                 </div>
             </div>
 
@@ -90,7 +107,23 @@ function FilterBar({ todos, filters, setFilters }) {
                     {filters.jogador && <Tag label={`Jogador: ${filters.jogador}`} onRemove={() => setFilters(f => ({ ...f, jogador: '' }))} />}
                     {filters.dataInicio && <Tag label={`De: ${filters.dataInicio}`} onRemove={() => setFilters(f => ({ ...f, dataInicio: '' }))} />}
                     {filters.dataFim && <Tag label={`Até: ${filters.dataFim}`} onRemove={() => setFilters(f => ({ ...f, dataFim: '' }))} />}
-                    {filters.apenasBarbaras && <Tag label="Só bárbaras" onRemove={() => setFilters(f => ({ ...f, apenasBarbaras: false }))} />}
+                    {filters.tipoBarbaras === "apenas" && (
+                        <Tag
+                            label="Só bárbaras"
+                            onRemove={() =>
+                                setFilters(f => ({ ...f, tipoBarbaras: '' }))
+                            }
+                        />
+                    )}
+
+                    {filters.tipoBarbaras === "sem" && (
+                        <Tag
+                            label="Sem bárbaras"
+                            onRemove={() =>
+                                setFilters(f => ({ ...f, tipoBarbaras: '' }))
+                            }
+                        />
+                    )}
                 </div>
             )}
         </div>
@@ -143,7 +176,7 @@ function ChartCanvas({ id, height, buildConfig }) {
 export default function Home() {
     const [todos, setTodos] = useState([]);
     const [chartjsReady, setChartjsReady] = useState(false);
-    const [filters, setFilters] = useState({ tribo: '', jogador: '', dataInicio: '', dataFim: '', apenasBarbaras: false });
+    const [filters, setFilters] = useState({ tribo: '', jogador: '', dataInicio: '', dataFim: '', tipoBarbaras: '' });
 
     // Carrega dados
     useEffect(() => {
@@ -169,9 +202,15 @@ export default function Home() {
         if (filters.jogador && x.proprietario_novo !== filters.jogador && x.proprietario_anterior !== filters.jogador) return false;
         if (filters.dataInicio && x.data_hora_conquista.slice(0, 10) < filters.dataInicio) return false;
         if (filters.dataFim && x.data_hora_conquista.slice(0, 10) > filters.dataFim) return false;
+        const ehBarbara = x.proprietario_anterior === "Aldeia de Bárbaros";
         if (
-            filters.apenasBarbaras &&
-            x.proprietario_anterior !== "Aldeia de Bárbaros"
+            filters.tipoBarbaras === "apenas" &&
+            !ehBarbara
+        ) return false;
+
+        if (
+            filters.tipoBarbaras === "sem" &&
+            ehBarbara
         ) return false;
         return true;
     }), [todos, filters]);
@@ -222,7 +261,7 @@ export default function Home() {
     const hmColor = v => { if (!v) return '#f1efe8'; const t = v / maxHM; return t < 0.25 ? hmCols[1] : t < 0.5 ? hmCols[2] : t < 0.75 ? hmCols[3] : hmCols[4]; };
     const hmRows = [0, 3, 6, 9, 12, 15, 18, 21];
 
-    const hasFilters = filters.tribo || filters.jogador || filters.dataInicio || filters.dataFim || filters.apenasBarbaras;
+    const hasFilters = filters.tribo || filters.jogador || filters.dataInicio || filters.dataFim || filters.tipoBarbaras;
 
     const s = {
         page: { padding: '32px 40px', fontFamily: 'monospace', background: '#fafaf9', minHeight: '100vh' },
@@ -315,7 +354,7 @@ export default function Home() {
             {dados.length === 0 && todos.length > 0 ? (
                 <div style={{ ...s.card, textAlign: 'center', padding: '40px', color: '#bbb', fontSize: '13px', marginBottom: '20px' }}>
                     Nenhum resultado para os filtros aplicados.{' '}
-                    <button onClick={() => setFilters({ tribo: '', jogador: '', dataInicio: '', dataFim: '', apenasBarbaras: false })}
+                    <button onClick={() => setFilters({ tribo: '', jogador: '', dataInicio: '', dataFim: '', tipoBarbaras: '' })}
                         style={{ color: '#378ADD', background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'monospace', fontSize: '13px' }}>
                         Limpar filtros
                     </button>
