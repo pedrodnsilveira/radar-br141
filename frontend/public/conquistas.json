@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "588|742",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": null,
+    "proprietario_novo": "blacksands",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-19 19:09:08"
+  },
+  {
+    "coordenadas": "864|453",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rogoski123",
+    "tribo_nova": "[NG]",
+    "data_hora_conquista": "2026-04-19 19:08:11"
+  },
+  {
+    "coordenadas": "497|377",
+    "proprietario_anterior": "The Legionnaire",
+    "tribo_anterior": null,
+    "proprietario_novo": "felipepretinho",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-19 19:07:19"
+  },
+  {
+    "coordenadas": "602|459",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saviojoiasss",
+    "tribo_nova": "APOLLO",
+    "data_hora_conquista": "2026-04-19 19:07:13"
+  },
+  {
+    "coordenadas": "477|525",
+    "proprietario_anterior": "J.Karl",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "Engwars",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 19:06:00"
+  },
+  {
+    "coordenadas": "618|265",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NUMBNESS",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-19 19:05:27"
+  },
+  {
+    "coordenadas": "598|433",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Iraki -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 19:03:32"
+  },
+  {
+    "coordenadas": "380|520",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 19:00:43"
+  },
+  {
+    "coordenadas": "485|523",
+    "proprietario_anterior": "J.Karl",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 19:00:00"
+  },
+  {
+    "coordenadas": "483|524",
+    "proprietario_anterior": "J.Karl",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 19:00:00"
+  },
+  {
     "coordenadas": "384|642",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
