@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "564|443",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "skryl95",
+    "tribo_nova": "D.G.",
+    "data_hora_conquista": "2026-04-19 14:32:14"
+  },
+  {
+    "coordenadas": "573|645",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rocky.Balboa",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 14:25:36"
+  },
+  {
+    "coordenadas": "340|735",
+    "proprietario_anterior": "alexstrindade",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 14:20:05"
+  },
+  {
+    "coordenadas": "412|301",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HENRIKING.xM",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-19 14:19:50"
+  },
+  {
     "coordenadas": "776|342",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,

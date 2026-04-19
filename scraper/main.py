@@ -102,19 +102,21 @@ def baixar_html():
             with sync_playwright() as p:
                 browser = p.chromium.launch(
                     headless=True,
-                    args=[
-                        "--no-sandbox",
-                        "--disable-blink-features=AutomationControlled"
-                    ]
+                    args=["--no-sandbox"]
                 )
 
-                page = browser.new_page(
-                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
-                    viewport={"width": 1366, "height": 768},
-                    locale="pt-BR"
+                page = browser.new_page()
+
+                page.goto(
+                    URL,
+                    wait_until="domcontentloaded",
+                    timeout=60000
                 )
 
-                page.goto(URL, wait_until="networkidle", timeout=60000)
+                page.wait_for_selector(
+                    "tr.r1, tr.r2",
+                    timeout=15000
+                )
 
                 html = page.content()
 
