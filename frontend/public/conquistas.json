@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "300|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-19 21:04:16"
+  },
+  {
+    "coordenadas": "550|186",
+    "proprietario_anterior": "Richard ígnacio",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiagoGTA",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-19 21:03:28"
+  },
+  {
+    "coordenadas": "174|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "alexnosse",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 21:03:12"
+  },
+  {
+    "coordenadas": "464|573",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:03:05"
+  },
+  {
+    "coordenadas": "442|617",
+    "proprietario_anterior": "barbosatrilha",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carluz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:01:21"
+  },
+  {
+    "coordenadas": "523|600",
+    "proprietario_anterior": "sgtmorte13",
+    "tribo_anterior": "BOYS",
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 20:59:49"
+  },
+  {
+    "coordenadas": "526|683",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "h4nzo",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-19 20:57:47"
+  },
+  {
     "coordenadas": "787|525",
     "proprietario_anterior": "Malek",
     "tribo_anterior": null,
