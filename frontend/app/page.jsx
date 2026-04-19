@@ -1,0 +1,66 @@
+"use client";
+
+import { useEffect, useState } from "react";
+
+export default function Home() {
+    const [dados, setDados] = useState([]);
+
+    useEffect(() => {
+        fetch("/conquistas.json")
+            .then(r => r.json())
+            .then(setDados);
+    }, []);
+
+    const hoje = new Date().toISOString().slice(0, 10);
+
+    const conquistasHoje =
+        dados.filter(x => x.data_hora_conquista.startsWith(hoje)).length;
+
+    return (
+        <main style={{ padding: "40px", fontFamily: "Arial" }}>
+            <h1>Radar BR141</h1>
+
+            <div style={{ display: "flex", gap: "20px", marginBottom: "30px" }}>
+                <Card titulo="Conquistas Hoje" valor={conquistasHoje} />
+                <Card titulo="Última Conquista" valor={dados[0]?.proprietario_novo || "-"} />
+                <Card titulo="Total 7 dias" valor={dados.length} />
+            </div>
+
+            <table width="100%" border="1" cellPadding="8">
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Novo Dono</th>
+                        <th>Tribo</th>
+                        <th>Anterior</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {dados.slice(0, 100).map((x, i) => (
+                        <tr key={i}>
+                            <td>{x.data_hora_conquista}</td>
+                            <td>{x.proprietario_novo}</td>
+                            <td>{x.tribo_nova || "-"}</td>
+                            <td>{x.proprietario_anterior || "-"}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+        </main>
+    );
+}
+
+function Card({ titulo, valor }) {
+    return (
+        <div style={{
+            background: "#fff",
+            padding: "20px",
+            border: "1px solid #ddd",
+            borderRadius: "12px",
+            minWidth: "220px"
+        }}>
+            <div>{titulo}</div>
+            <h2>{valor}</h2>
+        </div>
+    );
+}
