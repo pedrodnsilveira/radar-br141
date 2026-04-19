@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "550|479",
+    "proprietario_anterior": "zaifovias",
+    "tribo_anterior": null,
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 20:00:32"
+  },
+  {
+    "coordenadas": "433|291",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 19:56:09"
+  },
+  {
+    "coordenadas": "609|455",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 19:56:04"
+  },
+  {
+    "coordenadas": "636|513",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 19:55:58"
+  },
+  {
     "coordenadas": "604|345",
     "proprietario_anterior": "DARK OF TREVAS",
     "tribo_anterior": "RIP",
