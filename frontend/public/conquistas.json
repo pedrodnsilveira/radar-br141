@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "513|646",
+    "proprietario_anterior": "Rei Senhor nino",
+    "tribo_anterior": "Dubar",
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 15:18:58"
+  },
+  {
+    "coordenadas": "297|211",
+    "proprietario_anterior": "cachorroloco",
+    "tribo_anterior": "K22",
+    "proprietario_novo": "killer1930",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-20 15:16:27"
+  },
+  {
+    "coordenadas": "514|509",
+    "proprietario_anterior": "Utzig",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 15:16:12"
+  },
+  {
+    "coordenadas": "514|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 15:16:11"
+  },
+  {
+    "coordenadas": "505|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Perry",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-20 15:12:00"
+  },
+  {
+    "coordenadas": "741|435",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dk00",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-20 15:11:12"
+  },
+  {
     "coordenadas": "378|548",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
