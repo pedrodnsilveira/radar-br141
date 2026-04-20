@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "511|407",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 03:56:47"
+  },
+  {
+    "coordenadas": "585|623",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WillGrelvo",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 03:54:21"
+  },
+  {
     "coordenadas": "739|308",
     "proprietario_anterior": "1998",
     "tribo_anterior": null,
