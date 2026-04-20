@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "538|193",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "bagui loko",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-20 18:02:43"
+  },
+  {
+    "coordenadas": "624|488",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 18:02:30"
+  },
+  {
+    "coordenadas": "511|584",
+    "proprietario_anterior": "Huddy",
+    "tribo_anterior": "APOLLO",
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 18:00:12"
+  },
+  {
     "coordenadas": "367|437",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
