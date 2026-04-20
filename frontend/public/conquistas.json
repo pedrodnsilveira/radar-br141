@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "624|488",
+    "proprietario_anterior": "qwerty2912",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-20 13:45:35"
+  },
+  {
+    "coordenadas": "494|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 13:43:22"
+  },
+  {
+    "coordenadas": "255|468",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-20 13:41:14"
+  },
+  {
+    "coordenadas": "487|745",
+    "proprietario_anterior": "Jormungandr",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-20 13:39:12"
+  },
+  {
     "coordenadas": "387|814",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
