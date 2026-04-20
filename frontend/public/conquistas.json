@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "519|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 09:51:46"
+  },
+  {
+    "coordenadas": "411|301",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HENRIKING.xM",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-20 09:49:23"
+  },
+  {
     "coordenadas": "547|360",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
