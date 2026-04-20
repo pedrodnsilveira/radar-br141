@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "378|548",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "baixistaconsagrado",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-20 15:05:36"
+  },
+  {
+    "coordenadas": "493|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 15:02:59"
+  },
+  {
+    "coordenadas": "603|319",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Giguitaia",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 15:01:33"
+  },
+  {
+    "coordenadas": "670|685",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sextus",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-20 15:01:09"
+  },
+  {
+    "coordenadas": "370|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CORINGA PLAY",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-20 15:00:12"
+  },
+  {
+    "coordenadas": "517|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bia-Yang",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 14:59:46"
+  },
+  {
     "coordenadas": "506|525",
     "proprietario_anterior": "coroneltk",
     "tribo_anterior": null,
