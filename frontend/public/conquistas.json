@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "595|468",
+    "proprietario_anterior": "Lord Fantasma",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kami",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 17:34:12"
+  },
+  {
+    "coordenadas": "143|575",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fofinhos",
+    "tribo_nova": "ROMA",
+    "data_hora_conquista": "2026-04-20 17:33:49"
+  },
+  {
     "coordenadas": "542|486",
     "proprietario_anterior": "fercomp",
     "tribo_anterior": null,
