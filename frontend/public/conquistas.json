@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "472|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PedroGarcia17",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 01:17:14"
+  },
+  {
+    "coordenadas": "507|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FelipeLucas32",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 01:11:16"
+  },
+  {
+    "coordenadas": "540|538",
+    "proprietario_anterior": "Rei fera?fera",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 01:10:50"
+  },
+  {
     "coordenadas": "371|203",
     "proprietario_anterior": "Luna Costa",
     "tribo_anterior": null,
