@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "183|482",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mergenmm",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 23:55:04"
+  },
+  {
+    "coordenadas": "644|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dionatammattos",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-19 23:53:25"
+  },
+  {
+    "coordenadas": "546|465",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zanguiefe",
+    "tribo_nova": "CASA",
+    "data_hora_conquista": "2026-04-19 23:51:55"
+  },
+  {
+    "coordenadas": "549|626",
+    "proprietario_anterior": "Veditapa",
+    "tribo_anterior": "[M]",
+    "proprietario_novo": "iMoon",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 23:51:37"
+  },
+  {
     "coordenadas": "481|618",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
