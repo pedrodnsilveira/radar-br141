@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "379|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SIDarta GODtama",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 21:12:29"
+  },
+  {
+    "coordenadas": "462|456",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 21:10:33"
+  },
+  {
+    "coordenadas": "328|217",
+    "proprietario_anterior": "5ZephyrX",
+    "tribo_anterior": null,
+    "proprietario_novo": "Oliver Queen.",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-20 21:10:04"
+  },
+  {
+    "coordenadas": "529|611",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "llucas",
+    "tribo_nova": "DICK",
+    "data_hora_conquista": "2026-04-20 21:08:50"
+  },
+  {
+    "coordenadas": "810|537",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "blt01",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 21:07:44"
+  },
+  {
     "coordenadas": "329|763",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
