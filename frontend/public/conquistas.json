@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "654|215",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PTTO",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-20 16:26:37"
+  },
+  {
+    "coordenadas": "416|478",
+    "proprietario_anterior": "eduardokaique99",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 16:24:54"
+  },
+  {
+    "coordenadas": "524|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord dragao negro",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-20 16:21:04"
+  },
+  {
+    "coordenadas": "645|218",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Convidado003746",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 16:20:13"
+  },
+  {
+    "coordenadas": "488|398",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NEGÃO RD",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-20 16:19:19"
+  },
+  {
+    "coordenadas": "448|368",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "digoamil",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 16:18:15"
+  },
+  {
     "coordenadas": "541|539",
     "proprietario_anterior": "Arceus James",
     "tribo_anterior": "FN",
