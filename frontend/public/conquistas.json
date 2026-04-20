@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "724|345",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saralfradi",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-20 10:04:31"
+  },
+  {
+    "coordenadas": "588|742",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": "PÂNICO",
+    "proprietario_novo": "blacksands",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 10:00:02"
+  },
+  {
+    "coordenadas": "527|179",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arqueiro Verde",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-20 09:56:17"
+  },
+  {
+    "coordenadas": "498|507",
+    "proprietario_anterior": "augusto899",
+    "tribo_anterior": "MQ",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 09:56:08"
+  },
+  {
     "coordenadas": "519|513",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
