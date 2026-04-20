@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "534|176",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pannik",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-20 16:45:12"
+  },
+  {
+    "coordenadas": "512|404",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 16:45:02"
+  },
+  {
+    "coordenadas": "692|359",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Balduíno Rei IV",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 16:42:49"
+  },
+  {
+    "coordenadas": "682|238",
+    "proprietario_anterior": "dark130",
+    "tribo_anterior": "VT",
+    "proprietario_novo": "...Dark...",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-20 16:42:39"
+  },
+  {
+    "coordenadas": "675|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 16:42:32"
+  },
+  {
+    "coordenadas": "529|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 16:39:39"
+  },
+  {
     "coordenadas": "566|436",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
