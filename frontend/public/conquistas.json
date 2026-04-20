@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "506|806",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rick.Iza",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-20 18:34:16"
+  },
+  {
+    "coordenadas": "550|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 18:33:46"
+  },
+  {
+    "coordenadas": "372|514",
+    "proprietario_anterior": "Destruction.win",
+    "tribo_anterior": null,
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 18:33:25"
+  },
+  {
+    "coordenadas": "532|560",
+    "proprietario_anterior": "- Bjorn Ironside",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 18:30:31"
+  },
+  {
+    "coordenadas": "433|646",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lordkaz",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-20 18:29:02"
+  },
+  {
     "coordenadas": "601|479",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
