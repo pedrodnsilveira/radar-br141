@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "596|784",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "luiz123santos",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-20 06:01:46"
+  },
+  {
+    "coordenadas": "516|532",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nebulosa Fênix",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 05:59:42"
+  },
+  {
     "coordenadas": "640|262",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
