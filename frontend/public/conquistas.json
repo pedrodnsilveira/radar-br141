@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "634|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 17:18:45"
+  },
+  {
+    "coordenadas": "406|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sharyan",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 17:15:03"
+  },
+  {
+    "coordenadas": "581|555",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lkaa",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 17:14:51"
+  },
+  {
+    "coordenadas": "353|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Minions",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 17:11:11"
+  },
+  {
+    "coordenadas": "445|474",
+    "proprietario_anterior": "Pintoso",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 17:10:54"
+  },
+  {
     "coordenadas": "558|439",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
