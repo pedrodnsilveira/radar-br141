@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "698|657",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "taelzera",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-20 00:36:42"
+  },
+  {
+    "coordenadas": "633|258",
+    "proprietario_anterior": "Mario Chapolino",
+    "tribo_anterior": null,
+    "proprietario_novo": "NUMBNESS",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-20 00:36:40"
+  },
+  {
     "coordenadas": "522|583",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
