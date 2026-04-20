@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "680|529",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 20:14:36"
+  },
+  {
+    "coordenadas": "621|333",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NOTH",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 20:12:02"
+  },
+  {
+    "coordenadas": "401|576",
+    "proprietario_anterior": "Jcesar",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eu sou LampiãoPB",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-20 20:10:44"
+  },
+  {
     "coordenadas": "455|371",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
