@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "409|601",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 14:05:43"
+  },
+  {
+    "coordenadas": "594|529",
+    "proprietario_anterior": "Samael",
+    "tribo_anterior": "LGDS",
+    "proprietario_novo": "ReisC",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 14:05:34"
+  },
+  {
+    "coordenadas": "458|629",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 14:03:09"
+  },
+  {
+    "coordenadas": "477|606",
+    "proprietario_anterior": "DraconicRoniN59",
+    "tribo_anterior": null,
+    "proprietario_novo": "Capiyvara",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 14:02:40"
+  },
+  {
+    "coordenadas": "562|560",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 14:02:07"
+  },
+  {
     "coordenadas": "557|560",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
