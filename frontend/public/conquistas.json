@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "730|594",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JWJU",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-20 15:34:04"
+  },
+  {
+    "coordenadas": "760|663",
+    "proprietario_anterior": "pauloantunes05",
+    "tribo_anterior": null,
+    "proprietario_novo": "ismaelrossi",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-20 15:33:08"
+  },
+  {
+    "coordenadas": "539|439",
+    "proprietario_anterior": "Lord Oimbativel",
+    "tribo_anterior": null,
+    "proprietario_novo": "Marcelo Maeda",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-20 15:32:21"
+  },
+  {
+    "coordenadas": "547|624",
+    "proprietario_anterior": "pika88",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "pika88",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 15:29:25"
+  },
+  {
+    "coordenadas": "327|585",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 15:29:11"
+  },
+  {
+    "coordenadas": "547|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pika88",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 15:29:11"
+  },
+  {
+    "coordenadas": "643|266",
+    "proprietario_anterior": "Gabriel The Angel",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silver Back",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 15:26:44"
+  },
+  {
+    "coordenadas": "803|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "atlas1",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-20 15:25:47"
+  },
+  {
     "coordenadas": "505|591",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
