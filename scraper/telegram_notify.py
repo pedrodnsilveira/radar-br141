@@ -68,7 +68,7 @@ def notificar_conquistas(lista_novos):
             cabecalho = "🚨 ATENÇÃO 🚨"
 
         msg = f"""{cabecalho}
-Nova conquista detectada!
+Nova conquista detectada.
 
 🗺 Continente: {k}
 📍 Coordenadas: {coord}
