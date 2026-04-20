@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "556|627",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "w4rlock",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 13:25:12"
+  },
+  {
+    "coordenadas": "562|655",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 13:17:25"
+  },
+  {
     "coordenadas": "508|633",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
