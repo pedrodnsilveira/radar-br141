@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "329|763",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maris1960",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-20 21:03:23"
+  },
+  {
+    "coordenadas": "546|501",
+    "proprietario_anterior": "Mão de Alface",
+    "tribo_anterior": "FC",
+    "proprietario_novo": "marcola120",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 21:01:26"
+  },
+  {
+    "coordenadas": "181|519",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Britx2000",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-20 20:58:16"
+  },
+  {
+    "coordenadas": "301|557",
+    "proprietario_anterior": "JovemFla",
+    "tribo_anterior": null,
+    "proprietario_novo": "Siberius-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-20 20:57:16"
+  },
+  {
     "coordenadas": "635|523",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
