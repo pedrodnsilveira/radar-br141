@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "500|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 04:18:54"
+  },
+  {
+    "coordenadas": "552|488",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 04:13:34"
+  },
+  {
     "coordenadas": "493|570",
     "proprietario_anterior": "BriazeZero",
     "tribo_anterior": null,
