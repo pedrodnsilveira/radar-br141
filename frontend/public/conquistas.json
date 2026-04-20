@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "861|431",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rogoski123",
+    "tribo_nova": "[NG]",
+    "data_hora_conquista": "2026-04-20 19:36:35"
+  },
+  {
+    "coordenadas": "491|573",
+    "proprietario_anterior": "XeatroNova",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 19:35:06"
+  },
+  {
+    "coordenadas": "491|451",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Evair -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 19:34:25"
+  },
+  {
+    "coordenadas": "431|407",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WarleyVN",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 19:30:36"
+  },
+  {
     "coordenadas": "551|189",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
