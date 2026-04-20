@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "739|308",
+    "proprietario_anterior": "1998",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shogun Justo Takeyama",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-20 03:48:18"
+  },
+  {
+    "coordenadas": "603|232",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bubs Furioso",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-20 03:47:39"
+  },
+  {
     "coordenadas": "420|485",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
