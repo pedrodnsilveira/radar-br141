@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "482|568",
+    "proprietario_anterior": "Froseastouspouzor",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chemical",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 10:13:50"
+  },
+  {
+    "coordenadas": "266|366",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hbm2703",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-20 10:11:14"
+  },
+  {
+    "coordenadas": "464|780",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Belryk",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-20 10:09:15"
+  },
+  {
     "coordenadas": "724|345",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
