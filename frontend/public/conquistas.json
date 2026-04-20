@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "197|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mastiga Vidro",
+    "tribo_nova": "ROMA",
+    "data_hora_conquista": "2026-04-20 19:54:00"
+  },
+  {
+    "coordenadas": "239|592",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lil Pump",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-20 19:53:15"
+  },
+  {
     "coordenadas": "389|426",
     "proprietario_anterior": "EaZyBazY",
     "tribo_anterior": "GALOS",
