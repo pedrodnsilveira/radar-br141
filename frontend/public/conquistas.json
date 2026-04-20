@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "605|447",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Iraki -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 08:25:24"
+  },
+  {
+    "coordenadas": "589|457",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 08:24:13"
+  },
+  {
+    "coordenadas": "635|339",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fernandez",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 08:23:54"
+  },
+  {
+    "coordenadas": "466|703",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-20 08:20:44"
+  },
+  {
     "coordenadas": "283|670",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
