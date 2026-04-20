@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "590|523",
+    "proprietario_anterior": "Samael",
+    "tribo_anterior": "LGDS",
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 12:34:56"
+  },
+  {
+    "coordenadas": "592|547",
+    "proprietario_anterior": "Mordet",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "Mordet",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-20 12:33:52"
+  },
+  {
     "coordenadas": "734|574",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
