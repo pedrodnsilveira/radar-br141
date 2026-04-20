@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "354|501",
+    "proprietario_anterior": "bolsonaro22",
+    "tribo_anterior": null,
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 14:47:15"
+  },
+  {
+    "coordenadas": "417|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 14:43:11"
+  },
+  {
+    "coordenadas": "495|188",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "bugre doido",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-20 14:41:32"
+  },
+  {
+    "coordenadas": "470|655",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 14:41:16"
+  },
+  {
+    "coordenadas": "499|460",
+    "proprietario_anterior": "FierceLeviathaN301",
+    "tribo_anterior": "WM",
+    "proprietario_novo": "Lucaotaliso",
+    "tribo_nova": "VAL 2",
+    "data_hora_conquista": "2026-04-20 14:40:25"
+  },
+  {
     "coordenadas": "519|414",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
