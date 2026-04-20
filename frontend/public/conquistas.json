@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "524|536",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "1234wemerson",
+    "tribo_nova": "PoRT",
+    "data_hora_conquista": "2026-04-20 07:55:32"
+  },
+  {
+    "coordenadas": "301|635",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TamborimDeOuro",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-20 07:54:40"
+  },
+  {
+    "coordenadas": "540|531",
+    "proprietario_anterior": "exersion",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 07:51:42"
+  },
+  {
+    "coordenadas": "502|508",
+    "proprietario_anterior": "augusto899",
+    "tribo_anterior": "MQ",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 07:50:00"
+  },
+  {
+    "coordenadas": "541|568",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 07:49:29"
+  },
+  {
+    "coordenadas": "360|528",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 07:49:09"
+  },
+  {
     "coordenadas": "426|492",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
