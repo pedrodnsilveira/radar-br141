@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "599|228",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Schaefer",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-20 09:15:19"
+  },
+  {
+    "coordenadas": "588|451",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 09:15:09"
+  },
+  {
+    "coordenadas": "523|541",
+    "proprietario_anterior": "*Winterfell*",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 09:11:31"
+  },
+  {
+    "coordenadas": "587|742",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": "PÂNICO",
+    "proprietario_novo": "anao cego",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-20 09:10:53"
+  },
+  {
+    "coordenadas": "781|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei Faxfarm",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-20 09:10:39"
+  },
+  {
+    "coordenadas": "578|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 09:10:24"
+  },
+  {
+    "coordenadas": "295|408",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "jonaschagasneto",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-20 09:10:15"
+  },
+  {
+    "coordenadas": "732|399",
+    "proprietario_anterior": "gordoperussi",
+    "tribo_anterior": "RG",
+    "proprietario_novo": "Vixi Moio",
+    "tribo_nova": "TRTN",
+    "data_hora_conquista": "2026-04-20 09:10:01"
+  },
+  {
     "coordenadas": "385|469",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
