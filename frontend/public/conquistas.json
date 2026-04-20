@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "549|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GotChuNowRX",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-19 23:32:56"
+  },
+  {
+    "coordenadas": "378|431",
+    "proprietario_anterior": "Batata Frita",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 23:32:24"
+  },
+  {
+    "coordenadas": "470|413",
+    "proprietario_anterior": "JonathanGouveia",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 23:32:08"
+  },
+  {
+    "coordenadas": "731|638",
+    "proprietario_anterior": "leocarmona",
+    "tribo_anterior": null,
+    "proprietario_novo": "almeida",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-19 23:31:45"
+  },
+  {
+    "coordenadas": "448|744",
+    "proprietario_anterior": "brufelipe",
+    "tribo_anterior": "O4F",
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 23:30:00"
+  },
+  {
+    "coordenadas": "283|671",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 23:28:07"
+  },
+  {
+    "coordenadas": "635|786",
+    "proprietario_anterior": "Grossa1",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "Enterprise",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-19 23:27:55"
+  },
+  {
     "coordenadas": "617|599",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
