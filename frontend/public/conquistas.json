@@ -1,5 +1,997 @@
 [
   {
+    "coordenadas": "522|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mateusiglesias",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 00:27:01"
+  },
+  {
+    "coordenadas": "596|368",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 00:23:59"
+  },
+  {
+    "coordenadas": "387|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 00:22:25"
+  },
+  {
+    "coordenadas": "492|193",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "bugre doido",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-20 00:22:13"
+  },
+  {
+    "coordenadas": "392|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shalum",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-20 00:22:10"
+  },
+  {
+    "coordenadas": "661|722",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cnogueira",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-20 00:21:54"
+  },
+  {
+    "coordenadas": "291|422",
+    "proprietario_anterior": "Saorim89",
+    "tribo_anterior": null,
+    "proprietario_novo": "BadMontenegro",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-20 00:14:56"
+  },
+  {
+    "coordenadas": "419|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 00:12:10"
+  },
+  {
+    "coordenadas": "347|560",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lord will",
+    "tribo_nova": "SCA",
+    "data_hora_conquista": "2026-04-20 00:10:11"
+  },
+  {
+    "coordenadas": "605|432",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 00:09:51"
+  },
+  {
+    "coordenadas": "574|517",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei fera?fera",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-20 00:04:09"
+  },
+  {
+    "coordenadas": "466|463",
+    "proprietario_anterior": "KADAA",
+    "tribo_anterior": "Xis",
+    "proprietario_novo": "George Bartolomeu",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-20 00:02:35"
+  },
+  {
+    "coordenadas": "451|621",
+    "proprietario_anterior": "Golden Show3r",
+    "tribo_anterior": "brasin",
+    "proprietario_novo": "jhonatahn2307",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-20 00:02:18"
+  },
+  {
+    "coordenadas": "629|457",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 00:01:18"
+  },
+  {
+    "coordenadas": "235|591",
+    "proprietario_anterior": "morais.martins",
+    "tribo_anterior": "AUS",
+    "proprietario_novo": "Lil Pump",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-20 00:00:21"
+  },
+  {
+    "coordenadas": "367|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CORINGA PLAY",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-19 23:56:48"
+  },
+  {
+    "coordenadas": "183|482",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mergenmm",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 23:55:04"
+  },
+  {
+    "coordenadas": "644|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dionatammattos",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-19 23:53:25"
+  },
+  {
+    "coordenadas": "546|465",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zanguiefe",
+    "tribo_nova": "CASA",
+    "data_hora_conquista": "2026-04-19 23:51:55"
+  },
+  {
+    "coordenadas": "549|626",
+    "proprietario_anterior": "Veditapa",
+    "tribo_anterior": "[M]",
+    "proprietario_novo": "iMoon",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 23:51:37"
+  },
+  {
+    "coordenadas": "481|618",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Capiyvara",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 23:45:11"
+  },
+  {
+    "coordenadas": "632|551",
+    "proprietario_anterior": "Ricardo1993",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bo.0B x3",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-19 23:42:08"
+  },
+  {
+    "coordenadas": "369|643",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nagato.Uzumaki",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-19 23:40:01"
+  },
+  {
+    "coordenadas": "549|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GotChuNowRX",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-19 23:32:56"
+  },
+  {
+    "coordenadas": "378|431",
+    "proprietario_anterior": "Batata Frita",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 23:32:24"
+  },
+  {
+    "coordenadas": "470|413",
+    "proprietario_anterior": "JonathanGouveia",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 23:32:08"
+  },
+  {
+    "coordenadas": "731|638",
+    "proprietario_anterior": "leocarmona",
+    "tribo_anterior": null,
+    "proprietario_novo": "almeida",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-19 23:31:45"
+  },
+  {
+    "coordenadas": "448|744",
+    "proprietario_anterior": "brufelipe",
+    "tribo_anterior": "O4F",
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 23:30:00"
+  },
+  {
+    "coordenadas": "283|671",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 23:28:07"
+  },
+  {
+    "coordenadas": "635|786",
+    "proprietario_anterior": "Grossa1",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "Enterprise",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-19 23:27:55"
+  },
+  {
+    "coordenadas": "617|599",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "gustavofeichas",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-19 23:24:41"
+  },
+  {
+    "coordenadas": "558|701",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kelverick",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 23:22:07"
+  },
+  {
+    "coordenadas": "615|423",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 23:21:38"
+  },
+  {
+    "coordenadas": "403|245",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferpa17",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-19 23:19:34"
+  },
+  {
+    "coordenadas": "563|648",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 23:19:30"
+  },
+  {
+    "coordenadas": "349|339",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tibajan",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-19 23:18:01"
+  },
+  {
+    "coordenadas": "454|381",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 23:16:16"
+  },
+  {
+    "coordenadas": "650|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "glorious77",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-19 23:10:42"
+  },
+  {
+    "coordenadas": "721|471",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 23:10:34"
+  },
+  {
+    "coordenadas": "373|428",
+    "proprietario_anterior": "Senhor Polegar",
+    "tribo_anterior": "GALOS",
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 23:04:43"
+  },
+  {
+    "coordenadas": "327|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Movith",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 23:04:35"
+  },
+  {
+    "coordenadas": "554|263",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GILDO PLASTICO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-19 23:01:04"
+  },
+  {
+    "coordenadas": "573|473",
+    "proprietario_anterior": "Striliovraa",
+    "tribo_anterior": null,
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 23:00:34"
+  },
+  {
+    "coordenadas": "543|551",
+    "proprietario_anterior": "Júlio Cezar",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "gilsouza10",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:58:28"
+  },
+  {
+    "coordenadas": "387|377",
+    "proprietario_anterior": "OakWarden",
+    "tribo_anterior": null,
+    "proprietario_novo": "j.emerson",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-19 22:54:55"
+  },
+  {
+    "coordenadas": "465|541",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shhz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:51:43"
+  },
+  {
+    "coordenadas": "484|567",
+    "proprietario_anterior": "gorlokgurga",
+    "tribo_anterior": "PFMVL",
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:50:39"
+  },
+  {
+    "coordenadas": "561|593",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TOPIRAMATO",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 22:50:12"
+  },
+  {
+    "coordenadas": "709|629",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CarunchiGAMER",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-19 22:49:17"
+  },
+  {
+    "coordenadas": "517|439",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:47:09"
+  },
+  {
+    "coordenadas": "448|463",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pereiramarcelo94",
+    "tribo_nova": "A.K",
+    "data_hora_conquista": "2026-04-19 22:45:09"
+  },
+  {
+    "coordenadas": "495|463",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:41:35"
+  },
+  {
+    "coordenadas": "393|384",
+    "proprietario_anterior": "barbary.",
+    "tribo_anterior": null,
+    "proprietario_novo": "draxler",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 22:40:42"
+  },
+  {
+    "coordenadas": "561|437",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:38:51"
+  },
+  {
+    "coordenadas": "494|423",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:34:59"
+  },
+  {
+    "coordenadas": "251|405",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "diegofagundes",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-19 22:34:28"
+  },
+  {
+    "coordenadas": "779|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fifi88",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-19 22:28:05"
+  },
+  {
+    "coordenadas": "510|401",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:26:55"
+  },
+  {
+    "coordenadas": "518|438",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:25:40"
+  },
+  {
+    "coordenadas": "556|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 22:24:49"
+  },
+  {
+    "coordenadas": "492|834",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Alonsito",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-19 22:24:49"
+  },
+  {
+    "coordenadas": "540|531",
+    "proprietario_anterior": "exersion",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:21:46"
+  },
+  {
+    "coordenadas": "608|418",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 22:21:15"
+  },
+  {
+    "coordenadas": "532|590",
+    "proprietario_anterior": "grimcyborg658",
+    "tribo_anterior": null,
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:20:36"
+  },
+  {
+    "coordenadas": "533|562",
+    "proprietario_anterior": "Frediakrouar",
+    "tribo_anterior": null,
+    "proprietario_novo": "-AnaoBolado-",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:18:17"
+  },
+  {
+    "coordenadas": "377|433",
+    "proprietario_anterior": "Anturio",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 22:18:17"
+  },
+  {
+    "coordenadas": "419|529",
+    "proprietario_anterior": "Lesoin",
+    "tribo_anterior": "TNTA",
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 22:18:11"
+  },
+  {
+    "coordenadas": "371|426",
+    "proprietario_anterior": "Crise",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 22:13:40"
+  },
+  {
+    "coordenadas": "387|529",
+    "proprietario_anterior": "Fandangos100",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "Fandangos100",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 22:12:43"
+  },
+  {
+    "coordenadas": "494|641",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "design.inthedark",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:12:06"
+  },
+  {
+    "coordenadas": "391|526",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 22:07:22"
+  },
+  {
+    "coordenadas": "608|251",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "zikadopantano",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-19 22:04:49"
+  },
+  {
+    "coordenadas": "534|530",
+    "proprietario_anterior": "PacifistaSacana",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 22:04:07"
+  },
+  {
+    "coordenadas": "531|629",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 22:03:44"
+  },
+  {
+    "coordenadas": "576|689",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bear",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-19 22:00:03"
+  },
+  {
+    "coordenadas": "524|527",
+    "proprietario_anterior": "- Niko",
+    "tribo_anterior": "GG Ez",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:57:23"
+  },
+  {
+    "coordenadas": "564|614",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 21:55:51"
+  },
+  {
+    "coordenadas": "415|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 21:54:48"
+  },
+  {
+    "coordenadas": "246|666",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 21:54:41"
+  },
+  {
+    "coordenadas": "613|429",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 21:54:27"
+  },
+  {
+    "coordenadas": "491|835",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Alonsito",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-19 21:46:28"
+  },
+  {
+    "coordenadas": "419|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 21:45:04"
+  },
+  {
+    "coordenadas": "440|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Jax Teller -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-19 21:44:05"
+  },
+  {
+    "coordenadas": "510|402",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 21:42:50"
+  },
+  {
+    "coordenadas": "379|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mr.Unamed",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 21:38:09"
+  },
+  {
+    "coordenadas": "786|649",
+    "proprietario_anterior": "vitor2017",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mazzera.",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-19 21:34:59"
+  },
+  {
+    "coordenadas": "564|536",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TROMPY67",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-19 21:30:58"
+  },
+  {
+    "coordenadas": "574|805",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DouglasLopes",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-19 21:24:20"
+  },
+  {
+    "coordenadas": "583|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "COSTA BRANCA",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 21:22:37"
+  },
+  {
+    "coordenadas": "398|237",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Soyuz",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-19 21:21:45"
+  },
+  {
+    "coordenadas": "399|689",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chilliminter",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 21:21:04"
+  },
+  {
+    "coordenadas": "615|245",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Legendre",
+    "tribo_nova": "V D T",
+    "data_hora_conquista": "2026-04-19 21:20:48"
+  },
+  {
+    "coordenadas": "560|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 21:20:11"
+  },
+  {
+    "coordenadas": "491|549",
+    "proprietario_anterior": "saskuchira",
+    "tribo_anterior": null,
+    "proprietario_novo": "jacsonn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:19:28"
+  },
+  {
+    "coordenadas": "499|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:11:27"
+  },
+  {
+    "coordenadas": "525|568",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:10:01"
+  },
+  {
+    "coordenadas": "432|444",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 21:09:45"
+  },
+  {
+    "coordenadas": "300|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-19 21:04:16"
+  },
+  {
+    "coordenadas": "550|186",
+    "proprietario_anterior": "Richard ígnacio",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiagoGTA",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-19 21:03:28"
+  },
+  {
+    "coordenadas": "174|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "alexnosse",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 21:03:12"
+  },
+  {
+    "coordenadas": "464|573",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:03:05"
+  },
+  {
+    "coordenadas": "442|617",
+    "proprietario_anterior": "barbosatrilha",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carluz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 21:01:21"
+  },
+  {
+    "coordenadas": "523|600",
+    "proprietario_anterior": "sgtmorte13",
+    "tribo_anterior": "BOYS",
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 20:59:49"
+  },
+  {
+    "coordenadas": "526|683",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "h4nzo",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-19 20:57:47"
+  },
+  {
+    "coordenadas": "787|525",
+    "proprietario_anterior": "Malek",
+    "tribo_anterior": null,
+    "proprietario_novo": "Madzay",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-19 20:55:28"
+  },
+  {
+    "coordenadas": "521|452",
+    "proprietario_anterior": "Elmiro",
+    "tribo_anterior": null,
+    "proprietario_novo": "realMFG",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-19 20:50:35"
+  },
+  {
+    "coordenadas": "612|422",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 20:42:27"
+  },
+  {
+    "coordenadas": "779|631",
+    "proprietario_anterior": "Sgtpaes",
+    "tribo_anterior": null,
+    "proprietario_novo": "A P O S E N T A D O S",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-19 20:37:15"
+  },
+  {
+    "coordenadas": "649|725",
+    "proprietario_anterior": "Jean132",
+    "tribo_anterior": null,
+    "proprietario_novo": "Tomás mester",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-19 20:36:40"
+  },
+  {
+    "coordenadas": "585|610",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-19 20:27:57"
+  },
+  {
+    "coordenadas": "380|735",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IgRmS",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-19 20:26:39"
+  },
+  {
+    "coordenadas": "754|510",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Uhtn",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-19 20:26:29"
+  },
+  {
+    "coordenadas": "196|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "C. Rafa 17",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-19 20:24:41"
+  },
+  {
+    "coordenadas": "489|293",
+    "proprietario_anterior": "brilliantharbinger64",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Rustic Hall",
+    "tribo_nova": "[LSE]",
+    "data_hora_conquista": "2026-04-19 20:18:44"
+  },
+  {
+    "coordenadas": "537|532",
+    "proprietario_anterior": "xXhudsonXx",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-19 20:12:58"
+  },
+  {
+    "coordenadas": "607|425",
+    "proprietario_anterior": "S E M A L M A S",
+    "tribo_anterior": "ENEL",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 20:12:35"
+  },
+  {
+    "coordenadas": "450|808",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sebaschenkowar",
+    "tribo_nova": "HtR",
+    "data_hora_conquista": "2026-04-19 20:06:57"
+  },
+  {
+    "coordenadas": "550|479",
+    "proprietario_anterior": "zaifovias",
+    "tribo_anterior": null,
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 20:00:32"
+  },
+  {
+    "coordenadas": "433|291",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-19 19:56:09"
+  },
+  {
+    "coordenadas": "609|455",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 19:56:04"
+  },
+  {
+    "coordenadas": "636|513",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-19 19:55:58"
+  },
+  {
+    "coordenadas": "604|345",
+    "proprietario_anterior": "DARK OF TREVAS",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "gustavo .cn",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-19 19:52:41"
+  },
+  {
+    "coordenadas": "588|742",
+    "proprietario_anterior": "blacksands",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sennin",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-19 19:52:02"
+  },
+  {
+    "coordenadas": "572|805",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DouglasLopes",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-19 19:51:47"
+  },
+  {
     "coordenadas": "298|496",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
