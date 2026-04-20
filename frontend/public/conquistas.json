@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "715|718",
+    "proprietario_anterior": "clutteredb",
+    "tribo_anterior": "- BC",
+    "proprietario_novo": "Lendário DELARUA",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-20 11:16:00"
+  },
+  {
+    "coordenadas": "402|543",
+    "proprietario_anterior": "Valdoveu",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "Valdoveu",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-20 11:15:04"
+  },
+  {
+    "coordenadas": "402|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Valdoveu",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-20 11:14:54"
+  },
+  {
+    "coordenadas": "490|379",
+    "proprietario_anterior": "Zaka Zika",
+    "tribo_anterior": null,
+    "proprietario_novo": "felipepretinho",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-20 11:14:21"
+  },
+  {
+    "coordenadas": "462|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 11:11:52"
+  },
+  {
+    "coordenadas": "388|384",
+    "proprietario_anterior": "HectoplasmA",
+    "tribo_anterior": "GALOS",
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 11:11:33"
+  },
+  {
+    "coordenadas": "571|472",
+    "proprietario_anterior": "Karma Akabane.",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 11:10:11"
+  },
+  {
+    "coordenadas": "567|372",
+    "proprietario_anterior": "particulartri",
+    "tribo_anterior": "Pirata",
+    "proprietario_novo": "picamiolhos",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 11:08:28"
+  },
+  {
     "coordenadas": "714|244",
     "proprietario_anterior": "pedrobitt1995",
     "tribo_anterior": null,
