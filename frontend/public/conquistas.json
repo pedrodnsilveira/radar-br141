@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "282|673",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 06:27:15"
+  },
+  {
+    "coordenadas": "373|434",
+    "proprietario_anterior": "Contabo",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 06:20:18"
+  },
+  {
     "coordenadas": "856|452",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
