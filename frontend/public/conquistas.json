@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "381|307",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "sandubão1",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-20 07:14:54"
+  },
+  {
+    "coordenadas": "330|454",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Campbell",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-20 07:07:27"
+  },
+  {
     "coordenadas": "416|484",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
