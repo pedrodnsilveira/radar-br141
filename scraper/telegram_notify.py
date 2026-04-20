@@ -62,12 +62,13 @@ def notificar_conquistas(lista_novos):
         if not k:
             continue
 
-        cabecalho = "Nova conquista detectada!"
+        cabecalho = ""
 
         if eh_tribo_alerta(tribo_nova):
-            cabecalho = "🚨 ATENÇÃO! Nova conquista detectada! 🚨"
+            cabecalho = "🚨 ATENÇÃO 🚨"
 
         msg = f"""{cabecalho}
+Nova conquista detectada!
 
 🗺 Continente: {k}
 📍 Coordenadas: {coord}
