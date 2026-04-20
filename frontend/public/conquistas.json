@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "420|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 03:35:30"
+  },
+  {
+    "coordenadas": "530|483",
+    "proprietario_anterior": "Napogen",
+    "tribo_anterior": "ANY",
+    "proprietario_novo": "swylle7",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 03:34:51"
+  },
+  {
+    "coordenadas": "391|542",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 03:28:35"
+  },
+  {
     "coordenadas": "520|702",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
