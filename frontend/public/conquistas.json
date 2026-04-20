@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "640|262",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amnesus",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 05:53:18"
+  },
+  {
+    "coordenadas": "416|342",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 05:51:05"
+  },
+  {
+    "coordenadas": "565|651",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 05:49:16"
+  },
+  {
+    "coordenadas": "439|615",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NBL Allan",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 05:47:33"
+  },
+  {
     "coordenadas": "543|581",
     "proprietario_anterior": "mrgugu",
     "tribo_anterior": "FN",
