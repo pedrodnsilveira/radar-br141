@@ -1,5 +1,101 @@
 [
   {
+    "coordenadas": "601|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "COSTA BRANCA",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 18:24:48"
+  },
+  {
+    "coordenadas": "376|780",
+    "proprietario_anterior": "Madsona",
+    "tribo_anterior": "NoJob",
+    "proprietario_novo": "Guui97",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-20 18:22:00"
+  },
+  {
+    "coordenadas": "352|786",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "T3ratus",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-20 18:21:46"
+  },
+  {
+    "coordenadas": "520|515",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 18:21:36"
+  },
+  {
+    "coordenadas": "471|597",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "maykbn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 18:20:55"
+  },
+  {
+    "coordenadas": "595|532",
+    "proprietario_anterior": "Samael",
+    "tribo_anterior": "LGDS",
+    "proprietario_novo": "- RiPaDo By GodCaveira -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-20 18:20:18"
+  },
+  {
+    "coordenadas": "590|471",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "anderson28",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-20 18:19:50"
+  },
+  {
+    "coordenadas": "343|264",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "grindiel",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-20 18:18:18"
+  },
+  {
+    "coordenadas": "470|590",
+    "proprietario_anterior": "unofficia",
+    "tribo_anterior": "MTD",
+    "proprietario_novo": "Pistoleiro",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 18:17:44"
+  },
+  {
+    "coordenadas": "433|438",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 18:16:00"
+  },
+  {
+    "coordenadas": "559|594",
+    "proprietario_anterior": "NOBLEBERSERKER",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fabio67",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-20 18:15:52"
+  },
+  {
+    "coordenadas": "433|444",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 18:15:27"
+  },
+  {
     "coordenadas": "420|487",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
