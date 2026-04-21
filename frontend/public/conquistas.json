@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "517|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 14:14:51"
+  },
+  {
+    "coordenadas": "704|233",
+    "proprietario_anterior": "lznnn",
+    "tribo_anterior": null,
+    "proprietario_novo": "TUGAKILER",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 14:14:09"
+  },
+  {
+    "coordenadas": "525|443",
+    "proprietario_anterior": "Lord Oimbativel",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 14:13:42"
+  },
+  {
+    "coordenadas": "393|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 14:11:44"
+  },
+  {
+    "coordenadas": "492|429",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 14:08:59"
+  },
+  {
+    "coordenadas": "390|529",
+    "proprietario_anterior": "SrGaladriel",
+    "tribo_anterior": "AD",
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 14:08:47"
+  },
+  {
     "coordenadas": "416|475",
     "proprietario_anterior": "MayRushworth",
     "tribo_anterior": "FN!",
