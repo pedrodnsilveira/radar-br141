@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "494|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 20:55:19"
+  },
+  {
+    "coordenadas": "673|229",
+    "proprietario_anterior": "viceroy",
+    "tribo_anterior": null,
+    "proprietario_novo": "...Dark...",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 20:54:50"
+  },
+  {
+    "coordenadas": "448|621",
+    "proprietario_anterior": "Miithow",
+    "tribo_anterior": null,
+    "proprietario_novo": "jadson1",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 20:53:19"
+  },
+  {
+    "coordenadas": "494|617",
+    "proprietario_anterior": "Chemical",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "Tia da Merenda",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 20:50:40"
+  },
+  {
+    "coordenadas": "550|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 20:50:24"
+  },
+  {
     "coordenadas": "586|742",
     "proprietario_anterior": "Sennin",
     "tribo_anterior": "PÂNIC0",
