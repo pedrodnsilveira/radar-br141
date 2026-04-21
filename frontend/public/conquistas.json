@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "586|742",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "anao cego",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 20:38:46"
+  },
+  {
+    "coordenadas": "524|484",
+    "proprietario_anterior": "EureK",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 20:38:16"
+  },
+  {
     "coordenadas": "556|258",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
