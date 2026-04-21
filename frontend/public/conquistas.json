@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "472|531",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shhz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 09:47:19"
+  },
+  {
+    "coordenadas": "404|308",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 09:45:14"
+  },
+  {
+    "coordenadas": "623|406",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-21 09:43:03"
+  },
+  {
+    "coordenadas": "513|642",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 09:41:54"
+  },
+  {
+    "coordenadas": "308|670",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bomcar",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 09:41:37"
+  },
+  {
+    "coordenadas": "461|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PedroGarcia17",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 09:41:31"
+  },
+  {
+    "coordenadas": "659|611",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "F10carvalho",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 09:40:02"
+  },
+  {
     "coordenadas": "377|483",
     "proprietario_anterior": "zorosolatudo",
     "tribo_anterior": null,
