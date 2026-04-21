@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "266|365",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hbm2703",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 02:42:43"
+  },
+  {
+    "coordenadas": "610|549",
+    "proprietario_anterior": "AbyssalJutsU",
+    "tribo_anterior": null,
+    "proprietario_novo": "parabellum",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-21 02:41:57"
+  },
+  {
+    "coordenadas": "609|269",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fepitt",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 02:39:15"
+  },
+  {
+    "coordenadas": "462|633",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 02:37:13"
+  },
+  {
+    "coordenadas": "407|661",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Black Horse",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 02:36:51"
+  },
+  {
     "coordenadas": "392|542",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
