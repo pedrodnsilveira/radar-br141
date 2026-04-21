@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "555|378",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 05:54:17"
+  },
+  {
+    "coordenadas": "380|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SIDarta GODtama",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 05:54:11"
+  },
+  {
+    "coordenadas": "512|364",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 05:47:22"
+  },
+  {
     "coordenadas": "449|512",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
