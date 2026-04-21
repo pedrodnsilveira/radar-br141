@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "579|417",
+    "proprietario_anterior": "PREDADOR",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zandorfire",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 06:34:48"
+  },
+  {
+    "coordenadas": "250|681",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 06:33:31"
+  },
+  {
+    "coordenadas": "643|736",
+    "proprietario_anterior": "Jean132",
+    "tribo_anterior": null,
+    "proprietario_novo": "Tomás mester",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 06:28:06"
+  },
+  {
     "coordenadas": "490|524",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
