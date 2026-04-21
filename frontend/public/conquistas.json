@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "327|584",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-20 22:05:47"
+  },
+  {
+    "coordenadas": "641|511",
+    "proprietario_anterior": "Malenia",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-20 22:03:04"
+  },
+  {
+    "coordenadas": "659|465",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "AgentedoKaos",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-20 22:01:43"
+  },
+  {
+    "coordenadas": "503|481",
+    "proprietario_anterior": "Bumer",
+    "tribo_anterior": "D.G.",
+    "proprietario_novo": "wendley7",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-20 22:01:08"
+  },
+  {
+    "coordenadas": "442|514",
+    "proprietario_anterior": "painnoobgames",
+    "tribo_anterior": "1Coca",
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 22:00:57"
+  },
+  {
     "coordenadas": "629|549",
     "proprietario_anterior": "Fenicios e Hebreus",
     "tribo_anterior": null,
