@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "597|426",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Iraki -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 08:12:54"
+  },
+  {
+    "coordenadas": "491|622",
+    "proprietario_anterior": "Olympus",
+    "tribo_anterior": null,
+    "proprietario_novo": "design.inthedark",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 08:12:09"
+  },
+  {
+    "coordenadas": "612|550",
+    "proprietario_anterior": "XiluxeiPrime",
+    "tribo_anterior": null,
+    "proprietario_novo": "Yandurlacher",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 08:11:15"
+  },
+  {
+    "coordenadas": "450|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 08:09:27"
+  },
+  {
+    "coordenadas": "511|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 08:07:25"
+  },
+  {
     "coordenadas": "505|457",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
