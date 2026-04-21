@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "278|699",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MATEI MAIS UM",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 01:47:50"
+  },
+  {
+    "coordenadas": "488|435",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 01:43:39"
+  },
+  {
+    "coordenadas": "372|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nelsonpalanque",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 01:41:30"
+  },
+  {
+    "coordenadas": "598|294",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rdnsilv9",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 01:39:57"
+  },
+  {
+    "coordenadas": "538|473",
+    "proprietario_anterior": "Cyavuvi",
+    "tribo_anterior": "ANY",
+    "proprietario_novo": "swylle7",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 01:39:44"
+  },
+  {
     "coordenadas": "526|449",
     "proprietario_anterior": "realMFG",
     "tribo_anterior": ".RIP.",
