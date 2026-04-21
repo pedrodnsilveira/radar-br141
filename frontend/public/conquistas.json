@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "490|438",
+    "proprietario_anterior": "marcos ferreira girao",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "LpFrost",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 04:37:14"
+  },
+  {
+    "coordenadas": "380|490",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SIDarta GODtama",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 04:37:02"
+  },
+  {
+    "coordenadas": "522|355",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 04:32:44"
+  },
+  {
+    "coordenadas": "371|781",
+    "proprietario_anterior": "Madsona",
+    "tribo_anterior": "NoJob",
+    "proprietario_novo": "Guui97",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-21 04:32:30"
+  },
+  {
     "coordenadas": "630|326",
     "proprietario_anterior": "kittora",
     "tribo_anterior": null,
