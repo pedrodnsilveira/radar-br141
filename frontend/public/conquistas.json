@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "479|401",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 22:47:40"
+  },
+  {
+    "coordenadas": "622|272",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fepitt",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-20 22:47:27"
+  },
+  {
+    "coordenadas": "377|423",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "murim05",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-20 22:46:43"
+  },
+  {
+    "coordenadas": "298|722",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wilcla",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-20 22:46:26"
+  },
+  {
+    "coordenadas": "295|410",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "jonaschagasneto",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-20 22:44:19"
+  },
+  {
+    "coordenadas": "497|508",
+    "proprietario_anterior": "augusto899",
+    "tribo_anterior": "MQ",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-20 22:42:16"
+  },
+  {
+    "coordenadas": "672|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei noronha",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-20 22:41:44"
+  },
+  {
     "coordenadas": "670|692",
     "proprietario_anterior": "renatox",
     "tribo_anterior": null,
