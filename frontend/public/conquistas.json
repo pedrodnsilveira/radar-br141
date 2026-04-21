@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "491|433",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 19:19:04"
+  },
+  {
+    "coordenadas": "708|430",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Themapa",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-21 19:14:38"
+  },
+  {
+    "coordenadas": "472|575",
+    "proprietario_anterior": "Ronaldo09",
+    "tribo_anterior": null,
+    "proprietario_novo": "NBL Allan",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 19:14:02"
+  },
+  {
+    "coordenadas": "730|400",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Vixi Moio",
+    "tribo_nova": "TRTN",
+    "data_hora_conquista": "2026-04-21 19:10:14"
+  },
+  {
+    "coordenadas": "444|669",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 19:10:00"
+  },
+  {
     "coordenadas": "569|581",
     "proprietario_anterior": "frank jackson",
     "tribo_anterior": null,
