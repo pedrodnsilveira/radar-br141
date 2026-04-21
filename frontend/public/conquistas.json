@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "458|376",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 06:45:01"
+  },
+  {
+    "coordenadas": "434|332",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mathtocera",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 06:44:20"
+  },
+  {
+    "coordenadas": "383|551",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 06:40:28"
+  },
+  {
     "coordenadas": "579|417",
     "proprietario_anterior": "PREDADOR",
     "tribo_anterior": null,
