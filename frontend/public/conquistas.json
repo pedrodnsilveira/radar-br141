@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "263|574",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cinthiab",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 02:56:01"
+  },
+  {
+    "coordenadas": "401|581",
+    "proprietario_anterior": "RaidenPT",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Cabra da Peste",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 02:52:21"
+  },
+  {
+    "coordenadas": "443|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wesleyv6",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 02:51:35"
+  },
+  {
+    "coordenadas": "449|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "paulohque",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 02:48:37"
+  },
+  {
     "coordenadas": "266|365",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
