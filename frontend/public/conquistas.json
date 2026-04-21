@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "547|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Obelixbr",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-21 12:18:53"
+  },
+  {
+    "coordenadas": "562|608",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 12:17:51"
+  },
+  {
+    "coordenadas": "591|455",
+    "proprietario_anterior": "- Asta -",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 12:17:33"
+  },
+  {
+    "coordenadas": "262|266",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mmch",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-21 12:15:32"
+  },
+  {
+    "coordenadas": "177|526",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Britx2000",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-21 12:15:24"
+  },
+  {
+    "coordenadas": "225|590",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Macak Al Bino",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 12:12:10"
+  },
+  {
+    "coordenadas": "539|812",
+    "proprietario_anterior": "comandoromulo",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rick.Iza",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-21 12:10:35"
+  },
+  {
     "coordenadas": "495|394",
     "proprietario_anterior": "FierceWarden362",
     "tribo_anterior": null,
