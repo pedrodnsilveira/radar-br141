@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "375|549",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rambooloko",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-21 14:38:07"
+  },
+  {
+    "coordenadas": "540|347",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mimilitao",
+    "tribo_nova": "LOST",
+    "data_hora_conquista": "2026-04-21 14:38:05"
+  },
+  {
+    "coordenadas": "494|617",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chemical",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 14:37:10"
+  },
+  {
+    "coordenadas": "589|462",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 14:32:53"
+  },
+  {
+    "coordenadas": "367|461",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nelsonpalanque",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 14:31:47"
+  },
+  {
+    "coordenadas": "382|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nelsonpalanque",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 14:31:32"
+  },
+  {
+    "coordenadas": "525|536",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nebulosa Fênix",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 14:31:14"
+  },
+  {
     "coordenadas": "520|407",
     "proprietario_anterior": "Chuva",
     "tribo_anterior": ".RIP.",
