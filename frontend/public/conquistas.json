@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "710|346",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ipiau",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 00:11:40"
+  },
+  {
+    "coordenadas": "546|501",
+    "proprietario_anterior": "joaogustavo",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 00:10:22"
+  },
+  {
+    "coordenadas": "546|501",
+    "proprietario_anterior": "marcola120",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 00:10:20"
+  },
+  {
+    "coordenadas": "678|507",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "csjran",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 00:08:56"
+  },
+  {
+    "coordenadas": "398|685",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Gatinho dodói",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 00:07:42"
+  },
+  {
     "coordenadas": "638|527",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
