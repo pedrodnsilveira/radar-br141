@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "709|365",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "janiosilva",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 16:05:19"
+  },
+  {
+    "coordenadas": "408|307",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 16:01:39"
+  },
+  {
+    "coordenadas": "610|548",
+    "proprietario_anterior": "Amadeu Gonçalves",
+    "tribo_anterior": null,
+    "proprietario_novo": "parabellum",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-21 15:58:13"
+  },
+  {
+    "coordenadas": "388|441",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KRAKATU",
+    "tribo_nova": "A.K",
+    "data_hora_conquista": "2026-04-21 15:57:24"
+  },
+  {
+    "coordenadas": "534|369",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 15:57:21"
+  },
+  {
     "coordenadas": "284|679",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
