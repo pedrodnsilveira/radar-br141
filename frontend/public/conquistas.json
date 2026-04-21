@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "506|650",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DUDYss",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 07:48:37"
+  },
+  {
+    "coordenadas": "191|652",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jmcs10",
+    "tribo_nova": "ROMA",
+    "data_hora_conquista": "2026-04-21 07:46:59"
+  },
+  {
+    "coordenadas": "653|202",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hdominiak",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 07:45:37"
+  },
+  {
     "coordenadas": "430|384",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
