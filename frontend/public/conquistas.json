@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "574|810",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DouglasLopes",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-21 18:48:25"
+  },
+  {
+    "coordenadas": "401|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "antonio98",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 18:38:55"
+  },
+  {
     "coordenadas": "762|378",
     "proprietario_anterior": "Casaboa",
     "tribo_anterior": "PCT",
