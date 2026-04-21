@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "758|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Uhtn",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-21 15:25:04"
+  },
+  {
+    "coordenadas": "686|243",
+    "proprietario_anterior": "Lordfrango",
+    "tribo_anterior": null,
+    "proprietario_novo": "NinjaGaji",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-21 15:24:54"
+  },
+  {
+    "coordenadas": "453|568",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Noke Destroyer",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 15:24:35"
+  },
+  {
+    "coordenadas": "333|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mestredaguerra07",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-21 15:23:02"
+  },
+  {
+    "coordenadas": "601|384",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBrasil",
+    "tribo_nova": "CASA",
+    "data_hora_conquista": "2026-04-21 15:21:50"
+  },
+  {
+    "coordenadas": "400|240",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mdorigattijr",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-21 15:20:45"
+  },
+  {
+    "coordenadas": "464|694",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 15:20:25"
+  },
+  {
+    "coordenadas": "493|509",
+    "proprietario_anterior": "864175",
+    "tribo_anterior": "MQ",
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 15:18:28"
+  },
+  {
+    "coordenadas": "545|378",
+    "proprietario_anterior": "Sir.Chini",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 15:17:04"
+  },
+  {
+    "coordenadas": "545|378",
+    "proprietario_anterior": "rodolfo",
+    "tribo_anterior": "brasin",
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 15:17:03"
+  },
+  {
     "coordenadas": "592|533",
     "proprietario_anterior": "Samael",
     "tribo_anterior": "LGDS",
