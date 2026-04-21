@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "624|330",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "brunoolcm",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-21 21:18:25"
+  },
+  {
+    "coordenadas": "535|187",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "paladinomascarado",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-21 21:17:43"
+  },
+  {
+    "coordenadas": "245|403",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Andersonmasc",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 21:15:24"
+  },
+  {
+    "coordenadas": "521|408",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 21:11:54"
+  },
+  {
+    "coordenadas": "182|343",
+    "proprietario_anterior": "Caralfeba",
+    "tribo_anterior": "T_k",
+    "proprietario_novo": "Balao Suspeito",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 21:11:06"
+  },
+  {
+    "coordenadas": "569|825",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Manocvel",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-21 21:10:42"
+  },
+  {
+    "coordenadas": "573|825",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Manocvel",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-21 21:10:23"
+  },
+  {
+    "coordenadas": "479|525",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Celso Lobo",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 21:09:14"
+  },
+  {
     "coordenadas": "465|485",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
