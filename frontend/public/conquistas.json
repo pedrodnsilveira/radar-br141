@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "499|672",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Roeder07",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 16:58:35"
+  },
+  {
+    "coordenadas": "543|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 16:57:56"
+  },
+  {
+    "coordenadas": "610|427",
+    "proprietario_anterior": "atesser",
+    "tribo_anterior": "CASA",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 16:55:44"
+  },
+  {
+    "coordenadas": "556|617",
+    "proprietario_anterior": "Zeca Urubu",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "The Arrow",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 16:55:26"
+  },
+  {
+    "coordenadas": "405|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shalum",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 16:55:02"
+  },
+  {
+    "coordenadas": "513|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 16:53:45"
+  },
+  {
+    "coordenadas": "513|367",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 16:52:10"
+  },
+  {
+    "coordenadas": "408|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 16:51:28"
+  },
+  {
+    "coordenadas": "740|716",
+    "proprietario_anterior": "NiosniaX",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lendário DELARUA",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 16:51:12"
+  },
+  {
     "coordenadas": "448|508",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
