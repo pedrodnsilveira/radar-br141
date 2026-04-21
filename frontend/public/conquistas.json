@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "489|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 17:18:22"
+  },
+  {
+    "coordenadas": "347|328",
+    "proprietario_anterior": "mistydemon919",
+    "tribo_anterior": null,
+    "proprietario_novo": "Vinicius.com",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-21 17:15:14"
+  },
+  {
+    "coordenadas": "587|741",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "anao cego",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 17:13:53"
+  },
+  {
     "coordenadas": "517|495",
     "proprietario_anterior": "Leroy Schwartzer",
     "tribo_anterior": null,
