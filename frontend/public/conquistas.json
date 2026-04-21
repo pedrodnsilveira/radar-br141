@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "593|557",
+    "proprietario_anterior": "atiR C l a r k",
+    "tribo_anterior": null,
+    "proprietario_novo": "ElJonjon",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 13:14:13"
+  },
+  {
+    "coordenadas": "228|683",
+    "proprietario_anterior": "glucas01",
+    "tribo_anterior": "SPARTA",
+    "proprietario_novo": "tekratos",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 13:12:18"
+  },
+  {
+    "coordenadas": "530|806",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yanet",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-21 13:08:42"
+  },
+  {
     "coordenadas": "398|535",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
