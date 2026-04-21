@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "297|403",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "andre8912",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-21 12:38:25"
+  },
+  {
+    "coordenadas": "340|310",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 12:37:16"
+  },
+  {
+    "coordenadas": "495|500",
+    "proprietario_anterior": "Renkzim",
+    "tribo_anterior": "MQ",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 12:36:32"
+  },
+  {
+    "coordenadas": "466|168",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yspoky",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-21 12:35:11"
+  },
+  {
+    "coordenadas": "323|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 12:30:32"
+  },
+  {
     "coordenadas": "627|434",
     "proprietario_anterior": "bbnm",
     "tribo_anterior": null,
