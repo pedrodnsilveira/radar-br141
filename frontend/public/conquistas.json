@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "486|427",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 19:45:07"
+  },
+  {
+    "coordenadas": "549|561",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 19:44:59"
+  },
+  {
+    "coordenadas": "491|514",
+    "proprietario_anterior": "Priorw3",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 19:44:41"
+  },
+  {
+    "coordenadas": "569|206",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusfjose",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-21 19:44:34"
+  },
+  {
+    "coordenadas": "555|379",
+    "proprietario_anterior": "manicchap",
+    "tribo_anterior": "Pirata",
+    "proprietario_novo": "picamiolhos",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 19:44:19"
+  },
+  {
+    "coordenadas": "545|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 19:43:17"
+  },
+  {
+    "coordenadas": "529|666",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Marcospai",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 19:37:50"
+  },
+  {
+    "coordenadas": "388|292",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "xbrunexx",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-21 19:36:32"
+  },
+  {
+    "coordenadas": "442|635",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lordkaz",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 19:36:24"
+  },
+  {
+    "coordenadas": "550|407",
+    "proprietario_anterior": "Adrianne Palicki",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 19:35:44"
+  },
+  {
     "coordenadas": "696|576",
     "proprietario_anterior": "BCJesus",
     "tribo_anterior": null,
