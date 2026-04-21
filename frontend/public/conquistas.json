@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "495|422",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 02:05:00"
+  },
+  {
+    "coordenadas": "556|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 02:04:07"
+  },
+  {
+    "coordenadas": "541|632",
+    "proprietario_anterior": "cupeepup",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "Zumbi67",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 02:02:23"
+  },
+  {
+    "coordenadas": "539|534",
+    "proprietario_anterior": "xXhudsonXx",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 01:58:10"
+  },
+  {
+    "coordenadas": "578|474",
+    "proprietario_anterior": "ReiHeitor",
+    "tribo_anterior": null,
+    "proprietario_novo": "Karma Akabane.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 01:57:43"
+  },
+  {
     "coordenadas": "573|637",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
