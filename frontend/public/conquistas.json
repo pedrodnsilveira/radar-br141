@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "609|453",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 07:19:25"
+  },
+  {
+    "coordenadas": "372|604",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jneves87",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 07:14:27"
+  },
+  {
+    "coordenadas": "656|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "atiq hamuta",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-21 07:11:07"
+  },
+  {
     "coordenadas": "173|574",
     "proprietario_anterior": "antonioemerson3",
     "tribo_anterior": null,
