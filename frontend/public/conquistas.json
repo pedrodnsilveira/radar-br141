@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "516|453",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bia-Yang",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 17:32:07"
+  },
+  {
+    "coordenadas": "546|503",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 17:31:31"
+  },
+  {
+    "coordenadas": "449|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 17:31:28"
+  },
+  {
     "coordenadas": "613|440",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
