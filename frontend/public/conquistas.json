@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "439|493",
+    "proprietario_anterior": "Greco",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "fuziu 123",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 17:16:41"
+  },
+  {
+    "coordenadas": "658|686",
+    "proprietario_anterior": "galacticmonarch649",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mydan",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-22 17:15:40"
+  },
+  {
+    "coordenadas": "544|546",
+    "proprietario_anterior": "Obelixbr",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 17:14:16"
+  },
+  {
+    "coordenadas": "361|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bitencourt",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 17:13:30"
+  },
+  {
+    "coordenadas": "509|651",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DUDYss",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 17:11:24"
+  },
+  {
     "coordenadas": "462|599",
     "proprietario_anterior": "Rainha Vallentine",
     "tribo_anterior": "APOLLO",
