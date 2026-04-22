@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "768|616",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tenebrozu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 07:12:42"
+  },
+  {
+    "coordenadas": "782|361",
+    "proprietario_anterior": "euromario",
+    "tribo_anterior": null,
+    "proprietario_novo": "Crazy Arrows",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-22 07:12:40"
+  },
+  {
     "coordenadas": "468|464",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
