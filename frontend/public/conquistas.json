@@ -1,6 +1,22 @@
 [
   {
     "coordenadas": "551|560",
+    "proprietario_anterior": "- Bjorn Ironside",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 03:53:17"
+  },
+  {
+    "coordenadas": "562|598",
+    "proprietario_anterior": "d i a n a nospmoht",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fabio67",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 03:51:18"
+  },
+  {
+    "coordenadas": "551|560",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
     "proprietario_novo": "- Bjorn Ironside",
