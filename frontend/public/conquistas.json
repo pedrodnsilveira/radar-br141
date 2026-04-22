@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "410|523",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Negomel",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 08:36:34"
+  },
+  {
+    "coordenadas": "625|511",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 08:29:34"
+  },
+  {
+    "coordenadas": "364|203",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "subakuuu",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-22 08:28:19"
+  },
+  {
     "coordenadas": "376|658",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
