@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "655|505",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "RwinchesterR Jr.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 15:52:19"
+  },
+  {
+    "coordenadas": "608|465",
+    "proprietario_anterior": "RiftWitch",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 15:49:44"
+  },
+  {
+    "coordenadas": "770|628",
+    "proprietario_anterior": "FrostBarbarian",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-22 15:49:15"
+  },
+  {
     "coordenadas": "566|558",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
