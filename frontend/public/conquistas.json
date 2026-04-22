@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "337|762",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "amixel",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-22 12:17:01"
+  },
+  {
+    "coordenadas": "806|356",
+    "proprietario_anterior": "GarotoSEXY",
+    "tribo_anterior": null,
+    "proprietario_novo": "robsonz",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 12:14:01"
+  },
+  {
+    "coordenadas": "516|226",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "chelesmoto",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-22 12:10:03"
+  },
+  {
     "coordenadas": "635|513",
     "proprietario_anterior": "Viela23",
     "tribo_anterior": null,
