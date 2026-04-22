@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "293|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TisToro",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-22 20:36:07"
+  },
+  {
+    "coordenadas": "445|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 20:34:37"
+  },
+  {
+    "coordenadas": "468|549",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 20:31:31"
+  },
+  {
+    "coordenadas": "298|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 20:31:25"
+  },
+  {
+    "coordenadas": "608|538",
+    "proprietario_anterior": "SpestraiVoid",
+    "tribo_anterior": null,
+    "proprietario_novo": "parabellum",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-22 20:29:52"
+  },
+  {
+    "coordenadas": "547|840",
+    "proprietario_anterior": "PRIMALCANNON537",
+    "tribo_anterior": null,
+    "proprietario_novo": "phantomsteam",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 20:27:29"
+  },
+  {
     "coordenadas": "523|460",
     "proprietario_anterior": "magotejr",
     "tribo_anterior": ".RIP.",
