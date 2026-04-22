@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "421|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 00:51:45"
+  },
+  {
+    "coordenadas": "537|605",
+    "proprietario_anterior": "InfernalElementalist",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kopp",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 00:50:25"
+  },
+  {
     "coordenadas": "472|188",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
