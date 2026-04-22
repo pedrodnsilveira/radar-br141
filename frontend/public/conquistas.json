@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "340|653",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "xRichard56",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-22 07:23:44"
+  },
+  {
+    "coordenadas": "533|555",
+    "proprietario_anterior": "pvitormg2",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 07:21:31"
+  },
+  {
+    "coordenadas": "531|591",
+    "proprietario_anterior": "Proucofriowizor2484",
+    "tribo_anterior": null,
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 07:21:00"
+  },
+  {
+    "coordenadas": "143|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fofinhos",
+    "tribo_nova": "CR4CK",
+    "data_hora_conquista": "2026-04-22 07:16:58"
+  },
+  {
+    "coordenadas": "665|403",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amarela",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 07:16:07"
+  },
+  {
+    "coordenadas": "684|522",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 07:15:32"
+  },
+  {
     "coordenadas": "768|616",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
