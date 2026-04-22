@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "562|499",
+    "proprietario_anterior": "SirSaullo",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 16:57:25"
+  },
+  {
+    "coordenadas": "550|495",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 16:56:29"
+  },
+  {
+    "coordenadas": "354|510",
+    "proprietario_anterior": "jiromba",
+    "tribo_anterior": null,
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 16:55:25"
+  },
+  {
+    "coordenadas": "636|755",
+    "proprietario_anterior": "RenanARamos",
+    "tribo_anterior": "ÁGORA",
+    "proprietario_novo": "Dcastro",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-22 16:51:16"
+  },
+  {
+    "coordenadas": "463|364",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 16:50:53"
+  },
+  {
+    "coordenadas": "390|383",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 16:49:10"
+  },
+  {
+    "coordenadas": "262|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 16:48:16"
+  },
+  {
+    "coordenadas": "472|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "..Joker..",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 16:47:37"
+  },
+  {
     "coordenadas": "488|578",
     "proprietario_anterior": "Shorts",
     "tribo_anterior": "FN",
