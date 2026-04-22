@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "350|711",
+    "proprietario_anterior": "SenhorPedrada",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 16:15:57"
+  },
+  {
+    "coordenadas": "650|410",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maacknx",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 16:13:17"
+  },
+  {
+    "coordenadas": "445|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 16:11:18"
+  },
+  {
+    "coordenadas": "444|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 16:10:54"
+  },
+  {
+    "coordenadas": "295|581",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Corrêa",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 16:10:10"
+  },
+  {
+    "coordenadas": "448|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 16:08:49"
+  },
+  {
+    "coordenadas": "534|486",
+    "proprietario_anterior": "henriqye zika",
+    "tribo_anterior": "MMCV",
+    "proprietario_novo": "swylle7",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 16:07:35"
+  },
+  {
+    "coordenadas": "413|550",
+    "proprietario_anterior": "Warove",
+    "tribo_anterior": "TNTA",
+    "proprietario_novo": "CTRLALTDEL",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 16:06:13"
+  },
+  {
     "coordenadas": "522|478",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
