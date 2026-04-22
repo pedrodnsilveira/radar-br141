@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "786|546",
+    "proprietario_anterior": "Stinky",
+    "tribo_anterior": null,
+    "proprietario_novo": "LucasModric",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 06:44:24"
+  },
+  {
+    "coordenadas": "666|403",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amarela",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 06:40:39"
+  },
+  {
     "coordenadas": "344|520",
     "proprietario_anterior": "gangrafa",
     "tribo_anterior": "FN!",
