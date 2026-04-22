@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "547|499",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 02:02:59"
+  },
+  {
+    "coordenadas": "557|607",
+    "proprietario_anterior": "Xaduruuq",
+    "tribo_anterior": "[M]",
+    "proprietario_novo": "charlesfade",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 02:01:54"
+  },
+  {
+    "coordenadas": "547|484",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 02:01:03"
+  },
+  {
+    "coordenadas": "407|544",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "noha T.U.E",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 01:58:56"
+  },
+  {
+    "coordenadas": "371|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 01:57:30"
+  },
+  {
+    "coordenadas": "544|422",
+    "proprietario_anterior": "Graham Wardle",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 01:57:22"
+  },
+  {
     "coordenadas": "500|381",
     "proprietario_anterior": "Volkisvagi",
     "tribo_anterior": null,
