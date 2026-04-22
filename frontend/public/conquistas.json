@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "462|599",
+    "proprietario_anterior": "Rainha Vallentine",
+    "tribo_anterior": "APOLLO",
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 17:05:41"
+  },
+  {
+    "coordenadas": "606|244",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vinnyale",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-22 17:05:20"
+  },
+  {
+    "coordenadas": "194|649",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cantarino",
+    "tribo_nova": "SPARTA",
+    "data_hora_conquista": "2026-04-22 17:04:13"
+  },
+  {
+    "coordenadas": "696|698",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "willbgod",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-22 17:03:03"
+  },
+  {
+    "coordenadas": "444|500",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 17:00:46"
+  },
+  {
+    "coordenadas": "613|332",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "junior72",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 16:59:49"
+  },
+  {
+    "coordenadas": "449|507",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 16:57:51"
+  },
+  {
     "coordenadas": "562|499",
     "proprietario_anterior": "SirSaullo",
     "tribo_anterior": "DuMau",
