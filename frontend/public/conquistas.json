@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "548|453",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GotChuNowRX",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-21 23:12:42"
+  },
+  {
+    "coordenadas": "524|494",
+    "proprietario_anterior": "tp-hmartins",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 23:10:23"
+  },
+  {
+    "coordenadas": "140|579",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fofinhos",
+    "tribo_nova": "CR4CK",
+    "data_hora_conquista": "2026-04-21 23:09:26"
+  },
+  {
+    "coordenadas": "584|521",
+    "proprietario_anterior": "FireBlack",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "ElJonjon",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 23:09:02"
+  },
+  {
     "coordenadas": "360|265",
     "proprietario_anterior": "marquinhoada",
     "tribo_anterior": null,
