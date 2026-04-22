@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "360|265",
+    "proprietario_anterior": "marquinhoada",
+    "tribo_anterior": null,
+    "proprietario_novo": "felipemi",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-21 23:06:16"
+  },
+  {
+    "coordenadas": "505|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DUDYss",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 23:05:20"
+  },
+  {
+    "coordenadas": "344|706",
+    "proprietario_anterior": "Tharvok",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-21 23:01:24"
+  },
+  {
+    "coordenadas": "437|520",
+    "proprietario_anterior": "vhdarosa",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 22:59:19"
+  },
+  {
+    "coordenadas": "556|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 22:59:05"
+  },
+  {
+    "coordenadas": "505|548",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Capiyvara",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 22:57:33"
+  },
+  {
     "coordenadas": "457|750",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
