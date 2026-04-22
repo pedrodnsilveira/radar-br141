@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "312|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 19:23:44"
+  },
+  {
+    "coordenadas": "503|544",
+    "proprietario_anterior": "Greedmetal",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "Greedmetal",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 19:21:44"
+  },
+  {
+    "coordenadas": "657|524",
+    "proprietario_anterior": "morvex58",
+    "tribo_anterior": "Torci",
+    "proprietario_novo": "GordinhoMete",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 19:19:24"
+  },
+  {
+    "coordenadas": "471|394",
+    "proprietario_anterior": "senhor batata",
+    "tribo_anterior": "ZUMBIS",
+    "proprietario_novo": "apolion",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-22 19:15:39"
+  },
+  {
     "coordenadas": "517|575",
     "proprietario_anterior": "Triastrea7654",
     "tribo_anterior": null,
