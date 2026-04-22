@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "468|623",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 04:57:58"
+  },
+  {
+    "coordenadas": "562|640",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferwachtel",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 04:57:49"
+  },
+  {
+    "coordenadas": "800|640",
+    "proprietario_anterior": "Sr.Draco",
+    "tribo_anterior": null,
+    "proprietario_novo": "henri",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-22 04:57:31"
+  },
+  {
+    "coordenadas": "525|431",
+    "proprietario_anterior": "caioadv",
+    "tribo_anterior": "RISEPP",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 04:54:31"
+  },
+  {
+    "coordenadas": "542|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 04:51:02"
+  },
+  {
+    "coordenadas": "375|449",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bitencourt",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 04:50:03"
+  },
+  {
     "coordenadas": "521|452",
     "proprietario_anterior": "realMFG",
     "tribo_anterior": null,
