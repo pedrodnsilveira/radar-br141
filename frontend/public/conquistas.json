@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "416|596",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 13:25:27"
+  },
+  {
+    "coordenadas": "452|357",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "digoamil",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 13:25:07"
+  },
+  {
+    "coordenadas": "479|782",
+    "proprietario_anterior": "marcelocfj",
+    "tribo_anterior": "UFRRJ",
+    "proprietario_novo": "STIME s",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-22 13:24:37"
+  },
+  {
     "coordenadas": "347|193",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
