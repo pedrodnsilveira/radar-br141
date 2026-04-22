@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "443|446",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "bertoli",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 00:27:41"
+  },
+  {
+    "coordenadas": "327|586",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 00:27:15"
+  },
+  {
+    "coordenadas": "325|588",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 00:27:14"
+  },
+  {
+    "coordenadas": "529|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 00:26:30"
+  },
+  {
+    "coordenadas": "388|563",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 00:26:23"
+  },
+  {
+    "coordenadas": "520|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ARIZONA",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-22 00:25:59"
+  },
+  {
+    "coordenadas": "645|720",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Gengizcan",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-22 00:23:58"
+  },
+  {
+    "coordenadas": "191|422",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rassengan",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-22 00:23:48"
+  },
+  {
+    "coordenadas": "296|365",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thopo121",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 00:19:56"
+  },
+  {
+    "coordenadas": "625|393",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 00:19:32"
+  },
+  {
     "coordenadas": "465|584",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
