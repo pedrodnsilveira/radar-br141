@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "587|729",
+    "proprietario_anterior": "AS Filho",
+    "tribo_anterior": "GCa",
+    "proprietario_novo": "blacksands",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 22:24:36"
+  },
+  {
+    "coordenadas": "386|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 22:23:20"
+  },
+  {
+    "coordenadas": "392|383",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-21 22:22:50"
+  },
+  {
+    "coordenadas": "429|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 22:20:55"
+  },
+  {
+    "coordenadas": "355|224",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Convidado002776",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-21 22:20:21"
+  },
+  {
+    "coordenadas": "588|616",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 22:17:54"
+  },
+  {
+    "coordenadas": "447|508",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-21 22:16:55"
+  },
+  {
+    "coordenadas": "367|651",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Annata",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-21 22:15:51"
+  },
+  {
     "coordenadas": "495|496",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
