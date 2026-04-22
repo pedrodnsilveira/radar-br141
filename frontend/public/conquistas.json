@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "286|340",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kbuloso",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-22 21:27:58"
+  },
+  {
+    "coordenadas": "278|341",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TO ATOA DE NOVO",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-22 21:25:24"
+  },
+  {
+    "coordenadas": "357|513",
+    "proprietario_anterior": "Cizar o Terrivel",
+    "tribo_anterior": "XNG",
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 21:24:26"
+  },
+  {
+    "coordenadas": "287|412",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "noizii",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-22 21:24:21"
+  },
+  {
+    "coordenadas": "502|547",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "justiceiro13",
+    "tribo_nova": "COLh",
+    "data_hora_conquista": "2026-04-22 21:21:51"
+  },
+  {
+    "coordenadas": "266|634",
+    "proprietario_anterior": "4kill",
+    "tribo_anterior": null,
+    "proprietario_novo": "MyEggIsBack",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 21:19:43"
+  },
+  {
+    "coordenadas": "646|460",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "atiq hamuta",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-22 21:19:23"
+  },
+  {
     "coordenadas": "473|320",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
