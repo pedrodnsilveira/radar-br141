@@ -1,5 +1,141 @@
 [
   {
+    "coordenadas": "444|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 09:08:25"
+  },
+  {
+    "coordenadas": "443|499",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 09:06:25"
+  },
+  {
+    "coordenadas": "466|571",
+    "proprietario_anterior": "PreijeaguPrime4590",
+    "tribo_anterior": null,
+    "proprietario_novo": "Noke Destroyer",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 09:05:01"
+  },
+  {
+    "coordenadas": "777|657",
+    "proprietario_anterior": "TiagoFG",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-22 09:05:00"
+  },
+  {
+    "coordenadas": "244|712",
+    "proprietario_anterior": "Dom Ezequias II",
+    "tribo_anterior": "SPARTA",
+    "proprietario_novo": "agressor89",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-22 09:04:32"
+  },
+  {
+    "coordenadas": "604|596",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 09:04:15"
+  },
+  {
+    "coordenadas": "448|225",
+    "proprietario_anterior": "Danilo 19",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "Danilo 19",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-22 09:03:39"
+  },
+  {
+    "coordenadas": "448|225",
+    "proprietario_anterior": "brunera22",
+    "tribo_anterior": null,
+    "proprietario_novo": "Danilo 19",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-22 09:03:38"
+  },
+  {
+    "coordenadas": "318|691",
+    "proprietario_anterior": "lucaswars",
+    "tribo_anterior": null,
+    "proprietario_novo": "jetuinhoO",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 09:03:04"
+  },
+  {
+    "coordenadas": "570|495",
+    "proprietario_anterior": "wolfmetal",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 09:02:00"
+  },
+  {
+    "coordenadas": "685|765",
+    "proprietario_anterior": "vinifak3",
+    "tribo_anterior": "ÁGORA",
+    "proprietario_novo": "Vinicius.fa",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-22 09:01:46"
+  },
+  {
+    "coordenadas": "530|447",
+    "proprietario_anterior": "realMFG",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 09:01:43"
+  },
+  {
+    "coordenadas": "539|601",
+    "proprietario_anterior": "Qiolateizor",
+    "tribo_anterior": null,
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 09:01:39"
+  },
+  {
+    "coordenadas": "430|498",
+    "proprietario_anterior": "eluigiii",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 09:01:00"
+  },
+  {
+    "coordenadas": "468|598",
+    "proprietario_anterior": "SAVAGEHOKAGE308",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 09:01:00"
+  },
+  {
+    "coordenadas": "770|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cheleu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 09:00:50"
+  },
+  {
+    "coordenadas": "495|479",
+    "proprietario_anterior": "teletubbies.s2.25",
+    "tribo_anterior": "D.G.",
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 09:00:21"
+  },
+  {
     "coordenadas": "528|397",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
