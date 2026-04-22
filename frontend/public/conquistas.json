@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "584|524",
+    "proprietario_anterior": "FireBlack",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "FireBlack",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-21 23:27:22"
+  },
+  {
+    "coordenadas": "584|524",
+    "proprietario_anterior": "ElJonjon",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "FireBlack",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-21 23:27:02"
+  },
+  {
+    "coordenadas": "309|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-21 23:20:36"
+  },
+  {
+    "coordenadas": "253|406",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "diegofagundes",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-21 23:19:22"
+  },
+  {
     "coordenadas": "548|453",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
