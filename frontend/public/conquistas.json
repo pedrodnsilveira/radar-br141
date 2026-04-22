@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "333|730",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ragnar Lothbrok Br",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-22 05:35:09"
+  },
+  {
+    "coordenadas": "473|491",
+    "proprietario_anterior": "wrzocca",
+    "tribo_anterior": "D.G.",
+    "proprietario_novo": "MiniSix",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-22 05:34:59"
+  },
+  {
+    "coordenadas": "604|594",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 05:29:08"
+  },
+  {
+    "coordenadas": "620|520",
+    "proprietario_anterior": "cassioAres",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 05:28:07"
+  },
+  {
     "coordenadas": "469|620",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
