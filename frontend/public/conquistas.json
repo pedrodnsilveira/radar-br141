@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "517|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 19:43:55"
+  },
+  {
+    "coordenadas": "520|615",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "maykbn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 19:40:44"
+  },
+  {
+    "coordenadas": "599|459",
+    "proprietario_anterior": "orricane",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rafão",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-22 19:39:59"
+  },
+  {
+    "coordenadas": "771|627",
+    "proprietario_anterior": "darkzoi00100",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-22 19:38:50"
+  },
+  {
+    "coordenadas": "459|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fabiano Moura",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 19:37:53"
+  },
+  {
+    "coordenadas": "836|554",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cabetocarrero",
+    "tribo_nova": "[NG]",
+    "data_hora_conquista": "2026-04-22 19:36:25"
+  },
+  {
     "coordenadas": "439|371",
     "proprietario_anterior": "ligaho",
     "tribo_anterior": null,
