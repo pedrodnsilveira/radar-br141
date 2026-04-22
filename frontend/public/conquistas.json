@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "235|536",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HAYLANDER.S45",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 02:27:48"
+  },
+  {
+    "coordenadas": "433|536",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nykon",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 02:26:33"
+  },
+  {
+    "coordenadas": "311|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jair gomes",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 02:19:34"
+  },
+  {
     "coordenadas": "511|399",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
