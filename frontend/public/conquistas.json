@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "537|812",
+    "proprietario_anterior": "comandoromulo",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rick.Iza",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-22 21:01:44"
+  },
+  {
+    "coordenadas": "404|489",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 20:58:33"
+  },
+  {
     "coordenadas": "585|779",
     "proprietario_anterior": "Zouspostria",
     "tribo_anterior": null,
