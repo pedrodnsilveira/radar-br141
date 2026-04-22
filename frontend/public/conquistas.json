@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "566|558",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 15:44:54"
+  },
+  {
+    "coordenadas": "341|201",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cjda",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-22 15:44:08"
+  },
+  {
+    "coordenadas": "384|616",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jiripoca",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-22 15:43:25"
+  },
+  {
+    "coordenadas": "585|551",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ElJonjon",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 15:41:03"
+  },
+  {
+    "coordenadas": "526|380",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 15:40:27"
+  },
+  {
+    "coordenadas": "439|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 15:40:13"
+  },
+  {
+    "coordenadas": "409|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 15:36:07"
+  },
+  {
     "coordenadas": "544|549",
     "proprietario_anterior": "Obelixbr",
     "tribo_anterior": null,
