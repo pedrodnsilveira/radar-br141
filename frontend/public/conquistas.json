@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "518|632",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-21 23:57:57"
+  },
+  {
+    "coordenadas": "597|421",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Iraki -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 23:57:44"
+  },
+  {
+    "coordenadas": "437|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wesleyv6",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-21 23:56:44"
+  },
+  {
+    "coordenadas": "548|441",
+    "proprietario_anterior": "LUCASREIS2365",
+    "tribo_anterior": "CASA",
+    "proprietario_novo": "Marcelo Maeda",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-21 23:56:32"
+  },
+  {
+    "coordenadas": "379|366",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Emmanuel232",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 23:55:08"
+  },
+  {
+    "coordenadas": "472|443",
+    "proprietario_anterior": "PedroGarcia17",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "g123ui",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-21 23:55:04"
+  },
+  {
+    "coordenadas": "413|390",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WiNHarD",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-21 23:53:45"
+  },
+  {
+    "coordenadas": "642|511",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-21 23:51:21"
+  },
+  {
+    "coordenadas": "788|615",
+    "proprietario_anterior": "klauscrvg",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chozin",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-21 23:50:00"
+  },
+  {
+    "coordenadas": "715|723",
+    "proprietario_anterior": "Miami Drinks",
+    "tribo_anterior": "- BC",
+    "proprietario_novo": "Shaka de Virgo",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-21 23:49:32"
+  },
+  {
     "coordenadas": "327|307",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
