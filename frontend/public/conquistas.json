@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "477|690",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 04:23:34"
+  },
+  {
+    "coordenadas": "523|407",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 04:17:53"
+  },
+  {
     "coordenadas": "546|549",
     "proprietario_anterior": "Obelixbr",
     "tribo_anterior": "DuMau",
