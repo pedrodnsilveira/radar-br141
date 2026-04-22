@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "475|527",
+    "proprietario_anterior": "Rabugento MS",
+    "tribo_anterior": null,
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 13:02:11"
+  },
+  {
+    "coordenadas": "556|657",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-22 12:59:07"
+  },
+  {
     "coordenadas": "497|480",
     "proprietario_anterior": "Produto inflamável",
     "tribo_anterior": "RIP",
