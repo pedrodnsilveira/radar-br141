@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "525|482",
+    "proprietario_anterior": "EureK",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 17:47:44"
+  },
+  {
+    "coordenadas": "590|522",
+    "proprietario_anterior": "Samael",
+    "tribo_anterior": "LGDS",
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 17:42:03"
+  },
+  {
+    "coordenadas": "549|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 17:40:10"
+  },
+  {
+    "coordenadas": "700|659",
+    "proprietario_anterior": "Manos",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "marcola85",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-22 17:39:05"
+  },
+  {
+    "coordenadas": "485|419",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 17:38:39"
+  },
+  {
     "coordenadas": "521|162",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
