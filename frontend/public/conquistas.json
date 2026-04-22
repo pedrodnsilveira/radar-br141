@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "439|534",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 19:01:44"
+  },
+  {
+    "coordenadas": "262|622",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 19:01:30"
+  },
+  {
+    "coordenadas": "627|523",
+    "proprietario_anterior": "Robinflorur",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 19:00:39"
+  },
+  {
+    "coordenadas": "731|397",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Vixi Moio",
+    "tribo_nova": "TRTN",
+    "data_hora_conquista": "2026-04-22 18:57:14"
+  },
+  {
+    "coordenadas": "522|413",
+    "proprietario_anterior": "EX QUILO",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 18:56:33"
+  },
+  {
     "coordenadas": "362|466",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
