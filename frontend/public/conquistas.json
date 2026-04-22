@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "457|750",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Murilo Fermino",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-21 22:54:13"
+  },
+  {
+    "coordenadas": "514|366",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LíderJoe",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-21 22:53:29"
+  },
+  {
     "coordenadas": "512|433",
     "proprietario_anterior": "Krastradreavezor",
     "tribo_anterior": null,
