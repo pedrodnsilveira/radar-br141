@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "552|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 14:18:54"
+  },
+  {
+    "coordenadas": "408|514",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 14:18:39"
+  },
+  {
+    "coordenadas": "723|501",
+    "proprietario_anterior": "los hermanos",
+    "tribo_anterior": null,
+    "proprietario_novo": "Aeroox",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 14:16:15"
+  },
+  {
+    "coordenadas": "555|501",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 14:15:35"
+  },
+  {
+    "coordenadas": "554|500",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 14:15:29"
+  },
+  {
+    "coordenadas": "407|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 14:15:18"
+  },
+  {
+    "coordenadas": "441|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-22 14:14:29"
+  },
+  {
+    "coordenadas": "625|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 14:12:22"
+  },
+  {
+    "coordenadas": "499|783",
+    "proprietario_anterior": "Jormungandr",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 14:11:26"
+  },
+  {
     "coordenadas": "548|178",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
