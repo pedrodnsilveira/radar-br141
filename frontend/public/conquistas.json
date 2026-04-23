@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "409|397",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "Sharyan",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 02:18:28"
+  },
+  {
+    "coordenadas": "437|523",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- D U N H I L L",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 02:17:28"
+  },
+  {
     "coordenadas": "402|231",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
