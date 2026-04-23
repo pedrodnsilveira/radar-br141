@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "470|614",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 10:02:58"
+  },
+  {
+    "coordenadas": "479|572",
+    "proprietario_anterior": "Sunufotei",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chemical",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 10:02:58"
+  },
+  {
+    "coordenadas": "516|777",
+    "proprietario_anterior": "ninero",
+    "tribo_anterior": null,
+    "proprietario_novo": "tcho13",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-23 09:59:11"
+  },
+  {
     "coordenadas": "392|506",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
