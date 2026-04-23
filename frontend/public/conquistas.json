@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "762|511",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "K3rw1N",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-23 02:36:11"
+  },
+  {
+    "coordenadas": "738|632",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carlos Bauer",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-23 02:32:33"
+  },
+  {
+    "coordenadas": "603|426",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Iraki -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 02:28:40"
+  },
+  {
+    "coordenadas": "547|627",
+    "proprietario_anterior": "Torricelli",
+    "tribo_anterior": "Dubar",
+    "proprietario_novo": "Cerebroeng",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 02:28:10"
+  },
+  {
+    "coordenadas": "459|444",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fabiano Moura",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 02:27:48"
+  },
+  {
     "coordenadas": "409|397",
     "proprietario_anterior": "Corvo-Negro",
     "tribo_anterior": "GAL0S",
