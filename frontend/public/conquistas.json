@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "697|235",
+    "proprietario_anterior": "Zedopicadinho",
+    "tribo_anterior": null,
+    "proprietario_novo": "TUGAKILER",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 20:05:45"
+  },
+  {
+    "coordenadas": "509|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 20:05:03"
+  },
+  {
+    "coordenadas": "520|627",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PÉ DE BOI",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 20:04:25"
+  },
+  {
+    "coordenadas": "564|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 20:03:50"
+  },
+  {
+    "coordenadas": "333|694",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pu-bla",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-23 19:59:36"
+  },
+  {
     "coordenadas": "296|569",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
