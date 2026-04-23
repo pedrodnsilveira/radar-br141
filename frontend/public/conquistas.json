@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "324|484",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Stauber",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-23 18:55:03"
+  },
+  {
+    "coordenadas": "331|527",
+    "proprietario_anterior": "Zabub",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:52:15"
+  },
+  {
+    "coordenadas": "450|537",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HAMED2",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 18:50:38"
+  },
+  {
     "coordenadas": "361|720",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
