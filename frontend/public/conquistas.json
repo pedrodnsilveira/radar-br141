@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "287|569",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 00:46:58"
+  },
+  {
+    "coordenadas": "599|407",
+    "proprietario_anterior": "Yang Fa",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "DaarK-",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 00:46:56"
+  },
+  {
+    "coordenadas": "562|379",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chuva",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-23 00:44:50"
+  },
+  {
+    "coordenadas": "594|448",
+    "proprietario_anterior": "vandisel",
+    "tribo_anterior": null,
+    "proprietario_novo": "nirvanasr",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-23 00:40:47"
+  },
+  {
+    "coordenadas": "812|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ruda",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 00:38:36"
+  },
+  {
     "coordenadas": "521|386",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
