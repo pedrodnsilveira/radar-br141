@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "521|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 21:03:44"
+  },
+  {
+    "coordenadas": "474|387",
+    "proprietario_anterior": "DasVagabond",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "ezynho17",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 21:02:56"
+  },
+  {
+    "coordenadas": "396|508",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 21:01:59"
+  },
+  {
+    "coordenadas": "547|503",
+    "proprietario_anterior": "marcola120",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 20:59:59"
+  },
+  {
     "coordenadas": "383|393",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
