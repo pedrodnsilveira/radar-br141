@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "718|653",
+    "proprietario_anterior": "KennoLVLpro",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "almeida",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 18:23:01"
+  },
+  {
+    "coordenadas": "427|438",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeaDLove",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 18:22:58"
+  },
+  {
+    "coordenadas": "520|158",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HenriqueGO56",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-23 18:22:38"
+  },
+  {
+    "coordenadas": "680|399",
+    "proprietario_anterior": "hadassa000",
+    "tribo_anterior": "XdX",
+    "proprietario_novo": "bramdalar",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 18:20:20"
+  },
+  {
     "coordenadas": "434|502",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
