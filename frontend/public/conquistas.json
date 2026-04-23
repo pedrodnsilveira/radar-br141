@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "260|704",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kogu",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-23 15:05:37"
+  },
+  {
+    "coordenadas": "771|630",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-23 15:04:53"
+  },
+  {
+    "coordenadas": "512|507",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "djvoldemort",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 14:59:09"
+  },
+  {
     "coordenadas": "444|487",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
