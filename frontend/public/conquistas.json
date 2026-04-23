@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "361|720",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dhawillin",
+    "tribo_nova": "-UNI-",
+    "data_hora_conquista": "2026-04-23 18:44:42"
+  },
+  {
+    "coordenadas": "394|623",
+    "proprietario_anterior": "anderson1989",
+    "tribo_anterior": null,
+    "proprietario_novo": "GuiStein",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 18:43:46"
+  },
+  {
+    "coordenadas": "440|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:43:35"
+  },
+  {
+    "coordenadas": "434|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:42:31"
+  },
+  {
+    "coordenadas": "689|250",
+    "proprietario_anterior": "giulianov7",
+    "tribo_anterior": "Logos",
+    "proprietario_novo": "BentoAraujo",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 18:41:58"
+  },
+  {
+    "coordenadas": "380|271",
+    "proprietario_anterior": "Mauricio3",
+    "tribo_anterior": "DDD",
+    "proprietario_novo": "Maxi 191",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-23 18:37:44"
+  },
+  {
     "coordenadas": "610|464",
     "proprietario_anterior": "LunarAlchemisT238",
     "tribo_anterior": null,
