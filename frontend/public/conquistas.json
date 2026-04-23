@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "583|531",
+    "proprietario_anterior": "FireBlack",
+    "tribo_anterior": null,
+    "proprietario_novo": "ReisC",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 13:54:49"
+  },
+  {
+    "coordenadas": "439|551",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DEAD17",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 13:52:10"
+  },
+  {
+    "coordenadas": "610|200",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Giwt",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 13:51:20"
+  },
+  {
+    "coordenadas": "275|614",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CORVO RENEGADO",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-23 13:50:23"
+  },
+  {
     "coordenadas": "530|464",
     "proprietario_anterior": "magotejr",
     "tribo_anterior": ".RIP.",
