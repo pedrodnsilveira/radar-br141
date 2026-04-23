@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "544|533",
+    "proprietario_anterior": "w77win",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 04:44:59"
+  },
+  {
+    "coordenadas": "590|788",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "luiz123santos",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-23 04:41:31"
+  },
+  {
+    "coordenadas": "291|612",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 04:38:58"
+  },
+  {
+    "coordenadas": "453|406",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 04:38:08"
+  },
+  {
     "coordenadas": "380|306",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
