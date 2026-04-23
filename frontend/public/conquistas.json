@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "470|601",
+    "proprietario_anterior": "RAGINGSORCERER662",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 09:06:00"
+  },
+  {
+    "coordenadas": "455|523",
+    "proprietario_anterior": "The Raumdeuter",
+    "tribo_anterior": "S O S",
+    "proprietario_novo": "Provetti",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 09:05:35"
+  },
+  {
+    "coordenadas": "584|608",
+    "proprietario_anterior": "MRangel",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 09:01:01"
+  },
+  {
+    "coordenadas": "189|518",
+    "proprietario_anterior": "adrianaaasacris",
+    "tribo_anterior": "AUS",
+    "proprietario_novo": "Britx2000",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-23 09:00:26"
+  },
+  {
+    "coordenadas": "476|478",
+    "proprietario_anterior": "mr.walker",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 09:00:06"
+  },
+  {
+    "coordenadas": "768|616",
+    "proprietario_anterior": "Eric C4rtman",
+    "tribo_anterior": "ACID",
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-23 09:00:05"
+  },
+  {
+    "coordenadas": "433|442",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeaDLove",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 09:00:00"
+  },
+  {
+    "coordenadas": "540|572",
+    "proprietario_anterior": "Luminara",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nebulosa Fênix",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 08:58:49"
+  },
+  {
     "coordenadas": "516|648",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
