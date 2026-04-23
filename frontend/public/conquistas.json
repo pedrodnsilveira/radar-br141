@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "550|412",
+    "proprietario_anterior": "Alona Tal",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 23:54:54"
+  },
+  {
+    "coordenadas": "494|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 23:52:01"
+  },
+  {
+    "coordenadas": "412|386",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "uziel kahl",
+    "tribo_nova": "RANDOM",
+    "data_hora_conquista": "2026-04-22 23:51:14"
+  },
+  {
+    "coordenadas": "384|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mr.Unamed",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 23:49:58"
+  },
+  {
+    "coordenadas": "471|707",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 23:49:56"
+  },
+  {
+    "coordenadas": "325|432",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mestredaguerra07",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-22 23:49:51"
+  },
+  {
+    "coordenadas": "615|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 23:46:36"
+  },
+  {
     "coordenadas": "584|524",
     "proprietario_anterior": "FireBlack",
     "tribo_anterior": "DuMau",
