@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "673|265",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kikinho",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 06:35:54"
+  },
+  {
+    "coordenadas": "533|226",
+    "proprietario_anterior": "igssampaio",
+    "tribo_anterior": null,
+    "proprietario_novo": "gélido",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-23 06:34:14"
+  },
+  {
+    "coordenadas": "589|563",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 06:33:32"
+  },
+  {
+    "coordenadas": "302|686",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bomcar",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 06:31:50"
+  },
+  {
+    "coordenadas": "545|556",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 06:30:58"
+  },
+  {
+    "coordenadas": "712|369",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "janiosilva",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 06:29:19"
+  },
+  {
+    "coordenadas": "487|409",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Atécubanos",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 06:26:53"
+  },
+  {
+    "coordenadas": "824|444",
+    "proprietario_anterior": "- Zed",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "- Zed",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-23 06:26:18"
+  },
+  {
     "coordenadas": "382|394",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
