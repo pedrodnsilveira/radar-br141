@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "536|516",
+    "proprietario_anterior": "marriedmo",
+    "tribo_anterior": "FC",
+    "proprietario_novo": "nisep",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 03:52:11"
+  },
+  {
+    "coordenadas": "411|337",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 03:52:09"
+  },
+  {
+    "coordenadas": "452|350",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 03:49:08"
+  },
+  {
+    "coordenadas": "563|526",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TROMPY67",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 03:48:20"
+  },
+  {
+    "coordenadas": "575|442",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ralove92",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-23 03:46:59"
+  },
+  {
+    "coordenadas": "484|305",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Rustic Hall",
+    "tribo_nova": "[LSE]",
+    "data_hora_conquista": "2026-04-23 03:46:04"
+  },
+  {
+    "coordenadas": "748|314",
+    "proprietario_anterior": "BraboIFR",
+    "tribo_anterior": "CLT.",
+    "proprietario_novo": "BraboIFR",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 03:45:44"
+  },
+  {
+    "coordenadas": "444|358",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 03:45:25"
+  },
+  {
+    "coordenadas": "748|314",
+    "proprietario_anterior": "zephyrspirit30",
+    "tribo_anterior": null,
+    "proprietario_novo": "BraboIFR",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 03:45:22"
+  },
+  {
     "coordenadas": "597|489",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
