@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "503|524",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saiyajin",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 12:44:44"
+  },
+  {
+    "coordenadas": "614|553",
+    "proprietario_anterior": "thunderwerewolf440",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 12:43:17"
+  },
+  {
+    "coordenadas": "801|642",
+    "proprietario_anterior": "TideCommander",
+    "tribo_anterior": null,
+    "proprietario_novo": "henri",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-23 12:40:35"
+  },
+  {
+    "coordenadas": "450|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 12:39:39"
+  },
+  {
     "coordenadas": "622|523",
     "proprietario_anterior": "Hostiu",
     "tribo_anterior": null,
