@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "507|575",
+    "proprietario_anterior": "BecestiprouPrime",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 14:37:39"
+  },
+  {
+    "coordenadas": "476|573",
+    "proprietario_anterior": "Kiobubu",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 14:34:29"
+  },
+  {
+    "coordenadas": "583|744",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": null,
+    "proprietario_novo": "themaxmacedo",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 14:32:39"
+  },
+  {
+    "coordenadas": "294|572",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 14:32:34"
+  },
+  {
+    "coordenadas": "550|615",
+    "proprietario_anterior": "Skylline",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 14:31:22"
+  },
+  {
+    "coordenadas": "439|837",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Gibelen",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-23 14:29:42"
+  },
+  {
+    "coordenadas": "290|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 14:29:02"
+  },
+  {
+    "coordenadas": "557|598",
+    "proprietario_anterior": "FieryKnight642",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 14:28:13"
+  },
+  {
     "coordenadas": "351|734",
     "proprietario_anterior": "alexstrindade",
     "tribo_anterior": "-UNI-",
