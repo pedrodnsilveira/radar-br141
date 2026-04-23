@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "717|248",
+    "proprietario_anterior": "linheiro",
+    "tribo_anterior": null,
+    "proprietario_novo": "MaxximosDcost",
+    "tribo_nova": "LYC",
+    "data_hora_conquista": "2026-04-23 20:49:06"
+  },
+  {
+    "coordenadas": "432|447",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeaDLove",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 20:48:15"
+  },
+  {
+    "coordenadas": "386|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 20:47:29"
+  },
+  {
+    "coordenadas": "536|532",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 20:47:00"
+  },
+  {
+    "coordenadas": "495|815",
+    "proprietario_anterior": "alvess97",
+    "tribo_anterior": null,
+    "proprietario_novo": "wenergoiano",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-23 20:45:08"
+  },
+  {
     "coordenadas": "384|739",
     "proprietario_anterior": "IgRmS",
     "tribo_anterior": "PÂNICO",
