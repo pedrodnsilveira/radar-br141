@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "487|630",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "sdrago",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 13:15:53"
+  },
+  {
+    "coordenadas": "446|596",
+    "proprietario_anterior": "WICKEDREAPER",
+    "tribo_anterior": null,
+    "proprietario_novo": "Playernoob*",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 13:15:11"
+  },
+  {
+    "coordenadas": "380|541",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bugado",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 13:11:04"
+  },
+  {
     "coordenadas": "234|595",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
