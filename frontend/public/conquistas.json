@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "597|489",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 03:43:46"
+  },
+  {
+    "coordenadas": "719|626",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavanhas",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-23 03:43:32"
+  },
+  {
+    "coordenadas": "435|844",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Gibelen",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-23 03:38:41"
+  },
+  {
     "coordenadas": "461|610",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
