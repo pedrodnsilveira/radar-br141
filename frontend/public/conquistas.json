@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "521|386",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 00:37:03"
+  },
+  {
+    "coordenadas": "365|284",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "meetz",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-23 00:32:50"
+  },
+  {
+    "coordenadas": "491|442",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "marcos ferreira girao",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-23 00:32:39"
+  },
+  {
+    "coordenadas": "555|622",
+    "proprietario_anterior": "Siosurut",
+    "tribo_anterior": "[M]",
+    "proprietario_novo": "charlesfade",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 00:32:30"
+  },
+  {
+    "coordenadas": "446|549",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 00:32:16"
+  },
+  {
+    "coordenadas": "645|218",
+    "proprietario_anterior": "Convidado003746",
+    "tribo_anterior": null,
+    "proprietario_novo": "farmeiVocê",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 00:30:20"
+  },
+  {
+    "coordenadas": "398|288",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Torrinco",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-23 00:29:54"
+  },
+  {
+    "coordenadas": "417|294",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HENRIKING.xM",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-23 00:29:37"
+  },
+  {
+    "coordenadas": "248|673",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 00:29:15"
+  },
+  {
     "coordenadas": "541|618",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
