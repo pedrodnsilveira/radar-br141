@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "541|618",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 00:27:07"
+  },
+  {
+    "coordenadas": "394|523",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Robertojr09",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 00:26:27"
+  },
+  {
+    "coordenadas": "252|297",
+    "proprietario_anterior": "CrimsonWerewolf490",
+    "tribo_anterior": null,
+    "proprietario_novo": "pragha",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-23 00:26:13"
+  },
+  {
+    "coordenadas": "609|466",
+    "proprietario_anterior": "serpentphoenix",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 00:21:57"
+  },
+  {
+    "coordenadas": "421|306",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 00:20:40"
+  },
+  {
+    "coordenadas": "370|534",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 00:20:21"
+  },
+  {
+    "coordenadas": "180|533",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PolemiCoRF",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 00:20:06"
+  },
+  {
+    "coordenadas": "669|526",
+    "proprietario_anterior": "all-powerfuls",
+    "tribo_anterior": "opera",
+    "proprietario_novo": "csjran",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 00:19:21"
+  },
+  {
+    "coordenadas": "705|268",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LuizVenturoso",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 00:17:54"
+  },
+  {
     "coordenadas": "459|843",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
