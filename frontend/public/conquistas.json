@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "296|569",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 19:57:41"
+  },
+  {
+    "coordenadas": "370|238",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Flyther Sun",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-23 19:56:54"
+  },
+  {
+    "coordenadas": "168|531",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "rafa1398",
+    "tribo_nova": "AUS",
+    "data_hora_conquista": "2026-04-23 19:56:12"
+  },
+  {
+    "coordenadas": "546|552",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 19:50:04"
+  },
+  {
+    "coordenadas": "586|409",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 19:49:56"
+  },
+  {
+    "coordenadas": "359|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Minions",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 19:47:38"
+  },
+  {
     "coordenadas": "591|411",
     "proprietario_anterior": "Yang Fa",
     "tribo_anterior": ".RIP.",
