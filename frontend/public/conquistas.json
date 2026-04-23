@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "444|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 14:54:29"
+  },
+  {
+    "coordenadas": "353|429",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Minions",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 14:53:44"
+  },
+  {
+    "coordenadas": "586|411",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 14:53:09"
+  },
+  {
+    "coordenadas": "424|541",
+    "proprietario_anterior": "Fractora",
+    "tribo_anterior": "FWS",
+    "proprietario_novo": "Nykon",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 14:51:01"
+  },
+  {
+    "coordenadas": "752|675",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wanluc",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-23 14:50:48"
+  },
+  {
     "coordenadas": "713|556",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
