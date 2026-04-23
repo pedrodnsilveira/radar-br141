@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "690|437",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "geydson",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 15:53:53"
+  },
+  {
+    "coordenadas": "680|259",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kikinho",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 15:52:55"
+  },
+  {
+    "coordenadas": "464|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FelipeWizu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 15:49:54"
+  },
+  {
     "coordenadas": "575|376",
     "proprietario_anterior": "Raiof",
     "tribo_anterior": "Pirata",
