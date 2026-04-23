@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "535|519",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 15:28:10"
+  },
+  {
+    "coordenadas": "534|531",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 15:27:39"
+  },
+  {
+    "coordenadas": "340|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 15:25:01"
+  },
+  {
     "coordenadas": "285|440",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
