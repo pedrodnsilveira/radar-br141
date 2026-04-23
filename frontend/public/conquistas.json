@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "430|746",
+    "proprietario_anterior": "Pelantra",
+    "tribo_anterior": null,
+    "proprietario_novo": "Polentero",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 20:27:15"
+  },
+  {
+    "coordenadas": "820|461",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Logan DMC - W.C",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-23 20:25:21"
+  },
+  {
+    "coordenadas": "536|479",
+    "proprietario_anterior": "Spartakus26",
+    "tribo_anterior": "ANY",
+    "proprietario_novo": "Akzzz",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 20:22:46"
+  },
+  {
+    "coordenadas": "541|445",
+    "proprietario_anterior": "CreaweacriX",
+    "tribo_anterior": null,
+    "proprietario_novo": "Marcelo Maeda",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-23 20:21:53"
+  },
+  {
     "coordenadas": "208|714",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
