@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "502|616",
+    "proprietario_anterior": "LuminousExilE274",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 11:28:01"
+  },
+  {
+    "coordenadas": "261|366",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hbm2703",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 11:28:01"
+  },
+  {
+    "coordenadas": "692|459",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maacknx",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 11:24:06"
+  },
+  {
+    "coordenadas": "478|339",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaoalceumombach",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-23 11:23:32"
+  },
+  {
+    "coordenadas": "635|746",
+    "proprietario_anterior": "Ironmaidencs",
+    "tribo_anterior": "ÁGORA",
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 11:22:48"
+  },
+  {
+    "coordenadas": "562|597",
+    "proprietario_anterior": "QaproulokoPrime",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 11:20:02"
+  },
+  {
+    "coordenadas": "445|363",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 11:19:55"
+  },
+  {
     "coordenadas": "734|365",
     "proprietario_anterior": "fava123",
     "tribo_anterior": "RG",
