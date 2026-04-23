@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "575|376",
+    "proprietario_anterior": "Raiof",
+    "tribo_anterior": "Pirata",
+    "proprietario_novo": "picamiolhos",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 15:49:13"
+  },
+  {
+    "coordenadas": "341|306",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 15:48:18"
+  },
+  {
+    "coordenadas": "337|737",
+    "proprietario_anterior": "alexstrindade",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "alexstrindade",
+    "tribo_nova": "-UNI-",
+    "data_hora_conquista": "2026-04-23 15:48:00"
+  },
+  {
+    "coordenadas": "432|683",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 15:47:34"
+  },
+  {
+    "coordenadas": "699|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 15:46:15"
+  },
+  {
+    "coordenadas": "778|631",
+    "proprietario_anterior": "john123",
+    "tribo_anterior": null,
+    "proprietario_novo": "A P O S E N T A D O S",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-23 15:44:46"
+  },
+  {
+    "coordenadas": "173|348",
+    "proprietario_anterior": "TheArcheryRafael",
+    "tribo_anterior": null,
+    "proprietario_novo": "Balao Suspeito",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 15:44:45"
+  },
+  {
+    "coordenadas": "290|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 15:44:34"
+  },
+  {
+    "coordenadas": "559|600",
+    "proprietario_anterior": "mariagem",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 15:44:01"
+  },
+  {
+    "coordenadas": "391|558",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 15:40:08"
+  },
+  {
     "coordenadas": "420|389",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
