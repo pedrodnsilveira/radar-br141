@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "392|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 09:57:38"
+  },
+  {
+    "coordenadas": "652|684",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Limajr81",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 09:57:26"
+  },
+  {
+    "coordenadas": "423|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 09:50:56"
+  },
+  {
     "coordenadas": "467|605",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
