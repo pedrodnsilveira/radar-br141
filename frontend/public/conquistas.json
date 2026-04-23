@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "397|518",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 04:13:10"
+  },
+  {
+    "coordenadas": "441|665",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coxinhabolada",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 04:10:52"
+  },
+  {
+    "coordenadas": "413|549",
+    "proprietario_anterior": "Wagoen",
+    "tribo_anterior": null,
+    "proprietario_novo": "CTRLALTDEL",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 04:07:53"
+  },
+  {
     "coordenadas": "512|651",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
