@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "405|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 08:14:47"
+  },
+  {
+    "coordenadas": "578|680",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 08:09:19"
+  },
+  {
+    "coordenadas": "585|452",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 08:06:03"
+  },
+  {
     "coordenadas": "710|373",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
