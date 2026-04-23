@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "711|647",
+    "proprietario_anterior": "KennoLVLpro",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "Zazu",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 17:16:13"
+  },
+  {
+    "coordenadas": "619|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 17:14:00"
+  },
+  {
+    "coordenadas": "506|577",
+    "proprietario_anterior": "Ciastraafusmeax2415",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 17:10:07"
+  },
+  {
+    "coordenadas": "635|800",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Jander",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-23 17:08:31"
+  },
+  {
+    "coordenadas": "422|676",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dura Teston",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 17:07:29"
+  },
+  {
     "coordenadas": "585|422",
     "proprietario_anterior": "ThunderSpecteR725",
     "tribo_anterior": null,
