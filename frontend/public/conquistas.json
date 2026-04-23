@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "343|306",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 09:23:34"
+  },
+  {
+    "coordenadas": "510|375",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "teomontezano",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-23 09:22:54"
+  },
+  {
+    "coordenadas": "526|508",
+    "proprietario_anterior": "larigo",
+    "tribo_anterior": "TPZ",
+    "proprietario_novo": "pasf",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-23 09:22:23"
+  },
+  {
+    "coordenadas": "232|282",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sumaré",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-23 09:22:19"
+  },
+  {
+    "coordenadas": "438|475",
+    "proprietario_anterior": "fuziu 123",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "fuziu 123",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 09:21:12"
+  },
+  {
+    "coordenadas": "612|464",
+    "proprietario_anterior": "StormGhouL434",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 09:20:56"
+  },
+  {
+    "coordenadas": "473|812",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "goll1",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-23 09:18:26"
+  },
+  {
     "coordenadas": "310|663",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
