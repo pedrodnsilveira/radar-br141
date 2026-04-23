@@ -1,5 +1,101 @@
 [
   {
+    "coordenadas": "600|270",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-23 19:26:25"
+  },
+  {
+    "coordenadas": "517|601",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "valtercampos",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 19:24:29"
+  },
+  {
+    "coordenadas": "681|225",
+    "proprietario_anterior": "Terror da Serra",
+    "tribo_anterior": null,
+    "proprietario_novo": "NinjaGaji",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-23 19:24:12"
+  },
+  {
+    "coordenadas": "370|185",
+    "proprietario_anterior": "JhackDobol",
+    "tribo_anterior": null,
+    "proprietario_novo": "Hadins",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-23 19:22:05"
+  },
+  {
+    "coordenadas": "437|503",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 19:21:41"
+  },
+  {
+    "coordenadas": "460|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "B3Tunes",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-23 19:21:05"
+  },
+  {
+    "coordenadas": "638|523",
+    "proprietario_anterior": "RAFAELL TITAN",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 19:20:55"
+  },
+  {
+    "coordenadas": "402|234",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mdorigattijr",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-23 19:20:15"
+  },
+  {
+    "coordenadas": "599|462",
+    "proprietario_anterior": "DracoIII",
+    "tribo_anterior": null,
+    "proprietario_novo": "mjwilson",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-23 19:19:45"
+  },
+  {
+    "coordenadas": "490|482",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "F-T-C",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-23 19:18:56"
+  },
+  {
+    "coordenadas": "291|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 19:18:04"
+  },
+  {
+    "coordenadas": "215|377",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor UrubuRei",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 19:17:02"
+  },
+  {
     "coordenadas": "357|273",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
