@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "591|411",
+    "proprietario_anterior": "Yang Fa",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "DaarK-",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 19:34:22"
+  },
+  {
+    "coordenadas": "568|591",
+    "proprietario_anterior": "CobaltNexus",
+    "tribo_anterior": null,
+    "proprietario_novo": "RomDamasceno",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 19:34:21"
+  },
+  {
+    "coordenadas": "336|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lordnetu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 19:32:31"
+  },
+  {
+    "coordenadas": "263|475",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 19:30:22"
+  },
+  {
+    "coordenadas": "538|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 19:29:12"
+  },
+  {
+    "coordenadas": "525|637",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WillGrelvo",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 19:28:20"
+  },
+  {
     "coordenadas": "600|270",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
