@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "502|667",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LeaoXP",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 12:47:57"
+  },
+  {
+    "coordenadas": "552|402",
+    "proprietario_anterior": "Nicki Aycox",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 12:45:30"
+  },
+  {
     "coordenadas": "503|524",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
