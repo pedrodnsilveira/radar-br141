@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "434|502",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:13:06"
+  },
+  {
+    "coordenadas": "566|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 18:10:46"
+  },
+  {
+    "coordenadas": "441|503",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:10:17"
+  },
+  {
+    "coordenadas": "447|500",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ERICK JOE",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 18:09:45"
+  },
+  {
+    "coordenadas": "614|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 18:08:28"
+  },
+  {
     "coordenadas": "599|556",
     "proprietario_anterior": "fiercenexus283",
     "tribo_anterior": null,
