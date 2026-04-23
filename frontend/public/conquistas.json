@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "445|490",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 04:55:51"
+  },
+  {
+    "coordenadas": "300|404",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "PeZaDeL0",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-23 04:53:01"
+  },
+  {
+    "coordenadas": "295|572",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-23 04:48:49"
+  },
+  {
     "coordenadas": "544|533",
     "proprietario_anterior": "w77win",
     "tribo_anterior": "DuMau",
