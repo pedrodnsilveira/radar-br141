@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "384|739",
+    "proprietario_anterior": "IgRmS",
+    "tribo_anterior": "PÂNICO",
+    "proprietario_novo": "IgRmS",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 20:36:19"
+  },
+  {
+    "coordenadas": "388|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 20:30:16"
+  },
+  {
     "coordenadas": "430|746",
     "proprietario_anterior": "Pelantra",
     "tribo_anterior": null,
