@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "347|707",
+    "proprietario_anterior": "Kryden",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 21:23:11"
+  },
+  {
+    "coordenadas": "192|595",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sev3rakill",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 21:21:51"
+  },
+  {
+    "coordenadas": "654|763",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mafioso",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-23 21:17:05"
+  },
+  {
+    "coordenadas": "528|466",
+    "proprietario_anterior": "magotejr",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 21:16:36"
+  },
+  {
     "coordenadas": "603|293",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
