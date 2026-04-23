@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "600|768",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7caveira",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-23 03:28:19"
+  },
+  {
+    "coordenadas": "545|525",
+    "proprietario_anterior": "w77win",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 03:27:38"
+  },
+  {
+    "coordenadas": "405|566",
+    "proprietario_anterior": "Eu sou LampiãoPB",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "Playernoob*",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 03:25:53"
+  },
+  {
+    "coordenadas": "478|758",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 03:23:27"
+  },
+  {
+    "coordenadas": "750|645",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "moarabs",
+    "tribo_nova": "AmgK",
+    "data_hora_conquista": "2026-04-23 03:21:18"
+  },
+  {
     "coordenadas": "398|288",
     "proprietario_anterior": "Torrinco",
     "tribo_anterior": "23",
