@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "416|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 06:56:54"
+  },
+  {
+    "coordenadas": "545|556",
+    "proprietario_anterior": "mrgugu",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 06:54:13"
+  },
+  {
+    "coordenadas": "640|657",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pozzebom",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 06:54:06"
+  },
+  {
+    "coordenadas": "589|746",
+    "proprietario_anterior": "Sennin",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "Patty.b",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-23 06:52:38"
+  },
+  {
     "coordenadas": "498|574",
     "proprietario_anterior": "Xiastri",
     "tribo_anterior": null,
