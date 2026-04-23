@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "585|422",
+    "proprietario_anterior": "ThunderSpecteR725",
+    "tribo_anterior": null,
+    "proprietario_novo": "R Rei mustang",
+    "tribo_nova": "CASA",
+    "data_hora_conquista": "2026-04-23 17:06:32"
+  },
+  {
+    "coordenadas": "430|374",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "William Mello",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 16:58:44"
+  },
+  {
+    "coordenadas": "526|532",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 16:58:36"
+  },
+  {
+    "coordenadas": "379|597",
+    "proprietario_anterior": "300 Defender",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "BR 019",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 16:57:55"
+  },
+  {
+    "coordenadas": "410|376",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Leonardo9745",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 16:56:40"
+  },
+  {
     "coordenadas": "539|550",
     "proprietario_anterior": "Dungueira",
     "tribo_anterior": "DuMau",
