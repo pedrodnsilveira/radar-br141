@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "382|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 06:09:58"
+  },
+  {
+    "coordenadas": "403|703",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "didholoko",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 06:09:56"
+  },
+  {
+    "coordenadas": "540|529",
+    "proprietario_anterior": "w77win",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 06:06:19"
+  },
+  {
     "coordenadas": "405|496",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
