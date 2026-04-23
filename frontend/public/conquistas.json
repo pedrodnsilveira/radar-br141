@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "463|475",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 17:58:42"
+  },
+  {
+    "coordenadas": "609|464",
+    "proprietario_anterior": "dinazio",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 17:58:34"
+  },
+  {
+    "coordenadas": "420|335",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 17:52:22"
+  },
+  {
+    "coordenadas": "547|503",
+    "proprietario_anterior": "affirmati",
+    "tribo_anterior": "FC",
+    "proprietario_novo": "marcola120",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 17:51:55"
+  },
+  {
+    "coordenadas": "296|329",
+    "proprietario_anterior": "LordSantana",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-23 17:50:50"
+  },
+  {
     "coordenadas": "274|624",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
