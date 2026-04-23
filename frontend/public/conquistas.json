@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "852|510",
+    "proprietario_anterior": "JPMTG",
+    "tribo_anterior": "KND",
+    "proprietario_novo": "Noberr",
+    "tribo_nova": "[NG]",
+    "data_hora_conquista": "2026-04-23 05:44:54"
+  },
+  {
+    "coordenadas": "536|681",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kelverick",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 05:43:17"
+  },
+  {
+    "coordenadas": "382|393",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 05:42:12"
+  },
+  {
+    "coordenadas": "442|502",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 05:38:58"
+  },
+  {
     "coordenadas": "490|704",
     "proprietario_anterior": "Mogul Khal",
     "tribo_anterior": "PÂNIC0",
