@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "490|704",
+    "proprietario_anterior": "Mogul Khal",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 05:35:27"
+  },
+  {
+    "coordenadas": "469|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 05:30:28"
+  },
+  {
     "coordenadas": "444|490",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
