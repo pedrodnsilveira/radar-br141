@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "443|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 05:51:40"
+  },
+  {
+    "coordenadas": "443|490",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 05:51:32"
+  },
+  {
+    "coordenadas": "797|407",
+    "proprietario_anterior": "rhton",
+    "tribo_anterior": null,
+    "proprietario_novo": "atlas1",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-23 05:49:42"
+  },
+  {
     "coordenadas": "852|510",
     "proprietario_anterior": "JPMTG",
     "tribo_anterior": "KND",
