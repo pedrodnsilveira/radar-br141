@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "638|430",
+    "proprietario_anterior": "volts",
+    "tribo_anterior": "Bora",
+    "proprietario_novo": "Harry Stamper",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-23 09:38:05"
+  },
+  {
+    "coordenadas": "407|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-23 09:37:57"
+  },
+  {
+    "coordenadas": "456|405",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 09:35:03"
+  },
+  {
+    "coordenadas": "393|468",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eduardecks",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-23 09:29:59"
+  },
+  {
+    "coordenadas": "506|418",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-23 09:28:38"
+  },
+  {
     "coordenadas": "343|306",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
