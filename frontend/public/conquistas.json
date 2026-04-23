@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "727|594",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bott",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-22 22:54:59"
+  },
+  {
+    "coordenadas": "557|440",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "andmayme",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-22 22:54:47"
+  },
+  {
+    "coordenadas": "553|559",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nebulosa Fênix",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 22:54:10"
+  },
+  {
+    "coordenadas": "631|399",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-22 22:53:38"
+  },
+  {
+    "coordenadas": "404|625",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shalum",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-22 22:50:42"
+  },
+  {
     "coordenadas": "505|366",
     "proprietario_anterior": "joaoalceumombach",
     "tribo_anterior": "GAL0S",
