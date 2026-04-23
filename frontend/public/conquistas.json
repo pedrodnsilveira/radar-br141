@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "713|556",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vinicius brant",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-23 14:44:42"
+  },
+  {
+    "coordenadas": "685|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-23 14:42:56"
+  },
+  {
     "coordenadas": "507|575",
     "proprietario_anterior": "BecestiprouPrime",
     "tribo_anterior": null,
