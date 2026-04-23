@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "296|570",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-22 22:27:09"
+  },
+  {
+    "coordenadas": "505|578",
+    "proprietario_anterior": "Silmarovi",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 22:26:48"
+  },
+  {
+    "coordenadas": "461|355",
+    "proprietario_anterior": "joaoalceumombach",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 22:21:53"
+  },
+  {
+    "coordenadas": "390|382",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HectoplasmA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-22 22:20:46"
+  },
+  {
+    "coordenadas": "496|568",
+    "proprietario_anterior": "GeivilusmeaNova5401",
+    "tribo_anterior": null,
+    "proprietario_novo": "Edu45678",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-22 22:20:26"
+  },
+  {
     "coordenadas": "616|528",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
