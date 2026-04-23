@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "172|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "rafa1398",
+    "tribo_nova": "AUS",
+    "data_hora_conquista": "2026-04-23 01:17:03"
+  },
+  {
+    "coordenadas": "635|803",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Jander",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-23 01:15:46"
+  },
+  {
+    "coordenadas": "683|714",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "gui1533",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-23 01:15:34"
+  },
+  {
+    "coordenadas": "377|337",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wylsea",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 01:14:44"
+  },
+  {
+    "coordenadas": "382|592",
+    "proprietario_anterior": "King 53",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "BR 019",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 01:14:02"
+  },
+  {
+    "coordenadas": "474|688",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-23 01:12:17"
+  },
+  {
     "coordenadas": "256|632",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
