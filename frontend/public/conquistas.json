@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "337|307",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-23 12:07:11"
+  },
+  {
+    "coordenadas": "482|560",
+    "proprietario_anterior": "maionese de alho",
+    "tribo_anterior": "PFMVL",
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-23 12:02:51"
+  },
+  {
     "coordenadas": "386|569",
     "proprietario_anterior": "IDakaHz",
     "tribo_anterior": "FN",
