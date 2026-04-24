@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "641|468",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dionatammattos",
+    "tribo_nova": "MARMAS",
+    "data_hora_conquista": "2026-04-24 11:33:36"
+  },
+  {
+    "coordenadas": "201|391",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ex Presidentes",
+    "tribo_nova": "C_I_A",
+    "data_hora_conquista": "2026-04-24 11:30:44"
+  },
+  {
+    "coordenadas": "732|551",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Safo",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 11:29:51"
+  },
+  {
+    "coordenadas": "588|418",
+    "proprietario_anterior": "Yang Fa",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "DaarK-",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 11:29:03"
+  },
+  {
+    "coordenadas": "442|560",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Jax Teller -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 11:26:55"
+  },
+  {
+    "coordenadas": "302|695",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BadDani",
+    "tribo_nova": "SNK",
+    "data_hora_conquista": "2026-04-24 11:26:45"
+  },
+  {
     "coordenadas": "530|383",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
