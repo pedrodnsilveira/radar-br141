@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "491|606",
+    "proprietario_anterior": "Tia da Limpeza",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "Tia da Limpeza",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 11:15:08"
+  },
+  {
+    "coordenadas": "346|258",
+    "proprietario_anterior": "Oliver Queen.",
+    "tribo_anterior": "23",
+    "proprietario_novo": "Oliver Queen.",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-24 11:07:24"
+  },
+  {
     "coordenadas": "779|637",
     "proprietario_anterior": "HaplessBeast",
     "tribo_anterior": null,
