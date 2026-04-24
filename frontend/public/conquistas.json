@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "481|623",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chemical",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 18:15:33"
+  },
+  {
+    "coordenadas": "696|510",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luanfraga",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-24 18:12:55"
+  },
+  {
+    "coordenadas": "414|599",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 18:08:08"
+  },
+  {
+    "coordenadas": "333|405",
+    "proprietario_anterior": "Ninbre",
+    "tribo_anterior": null,
+    "proprietario_novo": "maikonav",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-24 18:07:26"
+  },
+  {
+    "coordenadas": "751|711",
+    "proprietario_anterior": "BraajesnistiaFlux",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lendário DELARUA",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-24 18:07:10"
+  },
+  {
     "coordenadas": "516|403",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
