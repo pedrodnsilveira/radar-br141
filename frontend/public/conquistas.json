@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "690|669",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Skull01",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-24 11:45:30"
+  },
+  {
+    "coordenadas": "602|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tuliorassis",
+    "tribo_nova": "*----*",
+    "data_hora_conquista": "2026-04-24 11:45:21"
+  },
+  {
+    "coordenadas": "580|420",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 11:41:28"
+  },
+  {
     "coordenadas": "641|468",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
