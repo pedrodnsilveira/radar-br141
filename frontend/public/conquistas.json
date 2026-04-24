@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "587|414",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 16:22:03"
+  },
+  {
+    "coordenadas": "444|420",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Mayconk -",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 16:17:43"
+  },
+  {
+    "coordenadas": "636|429",
+    "proprietario_anterior": "RagingShinobI846",
+    "tribo_anterior": null,
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 16:17:17"
+  },
+  {
     "coordenadas": "244|281",
     "proprietario_anterior": "Solar Leviathan947",
     "tribo_anterior": null,
