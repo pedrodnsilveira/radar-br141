@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "214|614",
+    "proprietario_anterior": "Gabe",
+    "tribo_anterior": "SPARTA",
+    "proprietario_novo": "kowsatchel",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 09:18:22"
+  },
+  {
+    "coordenadas": "700|245",
+    "proprietario_anterior": "sql1njection",
+    "tribo_anterior": "MLS",
+    "proprietario_novo": "joaopaulofrann",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 09:16:40"
+  },
+  {
+    "coordenadas": "375|643",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nagato.Uzumaki",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-24 09:14:24"
+  },
+  {
+    "coordenadas": "461|594",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Noke Destroyer",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 09:13:01"
+  },
+  {
+    "coordenadas": "304|773",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PitocoOFClans",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-24 09:12:50"
+  },
+  {
+    "coordenadas": "481|495",
+    "proprietario_anterior": "REI yo",
+    "tribo_anterior": "GRE",
+    "proprietario_novo": "GALO - A LENDA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 09:12:40"
+  },
+  {
+    "coordenadas": "802|462",
+    "proprietario_anterior": "DragonSlayerBR",
+    "tribo_anterior": null,
+    "proprietario_novo": "K1LL3R",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 09:09:45"
+  },
+  {
     "coordenadas": "305|517",
     "proprietario_anterior": "bisgui",
     "tribo_anterior": null,
