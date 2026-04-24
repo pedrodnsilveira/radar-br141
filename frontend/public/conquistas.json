@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "437|537",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 07:06:00"
+  },
+  {
+    "coordenadas": "433|374",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "William Mello",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 07:05:52"
+  },
+  {
     "coordenadas": "438|539",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
