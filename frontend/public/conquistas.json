@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "588|415",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 21:37:06"
+  },
+  {
+    "coordenadas": "558|607",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 21:36:36"
+  },
+  {
+    "coordenadas": "515|407",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 21:31:44"
+  },
+  {
     "coordenadas": "447|808",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
