@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "530|383",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 11:24:10"
+  },
+  {
+    "coordenadas": "392|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 11:20:38"
+  },
+  {
+    "coordenadas": "644|318",
+    "proprietario_anterior": "FabledRoguE",
+    "tribo_anterior": null,
+    "proprietario_novo": "HUNT3R",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 11:18:09"
+  },
+  {
     "coordenadas": "491|606",
     "proprietario_anterior": "Tia da Limpeza",
     "tribo_anterior": "[A]",
