@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "227|534",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HAYLANDER.S45",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 10:30:34"
+  },
+  {
+    "coordenadas": "492|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hugolink3d",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-24 10:29:01"
+  },
+  {
+    "coordenadas": "520|539",
+    "proprietario_anterior": "rparagis",
+    "tribo_anterior": "SHOW",
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 10:26:39"
+  },
+  {
     "coordenadas": "604|423",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
