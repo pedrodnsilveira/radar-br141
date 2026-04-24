@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "468|633",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 12:35:20"
+  },
+  {
+    "coordenadas": "474|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusass",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 12:32:35"
+  },
+  {
+    "coordenadas": "520|572",
+    "proprietario_anterior": "StaciocreaZero",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 12:31:11"
+  },
+  {
     "coordenadas": "392|570",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
