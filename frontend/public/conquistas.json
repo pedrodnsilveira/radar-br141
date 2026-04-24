@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "465|608",
+    "proprietario_anterior": "JADEROGUE",
+    "tribo_anterior": null,
+    "proprietario_novo": "andrecattoo",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 15:55:20"
+  },
+  {
+    "coordenadas": "612|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lord fild",
+    "tribo_nova": ".PPP.",
+    "data_hora_conquista": "2026-04-24 15:48:08"
+  },
+  {
+    "coordenadas": "499|471",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 15:47:05"
+  },
+  {
+    "coordenadas": "498|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 15:47:00"
+  },
+  {
     "coordenadas": "446|814",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
