@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "682|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Triguinal",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 10:13:56"
+  },
+  {
+    "coordenadas": "612|550",
+    "proprietario_anterior": "Yandurlacher",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "ReisC",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 10:09:09"
+  },
+  {
     "coordenadas": "477|569",
     "proprietario_anterior": "Jaboustrio1471",
     "tribo_anterior": null,
