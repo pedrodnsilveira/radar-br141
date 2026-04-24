@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "392|570",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 12:24:46"
+  },
+  {
+    "coordenadas": "718|626",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavanhas",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-24 12:23:53"
+  },
+  {
+    "coordenadas": "471|542",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "paulohque",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 12:23:29"
+  },
+  {
+    "coordenadas": "299|600",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 12:22:43"
+  },
+  {
+    "coordenadas": "499|543",
+    "proprietario_anterior": "justiceiro13",
+    "tribo_anterior": "COLh",
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 12:22:30"
+  },
+  {
+    "coordenadas": "774|654",
+    "proprietario_anterior": "xXBR1T0Xx",
+    "tribo_anterior": null,
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-24 12:20:52"
+  },
+  {
     "coordenadas": "263|548",
     "proprietario_anterior": "Fiazaqiozor",
     "tribo_anterior": null,
