@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "416|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 12:56:49"
+  },
+  {
+    "coordenadas": "376|360",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tiboiosco1972",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 12:52:28"
+  },
+  {
+    "coordenadas": "503|299",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "aranha assassina",
+    "tribo_nova": "ARAC",
+    "data_hora_conquista": "2026-04-24 12:50:17"
+  },
+  {
     "coordenadas": "590|399",
     "proprietario_anterior": "DaarK-",
     "tribo_anterior": "RIP",
