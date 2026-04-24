@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "471|332",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "rocagi",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-24 07:12:58"
+  },
+  {
+    "coordenadas": "438|507",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 07:11:34"
+  },
+  {
     "coordenadas": "437|537",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
