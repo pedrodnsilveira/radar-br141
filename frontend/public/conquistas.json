@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "826|460",
+    "proprietario_anterior": "Sandero Authentique",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "OHGAEL",
+    "tribo_nova": "K48",
+    "data_hora_conquista": "2026-04-24 21:44:47"
+  },
+  {
+    "coordenadas": "599|285",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-24 21:44:22"
+  },
+  {
+    "coordenadas": "607|459",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saviojoiasss",
+    "tribo_nova": "APOLLO",
+    "data_hora_conquista": "2026-04-24 21:41:15"
+  },
+  {
+    "coordenadas": "157|431",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fortuna",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-24 21:40:38"
+  },
+  {
+    "coordenadas": "567|623",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silenc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 21:40:08"
+  },
+  {
+    "coordenadas": "692|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 21:38:34"
+  },
+  {
     "coordenadas": "588|415",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
