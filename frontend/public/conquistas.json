@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "582|408",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 18:32:29"
+  },
+  {
+    "coordenadas": "238|364",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "EXUZADA",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-24 18:27:20"
+  },
+  {
     "coordenadas": "511|675",
     "proprietario_anterior": "Miguel Zinho",
     "tribo_anterior": "PÂNIC0",
