@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "780|594",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tenebrozu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 19:54:09"
+  },
+  {
+    "coordenadas": "565|390",
+    "proprietario_anterior": "Sir.Chini",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 19:52:34"
+  },
+  {
+    "coordenadas": "565|390",
+    "proprietario_anterior": "Binnhosantos",
+    "tribo_anterior": "MMCV",
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 19:52:33"
+  },
+  {
+    "coordenadas": "391|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 19:48:55"
+  },
+  {
+    "coordenadas": "490|554",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 19:48:22"
+  },
+  {
     "coordenadas": "460|844",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
