@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "340|176",
+    "proprietario_anterior": "Fabricio1288",
+    "tribo_anterior": "F's",
+    "proprietario_novo": "Moçambique7",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-24 14:32:30"
+  },
+  {
+    "coordenadas": "300|701",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "King Heintze",
+    "tribo_nova": "SNK",
+    "data_hora_conquista": "2026-04-24 14:31:47"
+  },
+  {
+    "coordenadas": "779|639",
+    "proprietario_anterior": "Tamoai",
+    "tribo_anterior": null,
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-24 14:27:38"
+  },
+  {
+    "coordenadas": "659|224",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NinjaGaji",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-24 14:27:04"
+  },
+  {
     "coordenadas": "536|403",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
