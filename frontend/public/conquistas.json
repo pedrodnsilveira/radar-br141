@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "471|793",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Belryk",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-24 15:02:16"
+  },
+  {
+    "coordenadas": "779|630",
+    "proprietario_anterior": "dalaxep",
+    "tribo_anterior": null,
+    "proprietario_novo": "A P O S E N T A D O S",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-24 14:59:32"
+  },
+  {
+    "coordenadas": "399|237",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferpa17",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-24 14:59:11"
+  },
+  {
+    "coordenadas": "592|413",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 14:58:10"
+  },
+  {
     "coordenadas": "384|517",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
