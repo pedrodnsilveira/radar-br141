@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "573|680",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 04:55:29"
+  },
+  {
+    "coordenadas": "376|566",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lord will",
+    "tribo_nova": "SCA",
+    "data_hora_conquista": "2026-04-24 04:51:59"
+  },
+  {
+    "coordenadas": "324|441",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mestredaguerra07",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-24 04:51:07"
+  },
+  {
+    "coordenadas": "738|547",
+    "proprietario_anterior": "ArcaneVaultWarden",
+    "tribo_anterior": null,
+    "proprietario_novo": "Abul.",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 04:48:04"
+  },
+  {
+    "coordenadas": "817|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "RBALVES",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 04:47:47"
+  },
+  {
     "coordenadas": "392|327",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
