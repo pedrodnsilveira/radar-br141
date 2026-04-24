@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "597|435",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 09:28:29"
+  },
+  {
+    "coordenadas": "542|181",
+    "proprietario_anterior": "bartico",
+    "tribo_anterior": "=WP=",
+    "proprietario_novo": "TiagoGTA",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-24 09:28:02"
+  },
+  {
+    "coordenadas": "622|437",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 09:24:58"
+  },
+  {
+    "coordenadas": "560|364",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NABUCO DONOSOR",
+    "tribo_nova": "SPN",
+    "data_hora_conquista": "2026-04-24 09:24:26"
+  },
+  {
+    "coordenadas": "467|743",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dub san master",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-24 09:21:30"
+  },
+  {
+    "coordenadas": "635|802",
+    "proprietario_anterior": "Jander",
+    "tribo_anterior": "FENIX",
+    "proprietario_novo": "Enterprise",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-24 09:20:31"
+  },
+  {
+    "coordenadas": "613|443",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 09:20:27"
+  },
+  {
+    "coordenadas": "458|408",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 09:19:12"
+  },
+  {
     "coordenadas": "214|614",
     "proprietario_anterior": "Gabe",
     "tribo_anterior": "SPARTA",
