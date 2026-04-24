@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "547|600",
+    "proprietario_anterior": "The Arrow",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "The Arrow",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 03:06:35"
+  },
+  {
+    "coordenadas": "601|743",
+    "proprietario_anterior": "blacksands",
+    "tribo_anterior": null,
+    "proprietario_novo": "anao cego",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-24 03:00:05"
+  },
+  {
+    "coordenadas": "443|598",
+    "proprietario_anterior": "ABYSSALMONARCH31",
+    "tribo_anterior": null,
+    "proprietario_novo": "Playernoob*",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 02:57:29"
+  },
+  {
+    "coordenadas": "288|616",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 02:53:49"
+  },
+  {
+    "coordenadas": "524|356",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lancelot",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 02:47:37"
+  },
+  {
     "coordenadas": "600|603",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
