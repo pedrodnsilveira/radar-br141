@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "401|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "shalum",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 05:00:49"
+  },
+  {
     "coordenadas": "573|680",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
