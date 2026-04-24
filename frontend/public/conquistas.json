@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "474|581",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusass",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 19:11:38"
+  },
+  {
+    "coordenadas": "667|368",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Balduíno Rei IV",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 19:11:01"
+  },
+  {
+    "coordenadas": "763|381",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor SenhorDaGuerra",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 19:10:49"
+  },
+  {
+    "coordenadas": "622|467",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 19:10:41"
+  },
+  {
+    "coordenadas": "537|676",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kelverick",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 19:08:01"
+  },
+  {
     "coordenadas": "455|461",
     "proprietario_anterior": "ADELINOIII",
     "tribo_anterior": "A.K",
