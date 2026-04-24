@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "632|429",
+    "proprietario_anterior": "Isabbb",
+    "tribo_anterior": "JKX",
+    "proprietario_novo": "seirin",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 03:25:14"
+  },
+  {
+    "coordenadas": "396|650",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "antonio98",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 03:20:51"
+  },
+  {
+    "coordenadas": "429|431",
+    "proprietario_anterior": "A Besta Humana",
+    "tribo_anterior": "A.K",
+    "proprietario_novo": "Thiago Mendonça",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 03:19:25"
+  },
+  {
     "coordenadas": "344|297",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
