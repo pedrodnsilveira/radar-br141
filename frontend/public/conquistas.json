@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "247|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 02:08:12"
+  },
+  {
+    "coordenadas": "272|274",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mmch",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-24 01:58:59"
+  },
+  {
     "coordenadas": "444|480",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
