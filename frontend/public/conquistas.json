@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "589|783",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "luiz123santos",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-24 07:56:28"
+  },
+  {
+    "coordenadas": "257|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 07:56:04"
+  },
+  {
+    "coordenadas": "359|501",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SteamUser1687825822",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-24 07:52:21"
+  },
+  {
+    "coordenadas": "768|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zoi de Gato",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 07:45:41"
+  },
+  {
     "coordenadas": "214|413",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
