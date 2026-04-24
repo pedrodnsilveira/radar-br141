@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "456|181",
+    "proprietario_anterior": "STELLARSORCERER128",
+    "tribo_anterior": null,
+    "proprietario_novo": "UnnieKon",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-24 10:54:26"
+  },
+  {
+    "coordenadas": "636|461",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bilk",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 10:53:53"
+  },
+  {
+    "coordenadas": "529|408",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "giorgiotenorio",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-24 10:53:29"
+  },
+  {
+    "coordenadas": "501|549",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 10:52:28"
+  },
+  {
+    "coordenadas": "533|355",
+    "proprietario_anterior": "Marlon 20",
+    "tribo_anterior": null,
+    "proprietario_novo": "Schellito",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-24 10:50:12"
+  },
+  {
+    "coordenadas": "207|497",
+    "proprietario_anterior": "naturalweed",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "Rei Constantinos",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-24 10:47:33"
+  },
+  {
+    "coordenadas": "379|559",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 10:47:03"
+  },
+  {
+    "coordenadas": "503|588",
+    "proprietario_anterior": "GUINAOLIVER1",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lajes",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 10:45:52"
+  },
+  {
     "coordenadas": "427|831",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
