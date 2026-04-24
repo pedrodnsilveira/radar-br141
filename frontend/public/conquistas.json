@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "498|545",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 20:45:50"
+  },
+  {
+    "coordenadas": "439|317",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mathtocera",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 20:44:33"
+  },
+  {
     "coordenadas": "665|492",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
