@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "548|601",
+    "proprietario_anterior": "InfernalSlayeR180",
+    "tribo_anterior": null,
+    "proprietario_novo": "juninhounderground",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 21:12:01"
+  },
+  {
+    "coordenadas": "473|593",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 21:10:16"
+  },
+  {
+    "coordenadas": "625|504",
+    "proprietario_anterior": "0xu763gl",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 21:06:53"
+  },
+  {
     "coordenadas": "658|497",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
