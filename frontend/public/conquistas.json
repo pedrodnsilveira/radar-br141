@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "401|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 05:18:33"
+  },
+  {
+    "coordenadas": "380|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 05:18:22"
+  },
+  {
+    "coordenadas": "457|507",
+    "proprietario_anterior": "berna",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "Sexabanda",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 05:15:29"
+  },
+  {
     "coordenadas": "664|495",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
