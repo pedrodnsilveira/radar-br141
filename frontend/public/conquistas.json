@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "265|617",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 19:59:13"
+  },
+  {
+    "coordenadas": "551|607",
+    "proprietario_anterior": "Chave Fenda",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "Corta pra mim",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 19:51:45"
+  },
+  {
+    "coordenadas": "303|351",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kbuloso",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-25 19:51:06"
+  },
+  {
+    "coordenadas": "526|224",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "gélido",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-25 19:50:36"
+  },
+  {
     "coordenadas": "388|375",
     "proprietario_anterior": "Diegoejociane",
     "tribo_anterior": null,
