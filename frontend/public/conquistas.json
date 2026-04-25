@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "409|257",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Soyuz",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-24 21:57:56"
+  },
+  {
+    "coordenadas": "517|687",
+    "proprietario_anterior": "Miguel Zinho",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 21:55:01"
+  },
+  {
+    "coordenadas": "432|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeaDLove",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 21:53:57"
+  },
+  {
+    "coordenadas": "472|831",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TricolorMH",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-24 21:53:38"
+  },
+  {
+    "coordenadas": "624|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 21:48:58"
+  },
+  {
     "coordenadas": "826|460",
     "proprietario_anterior": "Sandero Authentique",
     "tribo_anterior": ".RIP.",
