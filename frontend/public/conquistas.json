@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "338|263",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Oliver Queen.",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-25 19:04:03"
+  },
+  {
+    "coordenadas": "181|397",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "leoleonardo1998",
+    "tribo_nova": "C_I_A",
+    "data_hora_conquista": "2026-04-25 19:02:48"
+  },
+  {
+    "coordenadas": "522|338",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ARIZONA",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 19:01:12"
+  },
+  {
+    "coordenadas": "478|387",
+    "proprietario_anterior": "YAWNINGGUNDAM634",
+    "tribo_anterior": null,
+    "proprietario_novo": "O Bispo",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 19:00:59"
+  },
+  {
+    "coordenadas": "755|617",
+    "proprietario_anterior": "jambrador",
+    "tribo_anterior": null,
+    "proprietario_novo": "MatheusKiroBr",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 18:59:05"
+  },
+  {
     "coordenadas": "316|348",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
