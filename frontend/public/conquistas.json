@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "457|367",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 20:57:00"
+  },
+  {
+    "coordenadas": "682|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 20:53:50"
+  },
+  {
     "coordenadas": "423|538",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
