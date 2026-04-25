@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "610|710",
+    "proprietario_anterior": "QUASETEBOLOTEI",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 20:14:37"
+  },
+  {
+    "coordenadas": "798|617",
+    "proprietario_anterior": "TheCold",
+    "tribo_anterior": "RG",
+    "proprietario_novo": "Kolore",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 20:13:13"
+  },
+  {
+    "coordenadas": "612|462",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 20:09:26"
+  },
+  {
     "coordenadas": "265|617",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
