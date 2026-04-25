@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "510|660",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DUDYss",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 21:15:06"
+  },
+  {
+    "coordenadas": "734|574",
+    "proprietario_anterior": "SACI DE PATINETTE",
+    "tribo_anterior": "MaT",
+    "proprietario_novo": "tenebrozu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 21:14:23"
+  },
+  {
+    "coordenadas": "399|241",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferpa17",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-25 21:13:19"
+  },
+  {
+    "coordenadas": "412|333",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 21:08:01"
+  },
+  {
     "coordenadas": "552|599",
     "proprietario_anterior": "Orósio de Souza",
     "tribo_anterior": null,
