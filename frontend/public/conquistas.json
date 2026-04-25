@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "632|241",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Legendre",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-24 22:26:21"
+  },
+  {
+    "coordenadas": "378|597",
+    "proprietario_anterior": "300 Defender",
+    "tribo_anterior": "PÂNIC0",
+    "proprietario_novo": "BR 019",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 22:26:13"
+  },
+  {
+    "coordenadas": "758|530",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pfvrluis",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-24 22:25:32"
+  },
+  {
+    "coordenadas": "505|622",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "design.inthedark",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 22:25:06"
+  },
+  {
+    "coordenadas": "629|557",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ioriaxe",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-24 22:24:18"
+  },
+  {
+    "coordenadas": "591|462",
+    "proprietario_anterior": "mjwilson",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 22:23:11"
+  },
+  {
+    "coordenadas": "639|263",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amnesus",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-24 22:21:17"
+  },
+  {
+    "coordenadas": "314|538",
+    "proprietario_anterior": "bisgui",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 22:20:01"
+  },
+  {
     "coordenadas": "550|420",
     "proprietario_anterior": "Loretta Devine",
     "tribo_anterior": "SPN",
