@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "420|387",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeaDLove",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-24 23:45:38"
+  },
+  {
+    "coordenadas": "597|463",
+    "proprietario_anterior": "mjwilson",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 23:41:16"
+  },
+  {
+    "coordenadas": "478|700",
+    "proprietario_anterior": "KAUE ESTEVES",
+    "tribo_anterior": "PÂNICO",
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 23:39:39"
+  },
+  {
+    "coordenadas": "478|700",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-24 23:39:25"
+  },
+  {
+    "coordenadas": "524|636",
+    "proprietario_anterior": "Torricelli",
+    "tribo_anterior": "Dubar",
+    "proprietario_novo": "WillGrelvo",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-24 23:39:24"
+  },
+  {
     "coordenadas": "595|570",
     "proprietario_anterior": "Yandurlacher",
     "tribo_anterior": "[A]",
