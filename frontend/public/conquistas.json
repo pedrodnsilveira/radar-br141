@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "500|458",
+    "proprietario_anterior": "QiostroucoFlux",
+    "tribo_anterior": "WM",
+    "proprietario_novo": "cerberus azul",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-25 13:13:22"
+  },
+  {
+    "coordenadas": "783|659",
+    "proprietario_anterior": "TiagoFG",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mazzera.",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 13:12:41"
+  },
+  {
+    "coordenadas": "662|712",
+    "proprietario_anterior": "Cnogueira",
+    "tribo_anterior": null,
+    "proprietario_novo": "BrunoGB",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 13:10:45"
+  },
+  {
+    "coordenadas": "672|813",
+    "proprietario_anterior": "Mestre-Jiraya",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mestre-Jiraya",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 13:08:56"
+  },
+  {
+    "coordenadas": "401|654",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Black Horse",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 13:08:14"
+  },
+  {
+    "coordenadas": "672|813",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mestre-Jiraya",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 13:08:04"
+  },
+  {
     "coordenadas": "363|705",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
