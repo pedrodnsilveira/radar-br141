@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "491|484",
+    "proprietario_anterior": "exempthandlebar",
+    "tribo_anterior": "LBB",
+    "proprietario_novo": "F-T-C",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-25 10:05:18"
+  },
+  {
+    "coordenadas": "596|405",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Google -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 10:03:55"
+  },
+  {
+    "coordenadas": "427|519",
+    "proprietario_anterior": "nandopires",
+    "tribo_anterior": null,
+    "proprietario_novo": "Negomel",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 10:03:26"
+  },
+  {
     "coordenadas": "413|800",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
