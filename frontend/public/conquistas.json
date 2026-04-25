@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "447|463",
+    "proprietario_anterior": "maximos 52",
+    "tribo_anterior": "A.K",
+    "proprietario_novo": "bertoli",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 01:33:45"
+  },
+  {
+    "coordenadas": "457|584",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TCards",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 01:28:06"
+  },
+  {
+    "coordenadas": "549|402",
+    "proprietario_anterior": "Lord dragao negro",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 01:27:00"
+  },
+  {
     "coordenadas": "235|605",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
