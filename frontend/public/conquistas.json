@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "664|495",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 05:04:31"
+  },
+  {
+    "coordenadas": "346|725",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bluezinha",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 04:59:15"
+  },
+  {
     "coordenadas": "465|624",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
