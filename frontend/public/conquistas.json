@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "484|542",
+    "proprietario_anterior": "pororocarafa",
+    "tribo_anterior": "SPQRPL",
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 20:34:08"
+  },
+  {
+    "coordenadas": "589|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "enricoorsi",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-25 20:33:33"
+  },
+  {
+    "coordenadas": "753|633",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 20:33:23"
+  },
+  {
+    "coordenadas": "724|610",
+    "proprietario_anterior": "Sold Hollow",
+    "tribo_anterior": null,
+    "proprietario_novo": "JWJU",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 20:32:46"
+  },
+  {
+    "coordenadas": "634|429",
+    "proprietario_anterior": "seirin",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "pdroherc",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 20:32:19"
+  },
+  {
+    "coordenadas": "237|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lincão",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 20:30:06"
+  },
+  {
     "coordenadas": "477|401",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
