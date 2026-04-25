@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "387|532",
+    "proprietario_anterior": "cleber 25",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 16:55:40"
+  },
+  {
+    "coordenadas": "387|532",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 16:55:28"
+  },
+  {
+    "coordenadas": "633|740",
+    "proprietario_anterior": "RA EN AH TÉM",
+    "tribo_anterior": "ÁGORA",
+    "proprietario_novo": "lordconrado2",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 16:54:10"
+  },
+  {
+    "coordenadas": "485|422",
+    "proprietario_anterior": "Kaivaawia",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapitaoWhey",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-25 16:48:15"
+  },
+  {
     "coordenadas": "553|210",
     "proprietario_anterior": "bahiarogerio1",
     "tribo_anterior": "NP",
