@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "512|230",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Domanzi",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-25 15:54:11"
+  },
+  {
+    "coordenadas": "782|619",
+    "proprietario_anterior": "7IronX",
+    "tribo_anterior": null,
+    "proprietario_novo": "Prince EpiczZ x Kolore",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 15:54:10"
+  },
+  {
+    "coordenadas": "476|399",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 15:50:01"
+  },
+  {
     "coordenadas": "518|575",
     "proprietario_anterior": "HeastracaaX",
     "tribo_anterior": null,
