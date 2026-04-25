@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "575|406",
+    "proprietario_anterior": "Yang Fa",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "DaarK-",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 16:10:11"
+  },
+  {
+    "coordenadas": "759|618",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 16:09:43"
+  },
+  {
+    "coordenadas": "831|432",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Zed",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 16:08:14"
+  },
+  {
+    "coordenadas": "631|319",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-=MALUNGO=-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 16:06:31"
+  },
+  {
     "coordenadas": "515|466",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
