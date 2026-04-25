@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "316|348",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-25 18:57:15"
+  },
+  {
+    "coordenadas": "248|286",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rsraupp",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-25 18:53:51"
+  },
+  {
+    "coordenadas": "272|263",
+    "proprietario_anterior": "Mike 321",
+    "tribo_anterior": null,
+    "proprietario_novo": "Scalld",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-25 18:49:57"
+  },
+  {
+    "coordenadas": "388|546",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 18:49:26"
+  },
+  {
     "coordenadas": "469|581",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
