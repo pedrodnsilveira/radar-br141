@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "431|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 08:57:48"
+  },
+  {
+    "coordenadas": "552|632",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cerebroeng",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 08:56:10"
+  },
+  {
+    "coordenadas": "463|632",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 08:51:16"
+  },
+  {
+    "coordenadas": "379|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 08:49:48"
+  },
+  {
     "coordenadas": "365|647",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
