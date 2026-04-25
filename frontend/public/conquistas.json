@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "798|617",
+    "proprietario_anterior": "97caf",
+    "tribo_anterior": null,
+    "proprietario_novo": "TheCold",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 12:25:05"
+  },
+  {
+    "coordenadas": "644|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 12:24:36"
+  },
+  {
+    "coordenadas": "525|163",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "j.demolidor",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 12:21:37"
+  },
+  {
     "coordenadas": "462|604",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
