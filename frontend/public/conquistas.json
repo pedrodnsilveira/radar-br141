@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "530|394",
+    "proprietario_anterior": "Cecílio Ribeiro",
+    "tribo_anterior": null,
+    "proprietario_novo": "Terror1luna",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 21:27:22"
+  },
+  {
+    "coordenadas": "321|576",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 21:24:39"
+  },
+  {
+    "coordenadas": "400|651",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "antonio98",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 21:24:21"
+  },
+  {
+    "coordenadas": "590|734",
+    "proprietario_anterior": "blacksands",
+    "tribo_anterior": null,
+    "proprietario_novo": "Jozam",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 21:22:45"
+  },
+  {
+    "coordenadas": "375|388",
+    "proprietario_anterior": "-MYTHRANDIR-",
+    "tribo_anterior": null,
+    "proprietario_novo": "renan.santos",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 21:21:32"
+  },
+  {
+    "coordenadas": "447|363",
+    "proprietario_anterior": "lord soberano",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "lord soberano",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-25 21:19:41"
+  },
+  {
+    "coordenadas": "201|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Molotov",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 21:17:39"
+  },
+  {
     "coordenadas": "510|660",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
