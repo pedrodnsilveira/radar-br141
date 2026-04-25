@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "441|482",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fuziu 123",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 07:55:51"
+  },
+  {
+    "coordenadas": "349|766",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "barbudo",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-25 07:53:56"
+  },
+  {
+    "coordenadas": "632|754",
+    "proprietario_anterior": "Fiord",
+    "tribo_anterior": "ÁGORA",
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 07:51:25"
+  },
+  {
+    "coordenadas": "610|176",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VAMDS2",
+    "tribo_nova": "MSG",
+    "data_hora_conquista": "2026-04-25 07:49:57"
+  },
+  {
     "coordenadas": "564|540",
     "proprietario_anterior": "QiafeguvriaPrime8297",
     "tribo_anterior": null,
