@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "428|675",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dura Teston",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 04:35:22"
+  },
+  {
+    "coordenadas": "613|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pdroherc",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 04:32:00"
+  },
+  {
+    "coordenadas": "283|640",
+    "proprietario_anterior": "TamborimDeOuro",
+    "tribo_anterior": "3OS",
+    "proprietario_novo": "TamborimDeOuro",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 04:28:41"
+  },
+  {
     "coordenadas": "659|493",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
