@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "169|465",
+    "proprietario_anterior": "Casadas1",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "joliz",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-25 17:14:20"
+  },
+  {
+    "coordenadas": "412|557",
+    "proprietario_anterior": "cookedcell",
+    "tribo_anterior": null,
+    "proprietario_novo": "Haulbrosley",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 17:14:18"
+  },
+  {
+    "coordenadas": "712|777",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eliezer schmidel",
+    "tribo_nova": "SS",
+    "data_hora_conquista": "2026-04-25 17:13:58"
+  },
+  {
+    "coordenadas": "541|467",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 17:13:45"
+  },
+  {
+    "coordenadas": "390|719",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fazenda B.G",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 17:10:56"
+  },
+  {
+    "coordenadas": "412|510",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bugado",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 17:07:48"
+  },
+  {
     "coordenadas": "355|567",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
