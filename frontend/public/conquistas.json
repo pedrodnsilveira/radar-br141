@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "601|775",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Volverine-",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 14:38:12"
+  },
+  {
+    "coordenadas": "420|537",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "noha T.U.E",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 14:37:47"
+  },
+  {
+    "coordenadas": "508|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 14:36:27"
+  },
+  {
+    "coordenadas": "727|462",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 14:36:20"
+  },
+  {
+    "coordenadas": "599|462",
+    "proprietario_anterior": "mjwilson",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 14:35:37"
+  },
+  {
+    "coordenadas": "471|574",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NBL Allan",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 14:34:05"
+  },
+  {
+    "coordenadas": "392|370",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VTNeo",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 14:32:55"
+  },
+  {
+    "coordenadas": "487|437",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "PedroGarcia17",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 14:31:28"
+  },
+  {
+    "coordenadas": "779|362",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Crazy Arrows",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-25 14:29:44"
+  },
+  {
+    "coordenadas": "667|489",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 14:29:08"
+  },
+  {
     "coordenadas": "228|599",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
