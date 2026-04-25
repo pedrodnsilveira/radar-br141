@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "487|604",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Capiyvara",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 15:31:47"
+  },
+  {
+    "coordenadas": "698|387",
+    "proprietario_anterior": "HeroicRideR823",
+    "tribo_anterior": null,
+    "proprietario_novo": "theusmatxr",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 15:30:11"
+  },
+  {
+    "coordenadas": "611|710",
+    "proprietario_anterior": "LucasBen10",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 15:30:05"
+  },
+  {
+    "coordenadas": "281|641",
+    "proprietario_anterior": "JociAfonso",
+    "tribo_anterior": "-3OS-",
+    "proprietario_novo": "TamborimDeOuro",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 15:29:37"
+  },
+  {
+    "coordenadas": "185|585",
+    "proprietario_anterior": "Dyow",
+    "tribo_anterior": null,
+    "proprietario_novo": "SuperMagnos",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-25 15:29:32"
+  },
+  {
     "coordenadas": "403|629",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
