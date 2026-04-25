@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "645|508",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 15:16:43"
+  },
+  {
+    "coordenadas": "460|629",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 15:15:50"
+  },
+  {
+    "coordenadas": "631|446",
+    "proprietario_anterior": "xlr01",
+    "tribo_anterior": "MARMAS",
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 15:12:38"
+  },
+  {
+    "coordenadas": "561|528",
+    "proprietario_anterior": "Inteligência Artificial",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "marce10nike",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 15:11:47"
+  },
+  {
+    "coordenadas": "559|528",
+    "proprietario_anterior": "Inteligência Artificial",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "marce10nike",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 15:11:47"
+  },
+  {
+    "coordenadas": "333|301",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 15:09:47"
+  },
+  {
+    "coordenadas": "611|593",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 15:09:11"
+  },
+  {
     "coordenadas": "634|425",
     "proprietario_anterior": "avava",
     "tribo_anterior": "Bora",
