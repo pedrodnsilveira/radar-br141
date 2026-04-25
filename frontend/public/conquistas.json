@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "441|525",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 11:46:16"
+  },
+  {
+    "coordenadas": "730|546",
+    "proprietario_anterior": "radiantdiviner655",
+    "tribo_anterior": null,
+    "proprietario_novo": "Celovers",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 11:44:38"
+  },
+  {
+    "coordenadas": "578|392",
+    "proprietario_anterior": "Yang Fa",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "DaarK-",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 11:43:11"
+  },
+  {
+    "coordenadas": "446|471",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 11:42:46"
+  },
+  {
+    "coordenadas": "490|596",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Feelipe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 11:39:37"
+  },
+  {
+    "coordenadas": "472|301",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SUPER PATO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 11:39:19"
+  },
+  {
+    "coordenadas": "522|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 11:38:41"
+  },
+  {
+    "coordenadas": "525|835",
+    "proprietario_anterior": "King Alves KA",
+    "tribo_anterior": null,
+    "proprietario_novo": "ReeiDrogado",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-25 11:38:09"
+  },
+  {
     "coordenadas": "595|813",
     "proprietario_anterior": "Lord Liuzzi",
     "tribo_anterior": null,
