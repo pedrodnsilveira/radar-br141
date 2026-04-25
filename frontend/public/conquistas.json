@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "622|668",
+    "proprietario_anterior": "Pentil2",
+    "tribo_anterior": null,
+    "proprietario_novo": "mateusalexandre6",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 10:45:05"
+  },
+  {
+    "coordenadas": "576|682",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 10:40:48"
+  },
+  {
+    "coordenadas": "583|666",
+    "proprietario_anterior": "IMPERADOR ELIAS",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 10:37:25"
+  },
+  {
+    "coordenadas": "613|268",
+    "proprietario_anterior": "CoyoteST",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "Fepitt",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 10:35:47"
+  },
+  {
     "coordenadas": "377|386",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
