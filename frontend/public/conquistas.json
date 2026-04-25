@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "536|381",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "werik98",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 18:36:29"
+  },
+  {
+    "coordenadas": "464|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UdiNe",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 18:36:12"
+  },
+  {
+    "coordenadas": "607|297",
+    "proprietario_anterior": "guitar2026",
+    "tribo_anterior": "CASA",
+    "proprietario_novo": "jackgiitar",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 18:29:35"
+  },
+  {
+    "coordenadas": "443|590",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wesleyv6",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 18:29:30"
+  },
+  {
+    "coordenadas": "551|525",
+    "proprietario_anterior": "Uranio",
+    "tribo_anterior": null,
+    "proprietario_novo": "wfboyek",
+    "tribo_nova": "ACAD",
+    "data_hora_conquista": "2026-04-25 18:29:23"
+  },
+  {
     "coordenadas": "727|636",
     "proprietario_anterior": "Rafawesteros016",
     "tribo_anterior": "AmgK",
