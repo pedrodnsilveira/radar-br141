@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "542|621",
+    "proprietario_anterior": "Skylline",
+    "tribo_anterior": null,
+    "proprietario_novo": "w4rlock",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 11:25:37"
+  },
+  {
+    "coordenadas": "651|699",
+    "proprietario_anterior": "SeftiAdernatus",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 11:22:20"
+  },
+  {
+    "coordenadas": "560|614",
+    "proprietario_anterior": "Chave Fenda",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "Corta pra mim",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 11:18:43"
+  },
+  {
+    "coordenadas": "558|288",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 11:17:13"
+  },
+  {
+    "coordenadas": "402|418",
+    "proprietario_anterior": "craaudio",
+    "tribo_anterior": "A.K",
+    "proprietario_novo": "viniciusxx",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-25 11:16:59"
+  },
+  {
     "coordenadas": "553|497",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
