@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "773|614",
+    "proprietario_anterior": "Eric C4rtman",
+    "tribo_anterior": "ACID",
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 06:15:02"
+  },
+  {
+    "coordenadas": "773|614",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 06:15:01"
+  },
+  {
+    "coordenadas": "772|337",
+    "proprietario_anterior": "Uruguaiana",
+    "tribo_anterior": null,
+    "proprietario_novo": "Madrugaa",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-25 06:13:35"
+  },
+  {
+    "coordenadas": "635|751",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-25 06:12:51"
+  },
+  {
+    "coordenadas": "288|621",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 06:09:54"
+  },
+  {
+    "coordenadas": "664|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 06:09:28"
+  },
+  {
+    "coordenadas": "417|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fandangos100",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 06:07:31"
+  },
+  {
+    "coordenadas": "488|532",
+    "proprietario_anterior": "Lord Monstro",
+    "tribo_anterior": null,
+    "proprietario_novo": "Edu45678",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 06:04:26"
+  },
+  {
     "coordenadas": "313|425",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
