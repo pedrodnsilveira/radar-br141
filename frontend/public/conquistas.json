@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "504|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 19:13:24"
+  },
+  {
+    "coordenadas": "790|623",
+    "proprietario_anterior": "Jukitaa",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chozin",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 19:12:29"
+  },
+  {
+    "coordenadas": "680|446",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "geydson",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 19:09:49"
+  },
+  {
+    "coordenadas": "482|570",
+    "proprietario_anterior": "CRYSTALLINEELEMENTAL",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 19:08:24"
+  },
+  {
     "coordenadas": "338|263",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
