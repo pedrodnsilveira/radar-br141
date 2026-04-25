@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "515|466",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 16:03:08"
+  },
+  {
+    "coordenadas": "339|711",
+    "proprietario_anterior": "SenhorNovato",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 16:02:24"
+  },
+  {
     "coordenadas": "512|230",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
