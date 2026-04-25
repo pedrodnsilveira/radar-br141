@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "553|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 11:15:30"
+  },
+  {
+    "coordenadas": "471|544",
+    "proprietario_anterior": "luedums",
+    "tribo_anterior": "VIPs",
+    "proprietario_novo": "Mulekeigor",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 11:15:12"
+  },
+  {
+    "coordenadas": "779|640",
+    "proprietario_anterior": "Tanoour",
+    "tribo_anterior": null,
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 11:12:28"
+  },
+  {
+    "coordenadas": "183|456",
+    "proprietario_anterior": "Molotov",
+    "tribo_anterior": null,
+    "proprietario_novo": "alexnosse",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-25 11:09:01"
+  },
+  {
+    "coordenadas": "782|501",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei Faxfarm",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 11:08:56"
+  },
+  {
+    "coordenadas": "845|679",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wtioo2",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 11:07:05"
+  },
+  {
     "coordenadas": "268|711",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
