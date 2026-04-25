@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "494|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 00:16:02"
+  },
+  {
+    "coordenadas": "484|487",
+    "proprietario_anterior": "mirdebao",
+    "tribo_anterior": "PFMVL",
+    "proprietario_novo": "dandezaal",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-25 00:15:31"
+  },
+  {
+    "coordenadas": "529|372",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 00:13:24"
+  },
+  {
+    "coordenadas": "433|531",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "noha T.U.E",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 00:06:47"
+  },
+  {
+    "coordenadas": "556|631",
+    "proprietario_anterior": "Tia da Limpeza",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "Tia da Limpeza",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 00:06:13"
+  },
+  {
     "coordenadas": "410|394",
     "proprietario_anterior": "Corvo-Negro",
     "tribo_anterior": "GAL0S",
