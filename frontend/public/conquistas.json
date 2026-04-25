@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "268|711",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "RickBR",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-25 11:00:23"
+  },
+  {
+    "coordenadas": "520|606",
+    "proprietario_anterior": "Fogao atomico",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Silmar",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 10:58:02"
+  },
+  {
+    "coordenadas": "370|450",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bitencourt",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 10:56:31"
+  },
+  {
+    "coordenadas": "552|652",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 10:56:18"
+  },
+  {
     "coordenadas": "419|617",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
