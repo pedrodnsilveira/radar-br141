@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "419|617",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 10:55:09"
+  },
+  {
+    "coordenadas": "658|241",
+    "proprietario_anterior": "Jenno21",
+    "tribo_anterior": null,
+    "proprietario_novo": "LeftAlt11",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-25 10:54:00"
+  },
+  {
+    "coordenadas": "459|626",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 10:49:40"
+  },
+  {
+    "coordenadas": "409|505",
+    "proprietario_anterior": "PedraQuantica",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bugado",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 10:47:21"
+  },
+  {
     "coordenadas": "622|668",
     "proprietario_anterior": "Pentil2",
     "tribo_anterior": null,
