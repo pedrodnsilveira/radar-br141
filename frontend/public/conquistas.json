@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "361|362",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiranoMestre",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 19:36:52"
+  },
+  {
+    "coordenadas": "778|640",
+    "proprietario_anterior": "Ollem",
+    "tribo_anterior": null,
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 19:35:44"
+  },
+  {
+    "coordenadas": "597|460",
+    "proprietario_anterior": "mjwilson",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 19:35:29"
+  },
+  {
+    "coordenadas": "449|378",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 19:33:58"
+  },
+  {
     "coordenadas": "618|599",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
