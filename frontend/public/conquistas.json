@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "402|418",
+    "proprietario_anterior": "viniciusxx",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "viniciusxx",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-25 13:25:44"
+  },
+  {
+    "coordenadas": "518|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 13:24:13"
+  },
+  {
+    "coordenadas": "615|413",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "luizaox2",
+    "tribo_nova": "CASA",
+    "data_hora_conquista": "2026-04-25 13:24:05"
+  },
+  {
+    "coordenadas": "562|625",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silenc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 13:21:51"
+  },
+  {
     "coordenadas": "500|458",
     "proprietario_anterior": "QiostroucoFlux",
     "tribo_anterior": "WM",
