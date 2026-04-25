@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "614|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 14:58:33"
+  },
+  {
+    "coordenadas": "440|563",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Jax Teller -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 14:57:34"
+  },
+  {
+    "coordenadas": "462|511",
+    "proprietario_anterior": "berna",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "- D U N H I L L",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 14:57:07"
+  },
+  {
+    "coordenadas": "420|388",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 14:55:40"
+  },
+  {
     "coordenadas": "266|624",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
