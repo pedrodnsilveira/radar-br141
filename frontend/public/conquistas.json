@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "477|401",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 20:25:01"
+  },
+  {
+    "coordenadas": "423|501",
+    "proprietario_anterior": "Weaqio",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fanntasy",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 20:22:47"
+  },
+  {
+    "coordenadas": "353|732",
+    "proprietario_anterior": "- KhaZaD-DuM",
+    "tribo_anterior": "KZD",
+    "proprietario_novo": "Bluezinha",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 20:22:05"
+  },
+  {
+    "coordenadas": "376|592",
+    "proprietario_anterior": "sernos",
+    "tribo_anterior": null,
+    "proprietario_novo": "fabriciok",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 20:20:59"
+  },
+  {
+    "coordenadas": "310|534",
+    "proprietario_anterior": "bisgui",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 20:20:42"
+  },
+  {
+    "coordenadas": "673|414",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 20:18:52"
+  },
+  {
     "coordenadas": "610|710",
     "proprietario_anterior": "QUASETEBOLOTEI",
     "tribo_anterior": "GC",
