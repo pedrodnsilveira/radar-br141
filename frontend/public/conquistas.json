@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "363|705",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "giacomazzi77",
+    "tribo_nova": "-UNI-",
+    "data_hora_conquista": "2026-04-25 13:04:31"
+  },
+  {
+    "coordenadas": "251|600",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jean jorge",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-25 13:04:05"
+  },
+  {
+    "coordenadas": "505|598",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lady rafaelle",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 13:03:16"
+  },
+  {
+    "coordenadas": "505|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 13:01:58"
+  },
+  {
+    "coordenadas": "615|802",
+    "proprietario_anterior": "SolarWardeN14",
+    "tribo_anterior": null,
+    "proprietario_novo": "valek",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-25 13:00:32"
+  },
+  {
+    "coordenadas": "744|471",
+    "proprietario_anterior": "solamento",
+    "tribo_anterior": "TNP",
+    "proprietario_novo": "Dzarek",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-25 13:00:01"
+  },
+  {
     "coordenadas": "390|280",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
