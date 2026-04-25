@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "224|360",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Convidado002692",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 00:24:27"
+  },
+  {
+    "coordenadas": "384|558",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 00:24:01"
+  },
+  {
+    "coordenadas": "642|398",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Balduíno Rei IV",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 00:19:21"
+  },
+  {
     "coordenadas": "494|424",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
