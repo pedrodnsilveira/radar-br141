@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "515|197",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "detonadogamesws",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-25 13:56:00"
+  },
+  {
+    "coordenadas": "290|751",
+    "proprietario_anterior": "The Engineer",
+    "tribo_anterior": "NoJob",
+    "proprietario_novo": "The Engineer",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-25 13:53:47"
+  },
+  {
     "coordenadas": "286|434",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
