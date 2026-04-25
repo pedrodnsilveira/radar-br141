@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "344|398",
+    "proprietario_anterior": "sorhento",
+    "tribo_anterior": "Se",
+    "proprietario_novo": "Feltras",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 02:38:05"
+  },
+  {
+    "coordenadas": "345|309",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rockman X",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 02:37:43"
+  },
+  {
+    "coordenadas": "315|591",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 02:37:19"
+  },
+  {
+    "coordenadas": "448|368",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 02:30:47"
+  },
+  {
     "coordenadas": "590|413",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
