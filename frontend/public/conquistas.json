@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "532|369",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 21:37:03"
+  },
+  {
+    "coordenadas": "539|608",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kopp",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 21:32:43"
+  },
+  {
+    "coordenadas": "392|663",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Black Horse",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 21:31:32"
+  },
+  {
+    "coordenadas": "270|746",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cesakior",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-25 21:30:27"
+  },
+  {
     "coordenadas": "530|394",
     "proprietario_anterior": "Cecílio Ribeiro",
     "tribo_anterior": null,
