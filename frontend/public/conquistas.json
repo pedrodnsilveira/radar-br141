@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "552|599",
+    "proprietario_anterior": "Orósio de Souza",
+    "tribo_anterior": null,
+    "proprietario_novo": "juninhounderground",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 21:03:44"
+  },
+  {
+    "coordenadas": "368|359",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiranoMestre",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 21:03:18"
+  },
+  {
+    "coordenadas": "670|820",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mestre-Jiraya",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-25 21:00:41"
+  },
+  {
+    "coordenadas": "540|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kopp",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-25 20:59:03"
+  },
+  {
+    "coordenadas": "580|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 20:58:26"
+  },
+  {
     "coordenadas": "457|367",
     "proprietario_anterior": "digoamil",
     "tribo_anterior": "GAL0S",
