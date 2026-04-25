@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "731|289",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DevoradorDeAlmas",
+    "tribo_nova": "brasin",
+    "data_hora_conquista": "2026-04-25 07:17:57"
+  },
+  {
     "coordenadas": "227|554",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
