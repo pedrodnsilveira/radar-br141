@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "377|386",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 10:32:18"
+  },
+  {
     "coordenadas": "612|551",
     "proprietario_anterior": "Yandurlacher",
     "tribo_anterior": "[A]",
