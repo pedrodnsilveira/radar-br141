@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "595|570",
+    "proprietario_anterior": "Yandurlacher",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "ElJonjon",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 23:35:12"
+  },
+  {
+    "coordenadas": "529|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Virgu",
+    "tribo_nova": "-V-",
+    "data_hora_conquista": "2026-04-24 23:35:01"
+  },
+  {
+    "coordenadas": "411|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bugado",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-24 23:28:41"
+  },
+  {
+    "coordenadas": "541|418",
+    "proprietario_anterior": "Samantha Smith",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 23:28:04"
+  },
+  {
+    "coordenadas": "493|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 23:27:00"
+  },
+  {
+    "coordenadas": "331|263",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "glagiador2",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-24 23:25:25"
+  },
+  {
     "coordenadas": "628|445",
     "proprietario_anterior": "FeiticeiroMágico",
     "tribo_anterior": null,
