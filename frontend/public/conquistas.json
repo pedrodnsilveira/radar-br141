@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "407|189",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "marcosxasi",
+    "tribo_nova": "caiuby",
+    "data_hora_conquista": "2026-04-25 03:45:34"
+  },
+  {
+    "coordenadas": "661|353",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fernandez",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-25 03:40:17"
+  },
+  {
     "coordenadas": "521|573",
     "proprietario_anterior": "Snodroudeadrear",
     "tribo_anterior": null,
