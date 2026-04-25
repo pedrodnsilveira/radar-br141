@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "302|656",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jetuinhoO",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 08:00:35"
+  },
+  {
+    "coordenadas": "380|382",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 07:57:35"
+  },
+  {
     "coordenadas": "441|482",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
