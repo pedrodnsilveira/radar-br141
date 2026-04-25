@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "550|420",
+    "proprietario_anterior": "Loretta Devine",
+    "tribo_anterior": "SPN",
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-24 22:17:50"
+  },
+  {
+    "coordenadas": "482|534",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Engwars",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-24 22:15:36"
+  },
+  {
+    "coordenadas": "383|616",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jiripoca",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-24 22:13:50"
+  },
+  {
     "coordenadas": "369|549",
     "proprietario_anterior": "Sword of Kings",
     "tribo_anterior": null,
