@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "595|813",
+    "proprietario_anterior": "Lord Liuzzi",
+    "tribo_anterior": null,
+    "proprietario_novo": "manoevil02",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-25 11:36:15"
+  },
+  {
+    "coordenadas": "549|502",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 11:33:51"
+  },
+  {
+    "coordenadas": "227|633",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Leodxm",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 11:31:27"
+  },
+  {
+    "coordenadas": "478|373",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 11:28:58"
+  },
+  {
     "coordenadas": "542|621",
     "proprietario_anterior": "Skylline",
     "tribo_anterior": null,
