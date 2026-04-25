@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "482|487",
+    "proprietario_anterior": "LSK CaféPS7",
+    "tribo_anterior": "PFMVL",
+    "proprietario_novo": "badfix",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 17:55:54"
+  },
+  {
+    "coordenadas": "352|548",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "negaoasiatico",
+    "tribo_nova": "Heróis",
+    "data_hora_conquista": "2026-04-25 17:55:20"
+  },
+  {
+    "coordenadas": "465|681",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 17:51:22"
+  },
+  {
+    "coordenadas": "447|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jadson1",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 17:50:06"
+  },
+  {
+    "coordenadas": "440|549",
+    "proprietario_anterior": "DEAD17",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "DEAD17",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 17:48:35"
+  },
+  {
     "coordenadas": "525|375",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
