@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "257|290",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Imperio Da Persia",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-25 18:13:26"
+  },
+  {
+    "coordenadas": "602|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tuliorassis",
+    "tribo_nova": "*----*",
+    "data_hora_conquista": "2026-04-25 18:09:48"
+  },
+  {
     "coordenadas": "638|512",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
