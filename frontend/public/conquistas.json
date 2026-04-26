@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "611|305",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jackgiitar",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 05:22:34"
+  },
+  {
+    "coordenadas": "539|406",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ljtica",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 05:20:29"
+  },
+  {
     "coordenadas": "571|613",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32806,29 +32822,5 @@
     "proprietario_novo": "SIDarta GODtama",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 04:30:13"
-  },
-  {
-    "coordenadas": "446|630",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jhonatahn2307",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 04:28:18"
-  },
-  {
-    "coordenadas": "388|561",
-    "proprietario_anterior": "gravitati",
-    "tribo_anterior": null,
-    "proprietario_novo": "IDakaHz",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 04:23:00"
-  },
-  {
-    "coordenadas": "619|821",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "drederbatz",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-19 04:20:29"
   }
 ]
