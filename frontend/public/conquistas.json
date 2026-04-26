@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "388|375",
+    "proprietario_anterior": "j.emerson",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "ryan018",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-26 00:46:49"
+  },
+  {
+    "coordenadas": "558|596",
+    "proprietario_anterior": "ZenithShellSpectre",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 00:40:00"
+  },
+  {
     "coordenadas": "226|596",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
