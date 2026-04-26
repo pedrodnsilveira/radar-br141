@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "499|680",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Roeder07",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 15:33:13"
+  },
+  {
+    "coordenadas": "498|499",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 15:31:24"
+  },
+  {
     "coordenadas": "598|458",
     "proprietario_anterior": "mjwilson",
     "tribo_anterior": "DuMau",
@@ -33270,21 +33286,5 @@
     "proprietario_novo": "dlslopes",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 14:42:07"
-  },
-  {
-    "coordenadas": "354|675",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jair gomes",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 14:33:31"
-  },
-  {
-    "coordenadas": "564|443",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "skryl95",
-    "tribo_nova": "D.G.",
-    "data_hora_conquista": "2026-04-19 14:32:14"
   }
 ]
