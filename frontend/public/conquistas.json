@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "447|526",
+    "proprietario_anterior": "guto1504",
+    "tribo_anterior": "PoRT",
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 22:47:24"
+  },
+  {
+    "coordenadas": "711|669",
+    "proprietario_anterior": "manuelm",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "Zazu",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-25 22:47:12"
+  },
+  {
+    "coordenadas": "415|396",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "WiNHarD",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 22:43:08"
+  },
+  {
+    "coordenadas": "720|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 22:42:34"
+  },
+  {
+    "coordenadas": "397|509",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 22:42:23"
+  },
+  {
+    "coordenadas": "309|201",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Grindor",
+    "tribo_nova": "F's",
+    "data_hora_conquista": "2026-04-25 22:42:23"
+  },
+  {
+    "coordenadas": "486|393",
+    "proprietario_anterior": "NEGÃO RD",
+    "tribo_anterior": "FRONT",
+    "proprietario_novo": "NEGÃO RD",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 22:42:13"
+  },
+  {
+    "coordenadas": "263|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-25 22:41:50"
+  },
+  {
+    "coordenadas": "486|393",
+    "proprietario_anterior": "Pawuwa",
+    "tribo_anterior": null,
+    "proprietario_novo": "NEGÃO RD",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-25 22:41:04"
+  },
+  {
+    "coordenadas": "772|628",
+    "proprietario_anterior": "Ciroc",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-25 22:40:54"
+  },
+  {
     "coordenadas": "511|405",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
