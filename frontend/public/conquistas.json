@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "638|380",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- BanneD",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 05:36:02"
+  },
+  {
     "coordenadas": "332|313",
     "proprietario_anterior": "Mdr1979",
     "tribo_anterior": "23",
@@ -32806,13 +32814,5 @@
     "proprietario_novo": "Legendre",
     "tribo_nova": "V D T",
     "data_hora_conquista": "2026-04-19 05:03:41"
-  },
-  {
-    "coordenadas": "615|425",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "pdroherc",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 04:40:39"
   }
 ]
