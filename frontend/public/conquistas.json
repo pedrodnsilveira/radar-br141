@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "644|509",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 04:06:45"
+  },
+  {
+    "coordenadas": "494|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 04:04:21"
+  },
+  {
+    "coordenadas": "673|416",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 04:02:06"
+  },
+  {
+    "coordenadas": "357|467",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Winner of Game",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 04:01:33"
+  },
+  {
+    "coordenadas": "391|560",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 03:58:54"
+  },
+  {
     "coordenadas": "268|548",
     "proprietario_anterior": "maitre",
     "tribo_anterior": "BRANCA",
@@ -32782,61 +32822,5 @@
     "proprietario_novo": "Foschiani.",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 03:13:10"
-  },
-  {
-    "coordenadas": "592|685",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "XAVIER12",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 03:09:25"
-  },
-  {
-    "coordenadas": "441|639",
-    "proprietario_anterior": "xxARESxxx",
-    "tribo_anterior": null,
-    "proprietario_novo": "Lordkaz",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 03:05:17"
-  },
-  {
-    "coordenadas": "512|431",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By DeusBolado -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 03:04:47"
-  },
-  {
-    "coordenadas": "544|594",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "juninhounderground",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 03:03:55"
-  },
-  {
-    "coordenadas": "476|688",
-    "proprietario_anterior": "Graciotti",
-    "tribo_anterior": "PÂNIC0",
-    "proprietario_novo": "Graciotti",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-19 03:01:58"
-  },
-  {
-    "coordenadas": "756|685",
-    "proprietario_anterior": "Castores",
-    "tribo_anterior": null,
-    "proprietario_novo": "ismaelrossi",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-19 03:01:21"
-  },
-  {
-    "coordenadas": "399|521",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cleber 25",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 03:00:26"
   }
 ]
