@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "442|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 14:34:09"
+  },
+  {
+    "coordenadas": "701|582",
+    "proprietario_anterior": "LehoniFJ",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Jotaah",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 14:33:44"
+  },
+  {
+    "coordenadas": "663|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 14:31:24"
+  },
+  {
+    "coordenadas": "375|444",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 14:30:42"
+  },
+  {
     "coordenadas": "660|313",
     "proprietario_anterior": "Dracmas",
     "tribo_anterior": "CLT.",
@@ -33222,29 +33254,5 @@
     "proprietario_novo": "Kami",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 13:43:59"
-  },
-  {
-    "coordenadas": "471|412",
-    "proprietario_anterior": "JonathanGouveia",
-    "tribo_anterior": null,
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 13:38:40"
-  },
-  {
-    "coordenadas": "478|560",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Chemical",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 13:33:13"
-  },
-  {
-    "coordenadas": "558|632",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Tia da Cantina",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 13:32:17"
   }
 ]
