@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "511|405",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 22:33:31"
+  },
+  {
+    "coordenadas": "559|692",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kelverick",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 22:32:50"
+  },
+  {
+    "coordenadas": "387|721",
+    "proprietario_anterior": "KineticHunteR756",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fazenda B.G",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 22:30:37"
+  },
+  {
     "coordenadas": "479|569",
     "proprietario_anterior": "Frawoar",
     "tribo_anterior": null,
