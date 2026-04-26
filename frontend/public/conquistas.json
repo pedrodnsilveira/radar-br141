@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "425|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 15:05:34"
+  },
+  {
+    "coordenadas": "500|461",
+    "proprietario_anterior": "Lucaotaliso",
+    "tribo_anterior": "VAL 2",
+    "proprietario_novo": "cerberus azul",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-26 15:02:16"
+  },
+  {
+    "coordenadas": "481|754",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 14:59:59"
+  },
+  {
+    "coordenadas": "470|311",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SUPER PATO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 14:59:41"
+  },
+  {
     "coordenadas": "373|456",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33230,29 +33262,5 @@
     "proprietario_novo": "Talestt",
     "tribo_nova": "PCT",
     "data_hora_conquista": "2026-04-19 14:11:15"
-  },
-  {
-    "coordenadas": "576|530",
-    "proprietario_anterior": "Will be Alright",
-    "tribo_anterior": null,
-    "proprietario_novo": "Danilo Guara",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-19 14:07:58"
-  },
-  {
-    "coordenadas": "508|504",
-    "proprietario_anterior": "Yvens Gracie",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mr. JimmyS",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 14:04:44"
-  },
-  {
-    "coordenadas": "204|548",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Moleque Business.",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 14:00:49"
   }
 ]
