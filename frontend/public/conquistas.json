@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "476|621",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 04:16:42"
+  },
+  {
+    "coordenadas": "559|641",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferwachtel",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 04:16:09"
+  },
+  {
+    "coordenadas": "410|549",
+    "proprietario_anterior": "perfumecampo",
+    "tribo_anterior": null,
+    "proprietario_novo": "NanicoBarber",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 04:15:27"
+  },
+  {
+    "coordenadas": "629|274",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silver Back",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 04:15:25"
+  },
+  {
+    "coordenadas": "645|508",
+    "proprietario_anterior": "vitorpereira",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 04:12:57"
+  },
+  {
     "coordenadas": "644|509",
     "proprietario_anterior": "vitorpereira",
     "tribo_anterior": ".RIP.",
@@ -32806,21 +32846,5 @@
     "proprietario_novo": "konlunli",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-19 03:23:43"
-  },
-  {
-    "coordenadas": "392|541",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Greatfullded",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 03:13:51"
-  },
-  {
-    "coordenadas": "434|402",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Foschiani.",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 03:13:10"
   }
 ]
