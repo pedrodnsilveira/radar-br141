@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "739|567",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tenebrozu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 20:53:30"
+  },
+  {
+    "coordenadas": "291|422",
+    "proprietario_anterior": "BadMontenegro",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "trembo",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 20:52:38"
+  },
+  {
+    "coordenadas": "669|384",
+    "proprietario_anterior": "hadassa000",
+    "tribo_anterior": "XdX",
+    "proprietario_novo": "bramdalar",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 20:52:00"
+  },
+  {
+    "coordenadas": "422|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 20:47:08"
+  },
+  {
+    "coordenadas": "278|361",
+    "proprietario_anterior": "dirkla1br",
+    "tribo_anterior": null,
+    "proprietario_novo": "hendres",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 20:46:17"
+  },
+  {
     "coordenadas": "214|657",
     "proprietario_anterior": "Jhocunha",
     "tribo_anterior": null,
@@ -33150,53 +33190,5 @@
     "proprietario_novo": "Karma Akabane.",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 20:00:32"
-  },
-  {
-    "coordenadas": "433|291",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "daniellorient",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 19:56:09"
-  },
-  {
-    "coordenadas": "609|455",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Forasteyro",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 19:56:04"
-  },
-  {
-    "coordenadas": "636|513",
-    "proprietario_anterior": "vitorpereira",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 19:55:58"
-  },
-  {
-    "coordenadas": "604|345",
-    "proprietario_anterior": "DARK OF TREVAS",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "gustavo .cn",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-19 19:52:41"
-  },
-  {
-    "coordenadas": "588|742",
-    "proprietario_anterior": "blacksands",
-    "tribo_anterior": null,
-    "proprietario_novo": "Sennin",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 19:52:02"
-  },
-  {
-    "coordenadas": "572|805",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DouglasLopes",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-19 19:51:47"
   }
 ]
