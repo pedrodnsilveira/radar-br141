@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "442|383",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pankadoo",
+    "tribo_nova": "KMKZ",
+    "data_hora_conquista": "2026-04-26 20:25:22"
+  },
+  {
+    "coordenadas": "272|395",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Extrago",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 20:18:22"
+  },
+  {
+    "coordenadas": "766|399",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "profileX",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 20:17:09"
+  },
+  {
     "coordenadas": "718|539",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33126,29 +33150,5 @@
     "proprietario_novo": "Nebulosa Fênix",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 19:34:02"
-  },
-  {
-    "coordenadas": "273|614",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "kaverao",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 19:23:15"
-  },
-  {
-    "coordenadas": "557|627",
-    "proprietario_anterior": "fabrica de cultura",
-    "tribo_anterior": null,
-    "proprietario_novo": "w4rlock",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 19:22:01"
-  },
-  {
-    "coordenadas": "452|726",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "KAUE ESTEVES",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 19:21:44"
   }
 ]
