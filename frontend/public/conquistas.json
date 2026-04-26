@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "339|359",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "S.L.B",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-26 10:13:47"
+  },
+  {
+    "coordenadas": "406|530",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 10:11:30"
+  },
+  {
+    "coordenadas": "603|284",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 10:10:13"
+  },
+  {
+    "coordenadas": "199|503",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Molotov",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 10:09:17"
+  },
+  {
+    "coordenadas": "411|392",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 10:08:09"
+  },
+  {
+    "coordenadas": "406|539",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 10:07:04"
+  },
+  {
     "coordenadas": "731|213",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32822,21 +32870,5 @@
     "proprietario_novo": "IDakaHz",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 09:20:27"
-  },
-  {
-    "coordenadas": "604|549",
-    "proprietario_anterior": "Mimoso Almeida",
-    "tribo_anterior": null,
-    "proprietario_novo": "thiago tsc",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 09:14:17"
-  },
-  {
-    "coordenadas": "345|738",
-    "proprietario_anterior": "alexstrindade",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "O Príncipe",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 09:14:03"
   }
 ]
