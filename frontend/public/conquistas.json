@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "542|792",
+    "proprietario_anterior": "Rei OGRO",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "o condenado",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-26 16:12:58"
+  },
+  {
+    "coordenadas": "751|482",
+    "proprietario_anterior": "vitufs",
+    "tribo_anterior": "TPD",
+    "proprietario_novo": "Lorenzyn",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 16:12:07"
+  },
+  {
+    "coordenadas": "477|369",
+    "proprietario_anterior": "Logan Roy",
+    "tribo_anterior": "ONE",
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 16:09:16"
+  },
+  {
     "coordenadas": "566|378",
     "proprietario_anterior": "picamiolhos",
     "tribo_anterior": "RIP",
@@ -33254,29 +33278,5 @@
     "proprietario_novo": "Bia-Yang",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-19 15:20:42"
-  },
-  {
-    "coordenadas": "534|526",
-    "proprietario_anterior": "Lucas.kaka",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 15:16:12"
-  },
-  {
-    "coordenadas": "410|543",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "noha T.U.E",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 15:14:31"
-  },
-  {
-    "coordenadas": "679|588",
-    "proprietario_anterior": "Suabner",
-    "tribo_anterior": null,
-    "proprietario_novo": "tainan131295",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 15:10:29"
   }
 ]
