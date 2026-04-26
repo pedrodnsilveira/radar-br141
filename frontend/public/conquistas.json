@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "471|362",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tiboiosco1972",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 15:45:11"
+  },
+  {
+    "coordenadas": "601|793",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Talestt",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-26 15:38:16"
+  },
+  {
     "coordenadas": "499|680",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33254,37 +33270,5 @@
     "proprietario_novo": "Dinosboys",
     "tribo_nova": "KFC",
     "data_hora_conquista": "2026-04-19 14:54:41"
-  },
-  {
-    "coordenadas": "470|416",
-    "proprietario_anterior": "O Síndico",
-    "tribo_anterior": "GALOS",
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 14:48:24"
-  },
-  {
-    "coordenadas": "520|451",
-    "proprietario_anterior": "Elmiro",
-    "tribo_anterior": "LOSMAN",
-    "proprietario_novo": "realMFG",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 14:42:24"
-  },
-  {
-    "coordenadas": "367|486",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "CORINGA PLAY",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-19 14:42:24"
-  },
-  {
-    "coordenadas": "562|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 14:42:07"
   }
 ]
