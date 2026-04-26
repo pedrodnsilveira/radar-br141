@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "501|524",
+    "proprietario_anterior": "GuiLargue",
+    "tribo_anterior": "COLh",
+    "proprietario_novo": "Saiyajin",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 21:20:24"
+  },
+  {
+    "coordenadas": "500|499",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:19:08"
+  },
+  {
     "coordenadas": "560|528",
     "proprietario_anterior": "Inteligência Artificial",
     "tribo_anterior": "DuMau",
@@ -33174,37 +33190,5 @@
     "proprietario_novo": "Tomás mester",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-19 20:36:40"
-  },
-  {
-    "coordenadas": "585|610",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 20:27:57"
-  },
-  {
-    "coordenadas": "380|735",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "IgRmS",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 20:26:39"
-  },
-  {
-    "coordenadas": "754|510",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Uhtn",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-19 20:26:29"
-  },
-  {
-    "coordenadas": "196|485",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "C. Rafa 17",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 20:24:41"
   }
 ]
