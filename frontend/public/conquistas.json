@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "566|378",
+    "proprietario_anterior": "picamiolhos",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "picamiolhos",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 16:02:03"
+  },
+  {
+    "coordenadas": "566|378",
+    "proprietario_anterior": "temptingbooks",
+    "tribo_anterior": "Pirata",
+    "proprietario_novo": "picamiolhos",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 16:01:52"
+  },
+  {
+    "coordenadas": "383|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 15:58:27"
+  },
+  {
+    "coordenadas": "474|565",
+    "proprietario_anterior": "GouleNova",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 15:58:03"
+  },
+  {
     "coordenadas": "504|458",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33246,85 +33278,5 @@
     "proprietario_novo": "tainan131295",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-19 15:10:29"
-  },
-  {
-    "coordenadas": "453|382",
-    "proprietario_anterior": "joaoalceumombach",
-    "tribo_anterior": "GAL0S",
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 15:08:04"
-  },
-  {
-    "coordenadas": "645|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bilk",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 15:07:54"
-  },
-  {
-    "coordenadas": "345|619",
-    "proprietario_anterior": "Gianfrancesco",
-    "tribo_anterior": null,
-    "proprietario_novo": "biel-",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-19 15:07:35"
-  },
-  {
-    "coordenadas": "560|649",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 15:06:35"
-  },
-  {
-    "coordenadas": "795|654",
-    "proprietario_anterior": "rasputcha",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mazzera.",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-19 15:05:52"
-  },
-  {
-    "coordenadas": "501|278",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "rudine",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 15:05:17"
-  },
-  {
-    "coordenadas": "723|470",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Spartacus",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 15:04:59"
-  },
-  {
-    "coordenadas": "560|437",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 15:04:38"
-  },
-  {
-    "coordenadas": "596|557",
-    "proprietario_anterior": "luminouswizard",
-    "tribo_anterior": null,
-    "proprietario_novo": "Yandurlacher",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 15:04:06"
-  },
-  {
-    "coordenadas": "549|842",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "phantomsteam",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 15:02:21"
   }
 ]
