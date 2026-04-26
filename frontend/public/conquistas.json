@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "332|313",
+    "proprietario_anterior": "Mdr1979",
+    "tribo_anterior": "23",
+    "proprietario_novo": "Vinicius.com",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 05:31:07"
+  },
+  {
+    "coordenadas": "723|476",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 05:26:17"
+  },
+  {
     "coordenadas": "611|305",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32798,29 +32814,5 @@
     "proprietario_novo": "pdroherc",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 04:40:39"
-  },
-  {
-    "coordenadas": "418|416",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Foschiani.",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 04:38:51"
-  },
-  {
-    "coordenadas": "576|337",
-    "proprietario_anterior": "Spec-Weed",
-    "tribo_anterior": "brasin",
-    "proprietario_novo": "Sir.Chini",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 04:33:23"
-  },
-  {
-    "coordenadas": "395|497",
-    "proprietario_anterior": "Senhor Scadufax",
-    "tribo_anterior": null,
-    "proprietario_novo": "SIDarta GODtama",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 04:30:13"
   }
 ]
