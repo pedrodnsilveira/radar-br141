@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "530|368",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Luiz.maciel98",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 18:35:02"
+  },
+  {
+    "coordenadas": "602|624",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Harry Holt",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 18:34:46"
+  },
+  {
+    "coordenadas": "506|465",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "zorba",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 18:34:35"
+  },
+  {
+    "coordenadas": "198|505",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Molotov",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 18:34:26"
+  },
+  {
+    "coordenadas": "475|418",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 18:34:21"
+  },
+  {
     "coordenadas": "505|500",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33206,61 +33246,5 @@
     "proprietario_novo": "JACKYFOX",
     "tribo_nova": "CLT.",
     "data_hora_conquista": "2026-04-19 17:41:57"
-  },
-  {
-    "coordenadas": "506|504",
-    "proprietario_anterior": "Volutare",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Mr. JimmyS",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 17:37:52"
-  },
-  {
-    "coordenadas": "380|324",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "wylsea",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 17:37:27"
-  },
-  {
-    "coordenadas": "359|510",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "gangrafa",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 17:36:55"
-  },
-  {
-    "coordenadas": "563|647",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Big-Z",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 17:35:48"
-  },
-  {
-    "coordenadas": "489|459",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 17:32:12"
-  },
-  {
-    "coordenadas": "328|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Stauber",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-19 17:32:08"
-  },
-  {
-    "coordenadas": "636|495",
-    "proprietario_anterior": "vitorpereira",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 17:31:19"
   }
 ]
