@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "520|408",
+    "proprietario_anterior": "FieryKage",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 18:05:43"
+  },
+  {
+    "coordenadas": "679|825",
+    "proprietario_anterior": "Mestre-Jiraya",
+    "tribo_anterior": "FENIX",
+    "proprietario_novo": "Mestre-Jiraya",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-26 18:03:15"
+  },
+  {
+    "coordenadas": "150|561",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lucasmoreira58",
+    "tribo_nova": "CR4CK",
+    "data_hora_conquista": "2026-04-26 18:01:36"
+  },
+  {
+    "coordenadas": "541|175",
+    "proprietario_anterior": "ph aprendiz do carmo",
+    "tribo_anterior": "café",
+    "proprietario_novo": "ph aprendiz do carmo",
+    "tribo_nova": "café",
+    "data_hora_conquista": "2026-04-26 18:00:40"
+  },
+  {
+    "coordenadas": "517|674",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "liplinharesjf",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 18:00:00"
+  },
+  {
     "coordenadas": "518|495",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33230,37 +33270,5 @@
     "proprietario_novo": "robsonz",
     "tribo_nova": "RG",
     "data_hora_conquista": "2026-04-19 17:16:15"
-  },
-  {
-    "coordenadas": "535|536",
-    "proprietario_anterior": "Lucas Rabelo",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 17:03:58"
-  },
-  {
-    "coordenadas": "441|773",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Touro",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 17:01:54"
-  },
-  {
-    "coordenadas": "425|426",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eriicksansi",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 17:00:14"
-  },
-  {
-    "coordenadas": "450|802",
-    "proprietario_anterior": "Zerobala",
-    "tribo_anterior": "PoRT",
-    "proprietario_novo": "Sebaschenkowar",
-    "tribo_nova": "HtR",
-    "data_hora_conquista": "2026-04-19 17:00:04"
   }
 ]
