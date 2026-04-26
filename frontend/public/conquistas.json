@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "774|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Robinho15d3",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 21:46:23"
+  },
+  {
+    "coordenadas": "509|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:44:50"
+  },
+  {
+    "coordenadas": "453|566",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TCards",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 21:44:14"
+  },
+  {
+    "coordenadas": "354|550",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "negaoasiatico",
+    "tribo_nova": "Heróis",
+    "data_hora_conquista": "2026-04-26 21:43:21"
+  },
+  {
+    "coordenadas": "614|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pdroherc",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:43:21"
+  },
+  {
+    "coordenadas": "383|561",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IDakaHz",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 21:37:28"
+  },
+  {
     "coordenadas": "531|383",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33198,13 +33246,5 @@
     "proprietario_novo": "realMFG",
     "tribo_nova": ".RIP.",
     "data_hora_conquista": "2026-04-19 20:50:35"
-  },
-  {
-    "coordenadas": "612|422",
-    "proprietario_anterior": "S E M A L M A S",
-    "tribo_anterior": "ENEL",
-    "proprietario_novo": "7Copa",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 20:42:27"
   }
 ]
