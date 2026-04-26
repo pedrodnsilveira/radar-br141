@@ -32806,53 +32806,5 @@
     "proprietario_novo": "FeldschlosscheN",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 05:21:08"
-  },
-  {
-    "coordenadas": "535|580",
-    "proprietario_anterior": "Skjaldborg",
-    "tribo_anterior": "WRN",
-    "proprietario_novo": "Odarnoc",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 05:19:07"
-  },
-  {
-    "coordenadas": "255|663",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Juca Chavess",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 05:18:10"
-  },
-  {
-    "coordenadas": "297|664",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Xoroq",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 05:13:45"
-  },
-  {
-    "coordenadas": "251|664",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Juca Chavess",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 05:13:12"
-  },
-  {
-    "coordenadas": "628|230",
-    "proprietario_anterior": "DanielWeiss",
-    "tribo_anterior": null,
-    "proprietario_novo": "Legendre",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-19 05:12:18"
-  },
-  {
-    "coordenadas": "495|386",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "gajkozin",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 05:11:31"
   }
 ]
