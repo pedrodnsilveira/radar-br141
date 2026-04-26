@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "504|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FelipeLucas32",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 15:52:17"
+  },
+  {
+    "coordenadas": "334|449",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Marcos Domingos",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 15:51:00"
+  },
+  {
+    "coordenadas": "770|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-26 15:50:46"
+  },
+  {
+    "coordenadas": "428|531",
+    "proprietario_anterior": "Bobe",
+    "tribo_anterior": null,
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 15:49:47"
+  },
+  {
+    "coordenadas": "576|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 15:49:35"
+  },
+  {
+    "coordenadas": "458|507",
+    "proprietario_anterior": "berna",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "Sexabanda",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 15:47:40"
+  },
+  {
+    "coordenadas": "588|742",
+    "proprietario_anterior": "QUASETEBOLOTEI",
+    "tribo_anterior": null,
+    "proprietario_novo": "grade ferro",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 15:47:01"
+  },
+  {
+    "coordenadas": "548|582",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guioliveira.br",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 15:45:45"
+  },
+  {
+    "coordenadas": "230|595",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Macak Al Bino",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 15:45:35"
+  },
+  {
     "coordenadas": "471|362",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33254,21 +33326,5 @@
     "proprietario_novo": "phantomsteam",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-19 15:02:21"
-  },
-  {
-    "coordenadas": "620|310",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "wykytyky",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-19 14:56:06"
-  },
-  {
-    "coordenadas": "299|501",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Dinosboys",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-19 14:54:41"
   }
 ]
