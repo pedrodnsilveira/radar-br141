@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "565|489",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 08:22:23"
+  },
+  {
+    "coordenadas": "335|702",
+    "proprietario_anterior": "Condenada",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "Queen No Mercy",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-26 08:16:31"
+  },
+  {
     "coordenadas": "268|284",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32702,29 +32718,5 @@
     "proprietario_novo": "O Síndico",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 07:32:15"
-  },
-  {
-    "coordenadas": "558|844",
-    "proprietario_anterior": "xayeve",
-    "tribo_anterior": null,
-    "proprietario_novo": "phantomsteam",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 07:29:48"
-  },
-  {
-    "coordenadas": "531|619",
-    "proprietario_anterior": "bewuvuno",
-    "tribo_anterior": "SoA",
-    "proprietario_novo": "charlesfade",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 07:25:53"
-  },
-  {
-    "coordenadas": "621|352",
-    "proprietario_anterior": "senhorgustavogtv1000",
-    "tribo_anterior": null,
-    "proprietario_novo": "Giguitaia",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-19 07:24:33"
   }
 ]
