@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "647|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 00:18:22"
+  },
+  {
+    "coordenadas": "455|844",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "L i n k",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-26 00:18:15"
+  },
+  {
+    "coordenadas": "590|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "anderson28",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-26 00:17:20"
+  },
+  {
+    "coordenadas": "478|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 00:16:22"
+  },
+  {
+    "coordenadas": "431|571",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Cabra da Peste",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 00:14:26"
+  },
+  {
+    "coordenadas": "576|436",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Braicks",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 00:14:26"
+  },
+  {
+    "coordenadas": "674|416",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 00:12:09"
+  },
+  {
+    "coordenadas": "562|288",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 00:10:29"
+  },
+  {
+    "coordenadas": "507|471",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 00:09:08"
+  },
+  {
     "coordenadas": "508|400",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
