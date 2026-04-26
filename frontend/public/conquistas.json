@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "542|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "w4rlock",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 12:58:50"
+  },
+  {
+    "coordenadas": "451|352",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 12:57:27"
+  },
+  {
+    "coordenadas": "616|706",
+    "proprietario_anterior": "LucasBen10",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 12:55:32"
+  },
+  {
     "coordenadas": "418|355",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
