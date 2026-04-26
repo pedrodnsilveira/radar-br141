@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "522|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 17:45:24"
+  },
+  {
+    "coordenadas": "510|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 17:42:27"
+  },
+  {
+    "coordenadas": "606|677",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padino negro",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-26 17:42:25"
+  },
+  {
+    "coordenadas": "410|385",
+    "proprietario_anterior": "rvh1",
+    "tribo_anterior": null,
+    "proprietario_novo": "MAGRELUS",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-26 17:41:35"
+  },
+  {
+    "coordenadas": "636|430",
+    "proprietario_anterior": "-R A G N A R-",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "joaogsm",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 17:40:52"
+  },
+  {
+    "coordenadas": "546|508",
+    "proprietario_anterior": "virtualpa",
+    "tribo_anterior": "FC",
+    "proprietario_novo": "marcola120",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 17:40:39"
+  },
+  {
+    "coordenadas": "408|572",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Alberto",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 17:37:52"
+  },
+  {
     "coordenadas": "752|719",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33214,37 +33270,5 @@
     "proprietario_novo": "O Príncipe",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-19 16:51:18"
-  },
-  {
-    "coordenadas": "601|665",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Padino negro",
-    "tribo_nova": "PCT",
-    "data_hora_conquista": "2026-04-19 16:47:42"
-  },
-  {
-    "coordenadas": "538|526",
-    "proprietario_anterior": "Rei fera?fera",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 16:46:57"
-  },
-  {
-    "coordenadas": "655|441",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bilk",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:43:27"
-  },
-  {
-    "coordenadas": "533|399",
-    "proprietario_anterior": "juliocjs",
-    "tribo_anterior": null,
-    "proprietario_novo": "werik98",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 16:42:24"
   }
 ]
