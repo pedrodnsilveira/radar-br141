@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "505|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 17:13:02"
+  },
+  {
+    "coordenadas": "397|548",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Valdoveu",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-26 17:11:41"
+  },
+  {
+    "coordenadas": "558|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 17:11:33"
+  },
+  {
     "coordenadas": "393|723",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33190,29 +33214,5 @@
     "proprietario_novo": "Mr. JimmyS",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 16:23:00"
-  },
-  {
-    "coordenadas": "722|470",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Spartacus",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:16:27"
-  },
-  {
-    "coordenadas": "421|350",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Padback420",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 16:12:24"
-  },
-  {
-    "coordenadas": "368|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "CORINGA PLAY",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-19 16:11:04"
   }
 ]
