@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "470|528",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "S K U",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 02:08:41"
+  },
+  {
     "coordenadas": "283|543",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32926,37 +32934,5 @@
     "proprietario_novo": "Voltra",
     "tribo_nova": "KFC",
     "data_hora_conquista": "2026-04-19 01:20:22"
-  },
-  {
-    "coordenadas": "491|839",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Alonsito",
-    "tribo_nova": "DRUNKS",
-    "data_hora_conquista": "2026-04-19 01:17:23"
-  },
-  {
-    "coordenadas": "243|482",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FariaEric",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-19 01:17:02"
-  },
-  {
-    "coordenadas": "410|391",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Douvinho",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 01:16:09"
-  },
-  {
-    "coordenadas": "473|620",
-    "proprietario_anterior": "Victorwins",
-    "tribo_anterior": null,
-    "proprietario_novo": "meomen11",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 01:15:12"
   }
 ]
