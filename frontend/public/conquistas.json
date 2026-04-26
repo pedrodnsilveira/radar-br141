@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "531|627",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 18:45:36"
+  },
+  {
+    "coordenadas": "535|187",
+    "proprietario_anterior": "paladinomascarado",
+    "tribo_anterior": null,
+    "proprietario_novo": "bagui loko",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-26 18:42:29"
+  },
+  {
+    "coordenadas": "525|571",
+    "proprietario_anterior": "Stecizitiayx",
+    "tribo_anterior": null,
+    "proprietario_novo": "mateusiglesias",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 18:41:27"
+  },
+  {
+    "coordenadas": "585|346",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ItoO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 18:39:19"
+  },
+  {
     "coordenadas": "530|368",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33206,45 +33238,5 @@
     "proprietario_novo": "joao51",
     "tribo_nova": "CLT.",
     "data_hora_conquista": "2026-04-19 17:51:19"
-  },
-  {
-    "coordenadas": "297|697",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "King Heintze",
-    "tribo_nova": "SNK",
-    "data_hora_conquista": "2026-04-19 17:49:16"
-  },
-  {
-    "coordenadas": "470|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Charlie Sheen",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 17:48:47"
-  },
-  {
-    "coordenadas": "499|411",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Panda Master Full Time",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-19 17:44:37"
-  },
-  {
-    "coordenadas": "575|746",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Patty.b",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 17:42:33"
-  },
-  {
-    "coordenadas": "811|339",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "JACKYFOX",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-19 17:41:57"
   }
 ]
