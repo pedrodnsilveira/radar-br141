@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "531|383",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:34:18"
+  },
+  {
+    "coordenadas": "652|684",
+    "proprietario_anterior": "Limajr81",
+    "tribo_anterior": null,
+    "proprietario_novo": "Skull01",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 21:33:13"
+  },
+  {
+    "coordenadas": "604|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "pdroherc",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:32:08"
+  },
+  {
+    "coordenadas": "447|571",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Jax Teller -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 21:26:49"
+  },
+  {
     "coordenadas": "501|524",
     "proprietario_anterior": "GuiLargue",
     "tribo_anterior": "COLh",
@@ -33174,21 +33206,5 @@
     "proprietario_novo": "7Copa",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 20:42:27"
-  },
-  {
-    "coordenadas": "779|631",
-    "proprietario_anterior": "Sgtpaes",
-    "tribo_anterior": null,
-    "proprietario_novo": "A P O S E N T A D O S",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-19 20:37:15"
-  },
-  {
-    "coordenadas": "649|725",
-    "proprietario_anterior": "Jean132",
-    "tribo_anterior": null,
-    "proprietario_novo": "Tomás mester",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 20:36:40"
   }
 ]
