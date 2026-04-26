@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "418|355",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Padback420",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 12:53:25"
+  },
+  {
+    "coordenadas": "407|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 12:53:15"
+  },
+  {
+    "coordenadas": "673|411",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 12:53:02"
+  },
+  {
     "coordenadas": "547|501",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
