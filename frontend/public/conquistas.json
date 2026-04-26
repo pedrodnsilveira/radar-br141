@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "742|604",
+    "proprietario_anterior": "jambrador",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bott",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 12:07:56"
+  },
+  {
+    "coordenadas": "493|614",
+    "proprietario_anterior": "Tia da Merenda",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "Tia da Merenda",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 12:04:04"
+  },
+  {
+    "coordenadas": "493|614",
+    "proprietario_anterior": "R A N D O M P L A Y E R",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "Tia da Merenda",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 12:04:00"
+  },
+  {
+    "coordenadas": "561|596",
+    "proprietario_anterior": "CRYSTALLINEEMPEROR99",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 12:01:55"
+  },
+  {
+    "coordenadas": "456|823",
+    "proprietario_anterior": "s i r r a H Paul",
+    "tribo_anterior": null,
+    "proprietario_novo": "rabbit99",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-26 12:01:31"
+  },
+  {
+    "coordenadas": "211|680",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Gladiador real",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 12:00:22"
+  },
+  {
     "coordenadas": "410|534",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32990,29 +33038,5 @@
     "proprietario_novo": "Toldi",
     "tribo_nova": "AVG",
     "data_hora_conquista": "2026-04-19 11:12:21"
-  },
-  {
-    "coordenadas": "390|466",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "O bravo",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 11:09:58"
-  },
-  {
-    "coordenadas": "513|511",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 11:07:23"
-  },
-  {
-    "coordenadas": "574|804",
-    "proprietario_anterior": "Beleza.pura",
-    "tribo_anterior": "ÁGORA",
-    "proprietario_novo": "DouglasLopes",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-19 11:01:24"
   }
 ]
