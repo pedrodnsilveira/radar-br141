@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "393|723",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fazenda B.G",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 17:04:15"
+  },
+  {
+    "coordenadas": "517|414",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 17:02:38"
+  },
+  {
+    "coordenadas": "556|609",
+    "proprietario_anterior": "Chave Fenda",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "Corta pra mim",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 17:02:05"
+  },
+  {
     "coordenadas": "562|532",
     "proprietario_anterior": "Inteligência Artificial",
     "tribo_anterior": "DuMau",
@@ -33190,37 +33214,5 @@
     "proprietario_novo": "CORINGA PLAY",
     "tribo_nova": "GAL0S",
     "data_hora_conquista": "2026-04-19 16:11:04"
-  },
-  {
-    "coordenadas": "497|228",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Vozen",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-19 16:09:57"
-  },
-  {
-    "coordenadas": "831|514",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cristian.zonta",
-    "tribo_nova": "PCT",
-    "data_hora_conquista": "2026-04-19 16:02:30"
-  },
-  {
-    "coordenadas": "603|370",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:01:40"
-  },
-  {
-    "coordenadas": "608|400",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:01:06"
   }
 ]
