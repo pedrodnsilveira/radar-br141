@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "216|685",
+    "proprietario_anterior": "SHADOWVALKYRIE231",
+    "tribo_anterior": null,
+    "proprietario_novo": "tekratos",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 11:01:01"
+  },
+  {
+    "coordenadas": "755|617",
+    "proprietario_anterior": "MatheusKiroBr",
+    "tribo_anterior": "RG",
+    "proprietario_novo": "Eric C4rtman",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-26 11:00:01"
+  },
+  {
+    "coordenadas": "427|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Isa Neri",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 10:59:55"
+  },
+  {
+    "coordenadas": "404|524",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 10:58:49"
+  },
+  {
     "coordenadas": "390|618",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32982,21 +33014,5 @@
     "proprietario_novo": "Wmzin7",
     "tribo_nova": "23",
     "data_hora_conquista": "2026-04-19 10:11:08"
-  },
-  {
-    "coordenadas": "457|628",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 10:03:16"
-  },
-  {
-    "coordenadas": "498|578",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Shorts",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 10:01:44"
   }
 ]
