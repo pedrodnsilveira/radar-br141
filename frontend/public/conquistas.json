@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "417|386",
+    "proprietario_anterior": "Corvo-Negro",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 00:28:01"
+  },
+  {
+    "coordenadas": "476|415",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 00:23:09"
+  },
+  {
+    "coordenadas": "261|710",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "RickBR",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-26 00:22:06"
+  },
+  {
+    "coordenadas": "302|691",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BadDani",
+    "tribo_nova": "SNK",
+    "data_hora_conquista": "2026-04-26 00:21:18"
+  },
+  {
     "coordenadas": "647|504",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
