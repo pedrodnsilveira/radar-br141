@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "373|456",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VarãoDeGuerra",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 14:58:31"
+  },
+  {
+    "coordenadas": "613|552",
+    "proprietario_anterior": "SAVAGEORACLE292",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 14:54:16"
+  },
+  {
+    "coordenadas": "510|544",
+    "proprietario_anterior": "VaillantM",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Capiyvara",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 14:52:29"
+  },
+  {
+    "coordenadas": "385|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 14:49:20"
+  },
+  {
     "coordenadas": "556|455",
     "proprietario_anterior": "Xoqa",
     "tribo_anterior": null,
@@ -33222,61 +33254,5 @@
     "proprietario_novo": "Moleque Business.",
     "tribo_nova": "-3OS-",
     "data_hora_conquista": "2026-04-19 14:00:49"
-  },
-  {
-    "coordenadas": "557|626",
-    "proprietario_anterior": "BrendoTR",
-    "tribo_anterior": null,
-    "proprietario_novo": "Suets",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 13:59:50"
-  },
-  {
-    "coordenadas": "556|352",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "70Correr20Matar",
-    "tribo_nova": "AMG",
-    "data_hora_conquista": "2026-04-19 13:59:03"
-  },
-  {
-    "coordenadas": "492|832",
-    "proprietario_anterior": "Elias paranhos",
-    "tribo_anterior": null,
-    "proprietario_novo": "Alonsito",
-    "tribo_nova": "DRUNKS",
-    "data_hora_conquista": "2026-04-19 13:58:09"
-  },
-  {
-    "coordenadas": "358|744",
-    "proprietario_anterior": "alexstrindade",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "O Príncipe",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 13:57:58"
-  },
-  {
-    "coordenadas": "443|181",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Dallas Of Tessália",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-19 13:57:03"
-  },
-  {
-    "coordenadas": "572|473",
-    "proprietario_anterior": "sxxlaurinha",
-    "tribo_anterior": "F.L.A",
-    "proprietario_novo": "Karma Akabane.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 13:54:30"
-  },
-  {
-    "coordenadas": "702|243",
-    "proprietario_anterior": "Goloas",
-    "tribo_anterior": null,
-    "proprietario_novo": "TUGAKILER",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-19 13:50:25"
   }
 ]
