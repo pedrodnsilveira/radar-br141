@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "556|455",
+    "proprietario_anterior": "Xoqa",
+    "tribo_anterior": null,
+    "proprietario_novo": "Binnhosantos",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-26 14:46:41"
+  },
+  {
+    "coordenadas": "284|570",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saubher",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 14:44:33"
+  },
+  {
+    "coordenadas": "518|449",
+    "proprietario_anterior": "realMFG",
+    "tribo_anterior": null,
+    "proprietario_novo": "EureK",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 14:42:31"
+  },
+  {
+    "coordenadas": "661|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 14:42:00"
+  },
+  {
     "coordenadas": "442|480",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33246,13 +33278,5 @@
     "proprietario_novo": "TUGAKILER",
     "tribo_nova": "CLT.",
     "data_hora_conquista": "2026-04-19 13:50:25"
-  },
-  {
-    "coordenadas": "593|472",
-    "proprietario_anterior": "unequivoca",
-    "tribo_anterior": "CASA",
-    "proprietario_novo": "Kami",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 13:43:59"
   }
 ]
