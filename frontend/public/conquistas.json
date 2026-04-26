@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "660|313",
+    "proprietario_anterior": "Dracmas",
+    "tribo_anterior": "CLT.",
+    "proprietario_novo": "Dracmas",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-26 14:26:22"
+  },
+  {
+    "coordenadas": "543|588",
+    "proprietario_anterior": "jonatanoliveira",
+    "tribo_anterior": null,
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 14:26:21"
+  },
+  {
+    "coordenadas": "660|313",
+    "proprietario_anterior": "Viadroar",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dracmas",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-26 14:26:02"
+  },
+  {
+    "coordenadas": "453|558",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Noke Destroyer",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 14:23:35"
+  },
+  {
+    "coordenadas": "614|551",
+    "proprietario_anterior": "OBSIDIANLEVIATHAN305",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 14:21:09"
+  },
+  {
+    "coordenadas": "326|623",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Movith",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 14:20:28"
+  },
+  {
+    "coordenadas": "452|850",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "L i n k",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-26 14:19:56"
+  },
+  {
     "coordenadas": "666|491",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33190,45 +33246,5 @@
     "proprietario_novo": "Tia da Cantina",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-19 13:32:17"
-  },
-  {
-    "coordenadas": "481|242",
-    "proprietario_anterior": "mdelvecchio",
-    "tribo_anterior": "NP",
-    "proprietario_novo": "arqueiros",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 13:24:49"
-  },
-  {
-    "coordenadas": "267|365",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "hbm2703",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-19 13:24:19"
-  },
-  {
-    "coordenadas": "549|625",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "iMoon",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 13:23:46"
-  },
-  {
-    "coordenadas": "550|478",
-    "proprietario_anterior": "zaifovias",
-    "tribo_anterior": null,
-    "proprietario_novo": "Karma Akabane.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 13:21:33"
-  },
-  {
-    "coordenadas": "202|390",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Ex Presidentes",
-    "tribo_nova": "C_I_A",
-    "data_hora_conquista": "2026-04-19 13:21:27"
   }
 ]
