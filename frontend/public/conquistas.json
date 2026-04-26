@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "611|713",
+    "proprietario_anterior": "QUASETEBOLOTEI",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-25 22:58:14"
+  },
+  {
+    "coordenadas": "395|523",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 22:57:01"
+  },
+  {
+    "coordenadas": "640|758",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dcastro",
+    "tribo_nova": "GCa",
+    "data_hora_conquista": "2026-04-25 22:56:46"
+  },
+  {
+    "coordenadas": "622|476",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 22:52:56"
+  },
+  {
+    "coordenadas": "561|392",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chuva",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-25 22:52:47"
+  },
+  {
+    "coordenadas": "449|376",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-25 22:51:15"
+  },
+  {
     "coordenadas": "447|526",
     "proprietario_anterior": "guto1504",
     "tribo_anterior": "PoRT",
