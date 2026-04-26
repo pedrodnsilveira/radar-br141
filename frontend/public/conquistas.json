@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "508|400",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 00:05:01"
+  },
+  {
+    "coordenadas": "196|629",
+    "proprietario_anterior": "Mastiga Vidro",
+    "tribo_anterior": null,
+    "proprietario_novo": "jmcs10",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-26 00:02:28"
+  },
+  {
+    "coordenadas": "465|519",
+    "proprietario_anterior": "berna",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 23:57:43"
+  },
+  {
+    "coordenadas": "384|528",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cleber 25",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-25 23:56:59"
+  },
+  {
     "coordenadas": "434|450",
     "proprietario_anterior": "bertoli",
     "tribo_anterior": "FN!",
