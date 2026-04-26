@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "560|528",
+    "proprietario_anterior": "Inteligência Artificial",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "marce10nike",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:15:50"
+  },
+  {
     "coordenadas": "538|471",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33198,29 +33206,5 @@
     "proprietario_novo": "C. Rafa 17",
     "tribo_nova": "-3OS-",
     "data_hora_conquista": "2026-04-19 20:24:41"
-  },
-  {
-    "coordenadas": "489|293",
-    "proprietario_anterior": "brilliantharbinger64",
-    "tribo_anterior": null,
-    "proprietario_novo": "-Rustic Hall",
-    "tribo_nova": "[LSE]",
-    "data_hora_conquista": "2026-04-19 20:18:44"
-  },
-  {
-    "coordenadas": "537|532",
-    "proprietario_anterior": "xXhudsonXx",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 20:12:58"
-  },
-  {
-    "coordenadas": "607|425",
-    "proprietario_anterior": "S E M A L M A S",
-    "tribo_anterior": "ENEL",
-    "proprietario_novo": "7Copa",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 20:12:35"
   }
 ]
