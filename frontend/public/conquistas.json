@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "226|596",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lil Pump",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 00:37:25"
+  },
+  {
+    "coordenadas": "612|456",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 00:30:54"
+  },
+  {
+    "coordenadas": "534|791",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yanet",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-26 00:29:26"
+  },
+  {
     "coordenadas": "417|386",
     "proprietario_anterior": "Corvo-Negro",
     "tribo_anterior": "GAL0S",
