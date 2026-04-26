@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "547|501",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 12:49:06"
+  },
+  {
+    "coordenadas": "643|754",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-26 12:44:56"
+  },
+  {
+    "coordenadas": "672|413",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 12:44:21"
+  },
+  {
+    "coordenadas": "547|852",
+    "proprietario_anterior": "phantomsteam",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "phantomsteam",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 12:44:02"
+  },
+  {
+    "coordenadas": "320|179",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nyedson",
+    "tribo_nova": "F's",
+    "data_hora_conquista": "2026-04-26 12:40:17"
+  },
+  {
     "coordenadas": "383|568",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32950,37 +32990,5 @@
     "proprietario_novo": "Arceus James",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 13:15:37"
-  },
-  {
-    "coordenadas": "448|808",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "just...G",
-    "tribo_nova": "HtR",
-    "data_hora_conquista": "2026-04-19 11:49:42"
-  },
-  {
-    "coordenadas": "397|243",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Ferpa17",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-19 11:45:30"
-  },
-  {
-    "coordenadas": "341|537",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FYukino",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 11:44:42"
-  },
-  {
-    "coordenadas": "485|381",
-    "proprietario_anterior": "Pozeraczka Ptysi",
-    "tribo_anterior": null,
-    "proprietario_novo": "gajkozin",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 11:41:59"
   }
 ]
