@@ -1,5 +1,93 @@
 [
   {
+    "coordenadas": "719|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 09:34:34"
+  },
+  {
+    "coordenadas": "721|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Spartacus",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 09:33:17"
+  },
+  {
+    "coordenadas": "305|511",
+    "proprietario_anterior": "bisgui",
+    "tribo_anterior": null,
+    "proprietario_novo": "TisToro",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 09:31:31"
+  },
+  {
+    "coordenadas": "485|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dandezaal",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-26 09:30:57"
+  },
+  {
+    "coordenadas": "545|458",
+    "proprietario_anterior": "ZekaUruburgeR",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 09:30:07"
+  },
+  {
+    "coordenadas": "274|295",
+    "proprietario_anterior": "Toldi",
+    "tribo_anterior": "AVG",
+    "proprietario_novo": "HDtroll",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 09:30:06"
+  },
+  {
+    "coordenadas": "399|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 09:29:52"
+  },
+  {
+    "coordenadas": "408|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 09:28:56"
+  },
+  {
+    "coordenadas": "687|511",
+    "proprietario_anterior": "elfinorio",
+    "tribo_anterior": "D.B.Z",
+    "proprietario_novo": "csjran",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 09:28:55"
+  },
+  {
+    "coordenadas": "410|525",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 09:28:41"
+  },
+  {
+    "coordenadas": "484|493",
+    "proprietario_anterior": "MiniSix",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "GALO - A LENDA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 09:26:37"
+  },
+  {
     "coordenadas": "694|574",
     "proprietario_anterior": "LehoniFJ",
     "tribo_anterior": "GC",
