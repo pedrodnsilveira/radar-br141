@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "505|500",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 18:28:26"
+  },
+  {
+    "coordenadas": "409|570",
+    "proprietario_anterior": "Eu sou LampiãoPB",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "Playernoob*",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 18:25:50"
+  },
+  {
+    "coordenadas": "598|435",
+    "proprietario_anterior": "Poompas",
+    "tribo_anterior": "CASA",
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 18:25:01"
+  },
+  {
+    "coordenadas": "467|195",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Gengis Khan",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-26 18:20:01"
+  },
+  {
     "coordenadas": "818|457",
     "proprietario_anterior": "Logan DMC - W.C",
     "tribo_anterior": ".RIP.",
@@ -33230,45 +33262,5 @@
     "proprietario_novo": "Carta na Manga",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 17:31:19"
-  },
-  {
-    "coordenadas": "400|493",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 17:29:30"
-  },
-  {
-    "coordenadas": "556|454",
-    "proprietario_anterior": "SilentRangeR219",
-    "tribo_anterior": null,
-    "proprietario_novo": "Binnhosantos",
-    "tribo_nova": "MMCV",
-    "data_hora_conquista": "2026-04-19 17:26:36"
-  },
-  {
-    "coordenadas": "482|545",
-    "proprietario_anterior": "zetokiller",
-    "tribo_anterior": null,
-    "proprietario_novo": "jacsonn",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 17:25:58"
-  },
-  {
-    "coordenadas": "191|419",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rassengan",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 17:25:35"
-  },
-  {
-    "coordenadas": "639|529",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "BARTZINHOO",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 17:21:08"
   }
 ]
