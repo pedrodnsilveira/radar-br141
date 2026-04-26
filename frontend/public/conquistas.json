@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "283|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 02:03:47"
+  },
+  {
+    "coordenadas": "437|652",
+    "proprietario_anterior": "Lordkaz",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coxinhabolada",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 02:00:15"
+  },
+  {
+    "coordenadas": "636|430",
+    "proprietario_anterior": "Enedina Campos",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogsm",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-26 01:57:47"
+  },
+  {
     "coordenadas": "414|390",
     "proprietario_anterior": "Corvo-Negro",
     "tribo_anterior": "GAL0S",
@@ -32934,21 +32958,5 @@
     "proprietario_novo": "meomen11",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 01:15:12"
-  },
-  {
-    "coordenadas": "562|568",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 01:04:08"
-  },
-  {
-    "coordenadas": "463|618",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 01:02:23"
   }
 ]
