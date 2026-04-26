@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "415|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fandangos100",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 02:24:04"
+  },
+  {
+    "coordenadas": "433|788",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Seabra 19",
+    "tribo_nova": "TRR",
+    "data_hora_conquista": "2026-04-26 02:18:39"
+  },
+  {
+    "coordenadas": "252|563",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "alisonlansarini",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 02:16:47"
+  },
+  {
     "coordenadas": "470|528",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32894,45 +32918,5 @@
     "proprietario_novo": "Brunexx",
     "tribo_nova": "23",
     "data_hora_conquista": "2026-04-19 01:30:37"
-  },
-  {
-    "coordenadas": "330|666",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jetuinhoO",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 01:28:33"
-  },
-  {
-    "coordenadas": "286|381",
-    "proprietario_anterior": "Saorim98",
-    "tribo_anterior": null,
-    "proprietario_novo": "Saorim98",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 01:26:58"
-  },
-  {
-    "coordenadas": "286|381",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Saorim98",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 01:26:46"
-  },
-  {
-    "coordenadas": "709|325",
-    "proprietario_anterior": "- Glory and Honor",
-    "tribo_anterior": null,
-    "proprietario_novo": "Digoshow",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-19 01:22:07"
-  },
-  {
-    "coordenadas": "342|384",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Voltra",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-19 01:20:22"
   }
 ]
