@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "562|532",
+    "proprietario_anterior": "Inteligência Artificial",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "marce10nike",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 16:56:47"
+  },
+  {
+    "coordenadas": "538|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 16:56:39"
+  },
+  {
+    "coordenadas": "600|309",
+    "proprietario_anterior": "Ridcki",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "DARK OF TREVAS",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 16:54:46"
+  },
+  {
+    "coordenadas": "550|606",
+    "proprietario_anterior": "Chave Fenda",
+    "tribo_anterior": "SoA",
+    "proprietario_novo": "Corta pra mim",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 16:54:29"
+  },
+  {
+    "coordenadas": "374|551",
+    "proprietario_anterior": "Rambooloko",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "lordnetu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 16:53:47"
+  },
+  {
+    "coordenadas": "554|531",
+    "proprietario_anterior": "bruno coreea",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lucas.kaka",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-26 16:51:06"
+  },
+  {
     "coordenadas": "356|368",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33174,37 +33222,5 @@
     "proprietario_novo": "FeldschlosscheN",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 16:01:06"
-  },
-  {
-    "coordenadas": "454|469",
-    "proprietario_anterior": "Aninhasepla",
-    "tribo_anterior": null,
-    "proprietario_novo": "Shiraname",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-19 15:56:41"
-  },
-  {
-    "coordenadas": "518|517",
-    "proprietario_anterior": "Lenhador-suado",
-    "tribo_anterior": null,
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 15:52:09"
-  },
-  {
-    "coordenadas": "536|533",
-    "proprietario_anterior": "xXhudsonXx",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 15:51:06"
-  },
-  {
-    "coordenadas": "462|377",
-    "proprietario_anterior": "joaoalceumombach",
-    "tribo_anterior": "GAL0S",
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 15:50:13"
   }
 ]
