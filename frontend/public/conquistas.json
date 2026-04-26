@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "410|534",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 11:51:59"
+  },
+  {
     "coordenadas": "552|654",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33006,53 +33014,5 @@
     "proprietario_novo": "DouglasLopes",
     "tribo_nova": "FENIX",
     "data_hora_conquista": "2026-04-19 11:01:24"
-  },
-  {
-    "coordenadas": "562|553",
-    "proprietario_anterior": "MONTEIRO1",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "- Bjorn Ironside",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 11:00:00"
-  },
-  {
-    "coordenadas": "564|554",
-    "proprietario_anterior": "MONTEIRO1",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "- Bjorn Ironside",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 11:00:00"
-  },
-  {
-    "coordenadas": "623|214",
-    "proprietario_anterior": "titanwarlord702",
-    "tribo_anterior": null,
-    "proprietario_novo": "Schaefer",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-19 10:59:54"
-  },
-  {
-    "coordenadas": "596|439",
-    "proprietario_anterior": "DarkSentineL43",
-    "tribo_anterior": null,
-    "proprietario_novo": "Convidado993105",
-    "tribo_nova": "CASA",
-    "data_hora_conquista": "2026-04-19 10:58:35"
-  },
-  {
-    "coordenadas": "641|656",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "pozzebom",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 10:55:42"
-  },
-  {
-    "coordenadas": "437|439",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Mayconk -",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 10:50:23"
   }
 ]
