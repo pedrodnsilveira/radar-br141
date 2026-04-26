@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "365|363",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiranoMestre",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-25 21:56:32"
+  },
+  {
+    "coordenadas": "465|515",
+    "proprietario_anterior": "berna",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 21:55:04"
+  },
+  {
+    "coordenadas": "479|606",
+    "proprietario_anterior": "tenesa22",
+    "tribo_anterior": null,
+    "proprietario_novo": "maykbn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 21:53:04"
+  },
+  {
+    "coordenadas": "398|297",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Torrinco",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-25 21:52:59"
+  },
+  {
     "coordenadas": "511|381",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
