@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "549|581",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guioliveira.br",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 19:25:40"
+  },
+  {
     "coordenadas": "709|348",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33134,29 +33142,5 @@
     "proprietario_novo": "Arceus James",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 18:40:56"
-  },
-  {
-    "coordenadas": "467|489",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cabritinha",
-    "tribo_nova": "N.O",
-    "data_hora_conquista": "2026-04-19 18:36:15"
-  },
-  {
-    "coordenadas": "415|482",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 18:36:03"
-  },
-  {
-    "coordenadas": "294|611",
-    "proprietario_anterior": "sapataria",
-    "tribo_anterior": null,
-    "proprietario_novo": "JociAfonso",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 18:35:07"
   }
 ]
