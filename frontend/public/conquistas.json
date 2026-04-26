@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "447|422",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Mayconk -",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 14:05:56"
+  },
+  {
+    "coordenadas": "661|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 14:05:14"
+  },
+  {
     "coordenadas": "636|430",
     "proprietario_anterior": "-R A G N A R-",
     "tribo_anterior": "CLT",
