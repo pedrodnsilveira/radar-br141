@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "268|548",
+    "proprietario_anterior": "maitre",
+    "tribo_anterior": "BRANCA",
+    "proprietario_novo": "Thiago2t",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 03:57:46"
+  },
+  {
+    "coordenadas": "622|714",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KingV",
+    "tribo_nova": "ÁGORA",
+    "data_hora_conquista": "2026-04-26 03:57:07"
+  },
+  {
     "coordenadas": "475|621",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32822,37 +32838,5 @@
     "proprietario_novo": "cleber 25",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-19 03:00:26"
-  },
-  {
-    "coordenadas": "859|452",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rogoski123",
-    "tribo_nova": "[NG]",
-    "data_hora_conquista": "2026-04-19 02:59:27"
-  },
-  {
-    "coordenadas": "444|408",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Foschiani.",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 02:55:51"
-  },
-  {
-    "coordenadas": "523|582",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mateusiglesias",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 02:55:11"
-  },
-  {
-    "coordenadas": "719|414",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Gustavo Lima",
-    "tribo_nova": "TRTN",
-    "data_hora_conquista": "2026-04-19 02:52:43"
   }
 ]
