@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "636|430",
+    "proprietario_anterior": "-R A G N A R-",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 13:50:23"
+  },
+  {
+    "coordenadas": "444|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 13:45:43"
+  },
+  {
     "coordenadas": "408|293",
     "proprietario_anterior": "HENRIKING.xM",
     "tribo_anterior": "D23",
