@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "256|635",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "kowsatchel",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 19:53:10"
+  },
+  {
+    "coordenadas": "259|369",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "hbm2703",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 19:50:01"
+  },
+  {
     "coordenadas": "557|482",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33126,45 +33142,5 @@
     "proprietario_novo": "Sr. Mamuth",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-19 19:00:43"
-  },
-  {
-    "coordenadas": "485|523",
-    "proprietario_anterior": "J.Karl",
-    "tribo_anterior": "N.O",
-    "proprietario_novo": "azanutox",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 19:00:00"
-  },
-  {
-    "coordenadas": "483|524",
-    "proprietario_anterior": "J.Karl",
-    "tribo_anterior": "N.O",
-    "proprietario_novo": "azanutox",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 19:00:00"
-  },
-  {
-    "coordenadas": "384|642",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "campanato",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-19 18:59:11"
-  },
-  {
-    "coordenadas": "600|462",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rafão",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-19 18:58:55"
-  },
-  {
-    "coordenadas": "187|567",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "gabiusfoch",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 18:56:26"
   }
 ]
