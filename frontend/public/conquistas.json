@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "465|257",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Danilo 19",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 03:32:57"
+  },
+  {
+    "coordenadas": "483|669",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 03:30:41"
+  },
+  {
     "coordenadas": "528|516",
     "proprietario_anterior": "senin",
     "tribo_anterior": "TPZ",
@@ -32862,37 +32878,5 @@
     "proprietario_novo": "MrtornadoBR",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 02:44:42"
-  },
-  {
-    "coordenadas": "708|637",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "CarunchiGAMER",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-19 02:37:02"
-  },
-  {
-    "coordenadas": "651|549",
-    "proprietario_anterior": "Suabner",
-    "tribo_anterior": null,
-    "proprietario_novo": "heldiluz",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 02:31:11"
-  },
-  {
-    "coordenadas": "590|187",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Matheus Felisberto",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-19 02:31:05"
-  },
-  {
-    "coordenadas": "453|616",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 02:30:30"
   }
 ]
