@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "689|213",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LuizVenturoso",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-26 01:44:27"
+  },
+  {
+    "coordenadas": "460|546",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 01:42:10"
+  },
+  {
+    "coordenadas": "499|446",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 01:41:53"
+  },
+  {
+    "coordenadas": "632|431",
+    "proprietario_anterior": "seirin",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "pdroherc",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 01:41:03"
+  },
+  {
+    "coordenadas": "512|324",
+    "proprietario_anterior": "Henrique Raíz I",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cadelaprenha",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 01:40:18"
+  },
+  {
     "coordenadas": "683|711",
     "proprietario_anterior": "gui1533",
     "tribo_anterior": "GCa",
@@ -32902,53 +32942,5 @@
     "proprietario_novo": "- RiPaDo By Iraki -",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 00:52:51"
-  },
-  {
-    "coordenadas": "526|371",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Luiz.maciel98",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 00:49:29"
-  },
-  {
-    "coordenadas": "635|485",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bilk",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 00:48:45"
-  },
-  {
-    "coordenadas": "317|662",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Shouder",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 00:47:22"
-  },
-  {
-    "coordenadas": "414|482",
-    "proprietario_anterior": "cosmopolitane",
-    "tribo_anterior": "CS",
-    "proprietario_novo": "eduardokaique99",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-19 00:43:48"
-  },
-  {
-    "coordenadas": "797|624",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Kolore",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-19 00:42:00"
-  },
-  {
-    "coordenadas": "264|646",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MyEggIsBack",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-19 00:40:24"
   }
 ]
