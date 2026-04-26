@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "709|348",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ipiau",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-26 19:15:40"
+  },
+  {
+    "coordenadas": "186|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vini.universal",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-26 19:15:18"
+  },
+  {
+    "coordenadas": "508|495",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 19:10:45"
+  },
+  {
     "coordenadas": "561|630",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33222,29 +33246,5 @@
     "proprietario_novo": "Firerock",
     "tribo_nova": "O4F",
     "data_hora_conquista": "2026-04-19 18:21:40"
-  },
-  {
-    "coordenadas": "416|483",
-    "proprietario_anterior": "eduardokaique99",
-    "tribo_anterior": "GAL0S",
-    "proprietario_novo": "- Bitencourt",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 18:16:30"
-  },
-  {
-    "coordenadas": "525|544",
-    "proprietario_anterior": "*Winterfell*",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 18:15:24"
-  },
-  {
-    "coordenadas": "539|463",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Zandorfire",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 18:14:12"
   }
 ]
