@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "682|440",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Triguinal",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 15:19:19"
+  },
+  {
+    "coordenadas": "439|532",
+    "proprietario_anterior": "Neitraitio",
+    "tribo_anterior": null,
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 15:14:38"
+  },
+  {
+    "coordenadas": "612|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Asta -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 15:13:20"
+  },
+  {
+    "coordenadas": "304|344",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "knight War III",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-26 15:11:37"
+  },
+  {
     "coordenadas": "425|497",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33222,45 +33254,5 @@
     "proprietario_novo": "O Príncipe",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-19 14:20:05"
-  },
-  {
-    "coordenadas": "412|301",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HENRIKING.xM",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-19 14:19:50"
-  },
-  {
-    "coordenadas": "776|342",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "xandi",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-19 14:13:23"
-  },
-  {
-    "coordenadas": "455|580",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Noke Destroyer",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 14:12:20"
-  },
-  {
-    "coordenadas": "533|530",
-    "proprietario_anterior": "PacifistaSacana",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 14:12:13"
-  },
-  {
-    "coordenadas": "600|793",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Talestt",
-    "tribo_nova": "PCT",
-    "data_hora_conquista": "2026-04-19 14:11:15"
   }
 ]
