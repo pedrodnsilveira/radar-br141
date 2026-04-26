@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "518|495",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 17:57:31"
+  },
+  {
+    "coordenadas": "560|803",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DouglasLopes",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-26 17:54:39"
+  },
+  {
+    "coordenadas": "446|730",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KAUE ESTEVES",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 17:48:35"
+  },
+  {
     "coordenadas": "522|513",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33238,37 +33262,5 @@
     "proprietario_novo": "Sebaschenkowar",
     "tribo_nova": "HtR",
     "data_hora_conquista": "2026-04-19 17:00:04"
-  },
-  {
-    "coordenadas": "549|509",
-    "proprietario_anterior": "joaogustavo",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:59:22"
-  },
-  {
-    "coordenadas": "627|395",
-    "proprietario_anterior": "senhorgustavogtv1000",
-    "tribo_anterior": null,
-    "proprietario_novo": "-R A G N A R-",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-19 16:56:23"
-  },
-  {
-    "coordenadas": "629|493",
-    "proprietario_anterior": "vitorpereira",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 16:51:34"
-  },
-  {
-    "coordenadas": "358|737",
-    "proprietario_anterior": "alexstrindade",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "O Príncipe",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 16:51:18"
   }
 ]
