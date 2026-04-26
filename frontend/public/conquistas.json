@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "378|309",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "sandubão1",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-26 04:52:10"
+  },
+  {
+    "coordenadas": "504|313",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei Camelo",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 04:51:22"
+  },
+  {
     "coordenadas": "781|541",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32838,21 +32854,5 @@
     "proprietario_novo": "Foschiani.",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 04:03:54"
-  },
-  {
-    "coordenadas": "579|611",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 03:58:16"
-  },
-  {
-    "coordenadas": "749|608",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "kingsfredo",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-19 03:56:56"
   }
 ]
