@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "408|293",
+    "proprietario_anterior": "HENRIKING.xM",
+    "tribo_anterior": "D23",
+    "proprietario_novo": "HENRIKING.xM",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-26 13:44:34"
+  },
+  {
+    "coordenadas": "404|501",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 13:41:47"
+  },
+  {
+    "coordenadas": "421|296",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "daniellorient",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 13:41:41"
+  },
+  {
+    "coordenadas": "356|794",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Siqueira",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-26 13:41:18"
+  },
+  {
+    "coordenadas": "594|360",
+    "proprietario_anterior": "gustavo .cn",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "Ricardoju",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 13:40:48"
+  },
+  {
+    "coordenadas": "576|663",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 13:38:11"
+  },
+  {
+    "coordenadas": "622|431",
+    "proprietario_anterior": "zoronga",
+    "tribo_anterior": "TOP",
+    "proprietario_novo": "M e S t R e K a M e",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-26 13:38:01"
+  },
+  {
+    "coordenadas": "643|754",
+    "proprietario_anterior": "Dcastro",
+    "tribo_anterior": "GCa",
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-26 13:37:02"
+  },
+  {
     "coordenadas": "643|754",
     "proprietario_anterior": "Dcastro",
     "tribo_anterior": "GCa",
