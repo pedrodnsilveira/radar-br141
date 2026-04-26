@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "506|503",
+    "proprietario_anterior": "joaogustavo",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:32:53"
+  },
+  {
+    "coordenadas": "509|500",
+    "proprietario_anterior": "accelerator",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 23:32:53"
+  },
+  {
+    "coordenadas": "509|500",
+    "proprietario_anterior": "accelerator",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:32:33"
+  },
+  {
+    "coordenadas": "508|503",
+    "proprietario_anterior": "- RiPaDo By Evair -",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Mr. JimmyS",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-25 23:32:33"
+  },
+  {
+    "coordenadas": "506|503",
+    "proprietario_anterior": "joaogustavo",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:32:33"
+  },
+  {
+    "coordenadas": "506|503",
+    "proprietario_anterior": "Mr. JimmyS",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:31:38"
+  },
+  {
+    "coordenadas": "508|503",
+    "proprietario_anterior": "- RiPaDo By Evair -",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "- RiPaDo By Evair -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:31:38"
+  },
+  {
+    "coordenadas": "509|500",
+    "proprietario_anterior": "Mr. JimmyS",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-25 23:31:38"
+  },
+  {
+    "coordenadas": "786|348",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "luiseduardo3m",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-25 23:31:03"
+  },
+  {
     "coordenadas": "789|649",
     "proprietario_anterior": "Wuwohusa",
     "tribo_anterior": null,
