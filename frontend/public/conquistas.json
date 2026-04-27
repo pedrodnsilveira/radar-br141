@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "378|798",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Firerock",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-27 12:28:23"
+  },
+  {
+    "coordenadas": "519|376",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 12:23:07"
+  },
+  {
     "coordenadas": "409|506",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33134,13 +33150,5 @@
     "proprietario_novo": "Produto inflamável",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 11:32:43"
-  },
-  {
-    "coordenadas": "695|573",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "BCJesus",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-20 11:29:36"
   }
 ]
