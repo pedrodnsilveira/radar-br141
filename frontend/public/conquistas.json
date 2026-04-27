@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "422|476",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 02:47:29"
+  },
+  {
+    "coordenadas": "672|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Garapa1",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-27 02:47:08"
+  },
+  {
+    "coordenadas": "640|454",
+    "proprietario_anterior": "sasi",
+    "tribo_anterior": "COSTA",
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 02:44:45"
+  },
+  {
+    "coordenadas": "163|373",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guarda de ossos",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-27 02:44:40"
+  },
+  {
+    "coordenadas": "381|518",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Robertojr09",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 02:43:39"
+  },
+  {
+    "coordenadas": "458|846",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "L i n k",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-27 02:41:43"
+  },
+  {
+    "coordenadas": "748|645",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "moarabs",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-27 02:41:42"
+  },
+  {
+    "coordenadas": "521|173",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Exgustavo1995",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-27 02:38:38"
+  },
+  {
     "coordenadas": "636|455",
     "proprietario_anterior": "Swiss",
     "tribo_anterior": "COSTA",
@@ -33046,29 +33110,5 @@
     "proprietario_novo": "Obelixbr",
     "tribo_nova": "DuMau",
     "data_hora_conquista": "2026-04-20 01:52:50"
-  },
-  {
-    "coordenadas": "574|688",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bear",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-20 01:47:01"
-  },
-  {
-    "coordenadas": "794|547",
-    "proprietario_anterior": "Lua69",
-    "tribo_anterior": null,
-    "proprietario_novo": "LucasModric",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-20 01:43:06"
-  },
-  {
-    "coordenadas": "201|648",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cantarino",
-    "tribo_nova": "ROMA",
-    "data_hora_conquista": "2026-04-20 01:42:25"
   }
 ]
