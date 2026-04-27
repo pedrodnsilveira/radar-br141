@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "661|743",
+    "proprietario_anterior": "Mydan",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Milanisss",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 17:08:27"
+  },
+  {
+    "coordenadas": "375|442",
+    "proprietario_anterior": "otar45",
+    "tribo_anterior": "A.K",
+    "proprietario_novo": "Senhor Polegar",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 17:04:15"
+  },
+  {
+    "coordenadas": "796|636",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Xina",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-27 16:59:20"
+  },
+  {
     "coordenadas": "631|462",
     "proprietario_anterior": "punkmlks1234",
     "tribo_anterior": "COSTA",
@@ -32942,61 +32966,5 @@
     "proprietario_novo": "fernandez",
     "tribo_nova": "CLT",
     "data_hora_conquista": "2026-04-20 16:10:37"
-  },
-  {
-    "coordenadas": "542|536",
-    "proprietario_anterior": "exersion",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 16:09:52"
-  },
-  {
-    "coordenadas": "764|567",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bott",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-20 16:08:18"
-  },
-  {
-    "coordenadas": "617|328",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "danttes",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-20 16:06:38"
-  },
-  {
-    "coordenadas": "187|477",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mergenmm",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-20 16:03:36"
-  },
-  {
-    "coordenadas": "514|509",
-    "proprietario_anterior": "djvoldemort",
-    "tribo_anterior": null,
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 16:02:11"
-  },
-  {
-    "coordenadas": "495|225",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "nagatoTGS",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-20 16:01:53"
-  },
-  {
-    "coordenadas": "554|476",
-    "proprietario_anterior": "Ulian",
-    "tribo_anterior": "-I.R-",
-    "proprietario_novo": "Karma Akabane.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 16:01:04"
   }
 ]
