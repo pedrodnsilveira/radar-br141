@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "631|420",
+    "proprietario_anterior": "Bozo.Rs",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "Bozo.Rs",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 08:32:40"
+  },
+  {
+    "coordenadas": "459|547",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 08:30:57"
+  },
+  {
+    "coordenadas": "491|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 08:28:33"
+  },
+  {
     "coordenadas": "448|499",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33174,61 +33198,5 @@
     "proprietario_novo": "Lord Rabelo",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-20 07:40:59"
-  },
-  {
-    "coordenadas": "200|653",
-    "proprietario_anterior": "nik.aozani",
-    "tribo_anterior": null,
-    "proprietario_novo": "jmcs10",
-    "tribo_nova": "ROMA",
-    "data_hora_conquista": "2026-04-20 07:40:02"
-  },
-  {
-    "coordenadas": "378|441",
-    "proprietario_anterior": "Raia",
-    "tribo_anterior": null,
-    "proprietario_novo": "Senhor Polegar",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 07:39:09"
-  },
-  {
-    "coordenadas": "345|399",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "sorhento",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 07:37:14"
-  },
-  {
-    "coordenadas": "416|485",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 07:37:03"
-  },
-  {
-    "coordenadas": "453|807",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Sebaschenkowar",
-    "tribo_nova": "HtR",
-    "data_hora_conquista": "2026-04-20 07:36:14"
-  },
-  {
-    "coordenadas": "270|357",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Joleno",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-20 07:35:46"
-  },
-  {
-    "coordenadas": "417|481",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 07:33:53"
   }
 ]
