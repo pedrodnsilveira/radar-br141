@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "400|533",
+    "proprietario_anterior": "primitivework",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 05:48:48"
+  },
+  {
+    "coordenadas": "734|399",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ikarinakin01",
+    "tribo_nova": "TRTN",
+    "data_hora_conquista": "2026-04-27 05:45:43"
+  },
+  {
+    "coordenadas": "496|488",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 05:44:17"
+  },
+  {
+    "coordenadas": "516|596",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lajes",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 05:43:01"
+  },
+  {
     "coordenadas": "420|475",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33222,29 +33254,5 @@
     "proprietario_novo": "Bear",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-20 04:55:58"
-  },
-  {
-    "coordenadas": "548|624",
-    "proprietario_anterior": "puureyai",
-    "tribo_anterior": "SoA",
-    "proprietario_novo": "iMoon",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 04:47:23"
-  },
-  {
-    "coordenadas": "768|269",
-    "proprietario_anterior": "dilanbrings",
-    "tribo_anterior": "VET",
-    "proprietario_novo": "rei viking240",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-20 04:45:02"
-  },
-  {
-    "coordenadas": "714|365",
-    "proprietario_anterior": "RealDonaldTrump",
-    "tribo_anterior": null,
-    "proprietario_novo": "TonSpd",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-20 04:42:37"
   }
 ]
