@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "680|733",
+    "proprietario_anterior": "Araujo98",
+    "tribo_anterior": null,
+    "proprietario_novo": "Tomás mester",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-27 18:37:33"
+  },
+  {
+    "coordenadas": "417|556",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 18:34:40"
+  },
+  {
+    "coordenadas": "514|510",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 18:31:04"
+  },
+  {
+    "coordenadas": "517|629",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 18:29:03"
+  },
+  {
     "coordenadas": "694|521",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32862,21 +32894,5 @@
     "proprietario_novo": "PedroGarcia17",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 17:41:25"
-  },
-  {
-    "coordenadas": "595|468",
-    "proprietario_anterior": "Lord Fantasma",
-    "tribo_anterior": null,
-    "proprietario_novo": "Kami",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 17:34:12"
-  },
-  {
-    "coordenadas": "143|575",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fofinhos",
-    "tribo_nova": "ROMA",
-    "data_hora_conquista": "2026-04-20 17:33:49"
   }
 ]
