@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "479|499",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GALO - A LENDA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 11:56:48"
+  },
+  {
+    "coordenadas": "619|557",
+    "proprietario_anterior": "Presneiceavriax",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapGuh",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 11:52:09"
+  },
+  {
+    "coordenadas": "563|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silenc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 11:50:25"
+  },
+  {
+    "coordenadas": "519|160",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HenriqueGO56",
+    "tribo_nova": "U-141",
+    "data_hora_conquista": "2026-04-27 11:49:01"
+  },
+  {
     "coordenadas": "485|492",
     "proprietario_anterior": "murgarida",
     "tribo_anterior": null,
@@ -33126,29 +33158,5 @@
     "proprietario_novo": "MayRushworth",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-20 11:00:58"
-  },
-  {
-    "coordenadas": "518|490",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 10:59:45"
-  },
-  {
-    "coordenadas": "568|514",
-    "proprietario_anterior": "ZustriaqeaX",
-    "tribo_anterior": null,
-    "proprietario_novo": "marce10nike",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 10:58:44"
-  },
-  {
-    "coordenadas": "816|464",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Freedoni",
-    "tribo_nova": "K48",
-    "data_hora_conquista": "2026-04-20 10:50:36"
   }
 ]
