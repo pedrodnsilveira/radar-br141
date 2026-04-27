@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "411|801",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "topp3rsson",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-27 12:37:36"
+  },
+  {
+    "coordenadas": "394|592",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jneves87",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 12:33:23"
+  },
+  {
+    "coordenadas": "678|412",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 12:29:26"
+  },
+  {
     "coordenadas": "378|798",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33118,37 +33142,5 @@
     "proprietario_novo": "O Síndico",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-20 11:40:54"
-  },
-  {
-    "coordenadas": "505|406",
-    "proprietario_anterior": "Df Jjr",
-    "tribo_anterior": null,
-    "proprietario_novo": ".Akuma.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 11:39:19"
-  },
-  {
-    "coordenadas": "512|403",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": ".Akuma.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 11:38:54"
-  },
-  {
-    "coordenadas": "541|539",
-    "proprietario_anterior": "xXhudsonXx",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 11:35:51"
-  },
-  {
-    "coordenadas": "519|436",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 11:32:43"
   }
 ]
