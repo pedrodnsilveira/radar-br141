@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "504|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 06:46:37"
+  },
+  {
+    "coordenadas": "666|760",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mydan",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-27 06:41:31"
+  },
+  {
+    "coordenadas": "635|450",
+    "proprietario_anterior": "inside",
+    "tribo_anterior": "COSTA",
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 06:39:03"
+  },
+  {
     "coordenadas": "305|509",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33278,21 +33302,5 @@
     "proprietario_novo": "Padback420",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-20 05:51:05"
-  },
-  {
-    "coordenadas": "565|651",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Big-Z",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 05:49:16"
-  },
-  {
-    "coordenadas": "439|615",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "NBL Allan",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 05:47:33"
   }
 ]
