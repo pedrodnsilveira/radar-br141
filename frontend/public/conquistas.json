@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "653|180",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rafael biavatti",
+    "tribo_nova": "SBR",
+    "data_hora_conquista": "2026-04-27 09:55:21"
+  },
+  {
+    "coordenadas": "595|244",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vinnyale",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-27 09:54:01"
+  },
+  {
+    "coordenadas": "797|639",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Xina",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-27 09:47:32"
+  },
+  {
+    "coordenadas": "570|516",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 09:47:24"
+  },
+  {
     "coordenadas": "425|563",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33150,29 +33182,5 @@
     "proprietario_novo": "VTNeo",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-20 09:00:48"
-  },
-  {
-    "coordenadas": "332|234",
-    "proprietario_anterior": "Myyttos",
-    "tribo_anterior": null,
-    "proprietario_novo": "ChuckNrris",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-20 09:00:02"
-  },
-  {
-    "coordenadas": "563|586",
-    "proprietario_anterior": "Alzira Ferreira",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fabio67",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 08:58:23"
-  },
-  {
-    "coordenadas": "399|438",
-    "proprietario_anterior": "crystallinewarden532",
-    "tribo_anterior": null,
-    "proprietario_novo": "viniciusxx",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-20 08:57:43"
   }
 ]
