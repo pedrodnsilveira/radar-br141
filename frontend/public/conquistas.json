@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "408|554",
+    "proprietario_anterior": "Lord Dark First",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "Haulbrosley",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 15:03:37"
+  },
+  {
+    "coordenadas": "521|412",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 14:59:01"
+  },
+  {
+    "coordenadas": "308|317",
+    "proprietario_anterior": "M4gno",
+    "tribo_anterior": "KFC",
+    "proprietario_novo": "M4gno",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-27 14:58:45"
+  },
+  {
+    "coordenadas": "308|317",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "M4gno",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-27 14:58:44"
+  },
+  {
+    "coordenadas": "423|447",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 14:57:49"
+  },
+  {
+    "coordenadas": "520|611",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Silmar",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 14:57:47"
+  },
+  {
     "coordenadas": "569|412",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33022,69 +33070,5 @@
     "proprietario_novo": "Forasteyro",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 14:10:18"
-  },
-  {
-    "coordenadas": "400|498",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:09:59"
-  },
-  {
-    "coordenadas": "251|679",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Juca Chavess",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:09:06"
-  },
-  {
-    "coordenadas": "508|411",
-    "proprietario_anterior": "VORTEXPROPHET",
-    "tribo_anterior": null,
-    "proprietario_novo": ".Akuma.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 14:08:24"
-  },
-  {
-    "coordenadas": "409|601",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Pequeno Big See",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:05:43"
-  },
-  {
-    "coordenadas": "594|529",
-    "proprietario_anterior": "Samael",
-    "tribo_anterior": "LGDS",
-    "proprietario_novo": "ReisC",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 14:05:34"
-  },
-  {
-    "coordenadas": "458|629",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:03:09"
-  },
-  {
-    "coordenadas": "477|606",
-    "proprietario_anterior": "DraconicRoniN59",
-    "tribo_anterior": null,
-    "proprietario_novo": "Capiyvara",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 14:02:40"
-  },
-  {
-    "coordenadas": "562|560",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 14:02:07"
   }
 ]
