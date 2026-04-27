@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "636|455",
+    "proprietario_anterior": "Swiss",
+    "tribo_anterior": "COSTA",
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 02:24:28"
+  },
+  {
+    "coordenadas": "662|516",
+    "proprietario_anterior": "AbacaxiMutante",
+    "tribo_anterior": "LOBOS",
+    "proprietario_novo": "jean da morte",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 02:17:49"
+  },
+  {
     "coordenadas": "658|312",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33070,45 +33086,5 @@
     "proprietario_novo": "MATEI MAIS UM",
     "tribo_nova": "3OS",
     "data_hora_conquista": "2026-04-20 01:32:53"
-  },
-  {
-    "coordenadas": "486|569",
-    "proprietario_anterior": "Qiosnaaspaacruar4866",
-    "tribo_anterior": null,
-    "proprietario_novo": "Edu45678",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 01:28:40"
-  },
-  {
-    "coordenadas": "799|559",
-    "proprietario_anterior": "DiegoPajé",
-    "tribo_anterior": "NoPelo",
-    "proprietario_novo": "LucasModric",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-20 01:27:58"
-  },
-  {
-    "coordenadas": "506|505",
-    "proprietario_anterior": "cesar1987",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Mr. JimmyS",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 01:27:14"
-  },
-  {
-    "coordenadas": "504|506",
-    "proprietario_anterior": "cesar1987",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 01:27:07"
-  },
-  {
-    "coordenadas": "491|438",
-    "proprietario_anterior": "julio22",
-    "tribo_anterior": "A.K",
-    "proprietario_novo": "CapitaoWhey",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-20 01:24:53"
   }
 ]
