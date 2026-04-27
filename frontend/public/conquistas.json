@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "277|568",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saubher",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-27 21:37:28"
+  },
+  {
+    "coordenadas": "471|373",
+    "proprietario_anterior": "GaloDoido123",
+    "tribo_anterior": "ALOK",
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 21:36:30"
+  },
+  {
+    "coordenadas": "272|394",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Extrago",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-27 21:35:09"
+  },
+  {
+    "coordenadas": "450|456",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GhostDog66",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 21:33:55"
+  },
+  {
+    "coordenadas": "508|353",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 21:33:54"
+  },
+  {
+    "coordenadas": "590|816",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "manoevil02",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-27 21:33:32"
+  },
+  {
     "coordenadas": "761|630",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32830,29 +32878,5 @@
     "proprietario_novo": "WBPinto",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-20 20:42:27"
-  },
-  {
-    "coordenadas": "496|428",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MrtornadoBR",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 20:38:36"
-  },
-  {
-    "coordenadas": "401|523",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cleber 25",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 20:36:07"
-  },
-  {
-    "coordenadas": "543|612",
-    "proprietario_anterior": "Skylline",
-    "tribo_anterior": null,
-    "proprietario_novo": "Lord Silmar",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 20:35:14"
   }
 ]
