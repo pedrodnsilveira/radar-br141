@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "422|595",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 16:33:08"
+  },
+  {
+    "coordenadas": "528|395",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Terror1luna",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-27 16:30:15"
+  },
+  {
+    "coordenadas": "465|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 16:30:09"
+  },
+  {
     "coordenadas": "547|580",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33022,53 +33046,5 @@
     "proprietario_novo": "Ralove92",
     "tribo_nova": "MMCV",
     "data_hora_conquista": "2026-04-20 15:40:16"
-  },
-  {
-    "coordenadas": "416|481",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 15:39:27"
-  },
-  {
-    "coordenadas": "407|726",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "qbarbada",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 15:37:50"
-  },
-  {
-    "coordenadas": "542|787",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Roger Betio",
-    "tribo_nova": "PCT",
-    "data_hora_conquista": "2026-04-20 15:36:15"
-  },
-  {
-    "coordenadas": "730|594",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "JWJU",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-20 15:34:04"
-  },
-  {
-    "coordenadas": "760|663",
-    "proprietario_anterior": "pauloantunes05",
-    "tribo_anterior": null,
-    "proprietario_novo": "ismaelrossi",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-20 15:33:08"
-  },
-  {
-    "coordenadas": "539|439",
-    "proprietario_anterior": "Lord Oimbativel",
-    "tribo_anterior": null,
-    "proprietario_novo": "Marcelo Maeda",
-    "tribo_nova": "MMCV",
-    "data_hora_conquista": "2026-04-20 15:32:21"
   }
 ]
