@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "733|288",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DevoradorDeAlmas",
+    "tribo_nova": "brasin",
+    "data_hora_conquista": "2026-04-27 14:23:41"
+  },
+  {
     "coordenadas": "390|513",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33118,21 +33126,5 @@
     "proprietario_novo": "Movith",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-20 13:30:05"
-  },
-  {
-    "coordenadas": "335|665",
-    "proprietario_anterior": "Gilmpaiva37",
-    "tribo_anterior": null,
-    "proprietario_novo": "Movith",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-20 13:30:00"
-  },
-  {
-    "coordenadas": "556|627",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "w4rlock",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 13:25:12"
   }
 ]
