@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "804|551",
+    "proprietario_anterior": "Brian Winchester",
+    "tribo_anterior": "SS",
+    "proprietario_novo": "Big Jeff",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-26 21:53:45"
+  },
+  {
+    "coordenadas": "603|456",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saviojoiasss",
+    "tribo_nova": "APOLLO",
+    "data_hora_conquista": "2026-04-26 21:50:50"
+  },
+  {
+    "coordenadas": "460|360",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 21:49:16"
+  },
+  {
     "coordenadas": "774|521",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33214,37 +33238,5 @@
     "proprietario_novo": "Carluz",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 21:01:21"
-  },
-  {
-    "coordenadas": "523|600",
-    "proprietario_anterior": "sgtmorte13",
-    "tribo_anterior": "BOYS",
-    "proprietario_novo": "A N O N Y M O U S",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 20:59:49"
-  },
-  {
-    "coordenadas": "526|683",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "h4nzo",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-19 20:57:47"
-  },
-  {
-    "coordenadas": "787|525",
-    "proprietario_anterior": "Malek",
-    "tribo_anterior": null,
-    "proprietario_novo": "Madzay",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-19 20:55:28"
-  },
-  {
-    "coordenadas": "521|452",
-    "proprietario_anterior": "Elmiro",
-    "tribo_anterior": null,
-    "proprietario_novo": "realMFG",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-19 20:50:35"
   }
 ]
