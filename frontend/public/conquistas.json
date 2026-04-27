@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "493|448",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Evair -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 10:45:49"
+  },
+  {
+    "coordenadas": "455|358",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 10:44:08"
+  },
+  {
+    "coordenadas": "560|517",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lorenzo-rs",
+    "tribo_nova": "DuMau",
+    "data_hora_conquista": "2026-04-27 10:43:11"
+  },
+  {
+    "coordenadas": "469|774",
+    "proprietario_anterior": "Tessa",
+    "tribo_anterior": null,
+    "proprietario_novo": "STIME s",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-27 10:42:53"
+  },
+  {
+    "coordenadas": "492|192",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "bugre doido",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-27 10:41:07"
+  },
+  {
+    "coordenadas": "435|756",
+    "proprietario_anterior": "DogSmir",
+    "tribo_anterior": "O4F",
+    "proprietario_novo": "Polentero",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 10:38:00"
+  },
+  {
     "coordenadas": "590|459",
     "proprietario_anterior": "Rafão",
     "tribo_anterior": "DuMau",
@@ -33062,21 +33110,5 @@
     "proprietario_novo": "Utzig",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-20 09:51:46"
-  },
-  {
-    "coordenadas": "411|301",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HENRIKING.xM",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-20 09:49:23"
-  },
-  {
-    "coordenadas": "547|360",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Brenno -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 09:40:18"
   }
 ]
