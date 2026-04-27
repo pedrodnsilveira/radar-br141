@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "658|312",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Giguitaia",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 02:12:34"
+  },
+  {
+    "coordenadas": "458|387",
+    "proprietario_anterior": "Rei Lara Croft",
+    "tribo_anterior": "ONE",
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 02:12:15"
+  },
+  {
+    "coordenadas": "546|508",
+    "proprietario_anterior": "marcola120",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 02:11:11"
+  },
+  {
+    "coordenadas": "511|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 02:08:18"
+  },
+  {
     "coordenadas": "299|553",
     "proprietario_anterior": "zagzig",
     "tribo_anterior": null,
@@ -33078,29 +33110,5 @@
     "proprietario_novo": "CapitaoWhey",
     "tribo_nova": "GAL0S",
     "data_hora_conquista": "2026-04-20 01:24:53"
-  },
-  {
-    "coordenadas": "472|450",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 01:17:14"
-  },
-  {
-    "coordenadas": "507|458",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FelipeLucas32",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 01:11:16"
-  },
-  {
-    "coordenadas": "540|538",
-    "proprietario_anterior": "Rei fera?fera",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 01:10:50"
   }
 ]
