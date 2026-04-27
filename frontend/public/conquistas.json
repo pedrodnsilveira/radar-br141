@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "457|525",
+    "proprietario_anterior": "The Raumdeuter",
+    "tribo_anterior": "S O S",
+    "proprietario_novo": "azanutox",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 10:25:56"
+  },
+  {
+    "coordenadas": "480|401",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 10:20:04"
+  },
+  {
     "coordenadas": "578|669",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33062,29 +33078,5 @@
     "proprietario_novo": "Mat-Legend",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 09:38:06"
-  },
-  {
-    "coordenadas": "573|376",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jose-vitor-75",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-20 09:24:49"
-  },
-  {
-    "coordenadas": "385|461",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jpsports",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 09:23:07"
-  },
-  {
-    "coordenadas": "441|545",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Greatfullded",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 09:22:08"
   }
 ]
