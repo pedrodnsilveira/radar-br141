@@ -1,5 +1,109 @@
 [
   {
+    "coordenadas": "537|363",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 21:06:49"
+  },
+  {
+    "coordenadas": "428|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 21:06:39"
+  },
+  {
+    "coordenadas": "389|426",
+    "proprietario_anterior": "Escopeta",
+    "tribo_anterior": null,
+    "proprietario_novo": "EaZyBazY",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 21:05:30"
+  },
+  {
+    "coordenadas": "276|569",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saubher",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-27 21:04:17"
+  },
+  {
+    "coordenadas": "463|677",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Guilherme xv",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 21:02:20"
+  },
+  {
+    "coordenadas": "481|487",
+    "proprietario_anterior": "dandezaal",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "FelipeWizu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 21:01:26"
+  },
+  {
+    "coordenadas": "201|541",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Moleque Business.",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-27 21:01:22"
+  },
+  {
+    "coordenadas": "479|647",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Uzumaki.naruto1",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 21:01:19"
+  },
+  {
+    "coordenadas": "405|519",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 21:01:18"
+  },
+  {
+    "coordenadas": "379|519",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 21:01:02"
+  },
+  {
+    "coordenadas": "481|487",
+    "proprietario_anterior": "elion",
+    "tribo_anterior": "PFMVL",
+    "proprietario_novo": "dandezaal",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-27 21:01:01"
+  },
+  {
+    "coordenadas": "581|619",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 21:00:04"
+  },
+  {
+    "coordenadas": "393|515",
+    "proprietario_anterior": "TITANGUNDAM",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 20:59:27"
+  },
+  {
     "coordenadas": "533|524",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32726,21 +32830,5 @@
     "proprietario_novo": "Eu sou LampiãoPB",
     "tribo_nova": "U-141",
     "data_hora_conquista": "2026-04-20 20:10:44"
-  },
-  {
-    "coordenadas": "455|371",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "digoamil",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 20:05:18"
-  },
-  {
-    "coordenadas": "496|533",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Saiyajin",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 20:00:39"
   }
 ]
