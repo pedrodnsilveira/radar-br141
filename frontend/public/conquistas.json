@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "590|459",
+    "proprietario_anterior": "Rafão",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 10:35:34"
+  },
+  {
     "coordenadas": "457|525",
     "proprietario_anterior": "The Raumdeuter",
     "tribo_anterior": "S O S",
@@ -33070,13 +33078,5 @@
     "proprietario_novo": "- RiPaDo By Brenno -",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 09:40:18"
-  },
-  {
-    "coordenadas": "630|470",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mat-Legend",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 09:38:06"
   }
 ]
