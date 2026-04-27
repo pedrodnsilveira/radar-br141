@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "453|362",
+    "proprietario_anterior": "digoamil",
+    "tribo_anterior": "GAL0S",
+    "proprietario_novo": "O Síndico",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 00:31:14"
+  },
+  {
+    "coordenadas": "499|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 00:30:52"
+  },
+  {
+    "coordenadas": "787|645",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mazzera.",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-27 00:30:44"
+  },
+  {
+    "coordenadas": "266|745",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "prps",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-27 00:29:11"
+  },
+  {
+    "coordenadas": "505|787",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "AMuralha",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-27 00:28:17"
+  },
+  {
+    "coordenadas": "521|374",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 00:26:25"
+  },
+  {
     "coordenadas": "389|270",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33150,45 +33198,5 @@
     "proprietario_novo": "Bo.0B x3",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-19 23:42:08"
-  },
-  {
-    "coordenadas": "369|643",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nagato.Uzumaki",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-19 23:40:01"
-  },
-  {
-    "coordenadas": "549|450",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "GotChuNowRX",
-    "tribo_nova": "MMCV",
-    "data_hora_conquista": "2026-04-19 23:32:56"
-  },
-  {
-    "coordenadas": "378|431",
-    "proprietario_anterior": "Batata Frita",
-    "tribo_anterior": null,
-    "proprietario_novo": "Senhor Polegar",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 23:32:24"
-  },
-  {
-    "coordenadas": "470|413",
-    "proprietario_anterior": "JonathanGouveia",
-    "tribo_anterior": null,
-    "proprietario_novo": "yacabo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 23:32:08"
-  },
-  {
-    "coordenadas": "731|638",
-    "proprietario_anterior": "leocarmona",
-    "tribo_anterior": null,
-    "proprietario_novo": "almeida",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-19 23:31:45"
   }
 ]
