@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "694|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "UzeBR",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 18:26:49"
+  },
+  {
+    "coordenadas": "554|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaogustavo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 18:25:23"
+  },
+  {
+    "coordenadas": "476|827",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TricolorMH",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-27 18:24:02"
+  },
+  {
+    "coordenadas": "724|547",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GAUCHO SC",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-27 18:20:31"
+  },
+  {
+    "coordenadas": "523|604",
+    "proprietario_anterior": "BlazingPhoeniX735",
+    "tribo_anterior": null,
+    "proprietario_novo": "A N O N Y M O U S",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 18:20:15"
+  },
+  {
+    "coordenadas": "599|365",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 18:19:48"
+  },
+  {
     "coordenadas": "524|567",
     "proprietario_anterior": "Struprai",
     "tribo_anterior": null,
@@ -32830,45 +32878,5 @@
     "proprietario_novo": "Fofinhos",
     "tribo_nova": "ROMA",
     "data_hora_conquista": "2026-04-20 17:33:49"
-  },
-  {
-    "coordenadas": "542|486",
-    "proprietario_anterior": "fercomp",
-    "tribo_anterior": null,
-    "proprietario_novo": "swylle7",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 17:25:45"
-  },
-  {
-    "coordenadas": "462|571",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Noke Destroyer",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 17:24:43"
-  },
-  {
-    "coordenadas": "482|598",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "maykbn",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 17:23:41"
-  },
-  {
-    "coordenadas": "409|597",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Pequeno Big See",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 17:22:39"
-  },
-  {
-    "coordenadas": "413|414",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "yokayzu",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-20 17:21:59"
   }
 ]
