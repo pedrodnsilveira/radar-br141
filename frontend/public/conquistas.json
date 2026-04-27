@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "692|463",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maacknx",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 23:57:41"
+  },
+  {
+    "coordenadas": "410|652",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jstrois",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-26 23:52:17"
+  },
+  {
+    "coordenadas": "417|534",
+    "proprietario_anterior": "quinn S m i t h",
+    "tribo_anterior": null,
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 23:51:25"
+  },
+  {
+    "coordenadas": "354|332",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greengozes",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-26 23:50:55"
+  },
+  {
+    "coordenadas": "501|188",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "brunesh",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-26 23:50:34"
+  },
+  {
+    "coordenadas": "669|242",
+    "proprietario_anterior": "smacking",
+    "tribo_anterior": null,
+    "proprietario_novo": "LeftAlt11",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-26 23:49:49"
+  },
+  {
     "coordenadas": "580|664",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33198,45 +33246,5 @@
     "proprietario_novo": "Karma Akabane.",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 23:00:34"
-  },
-  {
-    "coordenadas": "543|551",
-    "proprietario_anterior": "Júlio Cezar",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "gilsouza10",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 22:58:28"
-  },
-  {
-    "coordenadas": "387|377",
-    "proprietario_anterior": "OakWarden",
-    "tribo_anterior": null,
-    "proprietario_novo": "j.emerson",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-19 22:54:55"
-  },
-  {
-    "coordenadas": "465|541",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "shhz",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 22:51:43"
-  },
-  {
-    "coordenadas": "484|567",
-    "proprietario_anterior": "gorlokgurga",
-    "tribo_anterior": "PFMVL",
-    "proprietario_novo": "Shorts",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 22:50:39"
-  },
-  {
-    "coordenadas": "561|593",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "TOPIRAMATO",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 22:50:12"
   }
 ]
