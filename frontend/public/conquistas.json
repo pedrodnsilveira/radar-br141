@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "426|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 19:15:47"
+  },
+  {
+    "coordenadas": "178|474",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mergenmm",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-27 19:11:30"
+  },
+  {
     "coordenadas": "678|411",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32734,61 +32750,5 @@
     "proprietario_novo": "- RiPaDo By GodCaveira -",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 18:20:18"
-  },
-  {
-    "coordenadas": "590|471",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "anderson28",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-20 18:19:50"
-  },
-  {
-    "coordenadas": "343|264",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "grindiel",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-20 18:18:18"
-  },
-  {
-    "coordenadas": "470|590",
-    "proprietario_anterior": "unofficia",
-    "tribo_anterior": "MTD",
-    "proprietario_novo": "Pistoleiro",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 18:17:44"
-  },
-  {
-    "coordenadas": "433|438",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eriicksansi",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 18:16:00"
-  },
-  {
-    "coordenadas": "559|594",
-    "proprietario_anterior": "NOBLEBERSERKER",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fabio67",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 18:15:52"
-  },
-  {
-    "coordenadas": "433|444",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eriicksansi",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 18:15:27"
-  },
-  {
-    "coordenadas": "420|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 18:14:48"
   }
 ]
