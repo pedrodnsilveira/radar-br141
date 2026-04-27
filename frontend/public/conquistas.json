@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "344|520",
+    "proprietario_anterior": "trokaforte",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 22:47:19"
+  },
+  {
+    "coordenadas": "184|392",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "leoleonardo1998",
+    "tribo_nova": "C_I_A",
+    "data_hora_conquista": "2026-04-26 22:45:03"
+  },
+  {
+    "coordenadas": "408|553",
+    "proprietario_anterior": "uphillimp",
+    "tribo_anterior": null,
+    "proprietario_novo": "Haulbrosley",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 22:44:09"
+  },
+  {
+    "coordenadas": "466|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "S K U",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 22:38:52"
+  },
+  {
     "coordenadas": "469|463",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33206,37 +33238,5 @@
     "proprietario_novo": "7Copa",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-19 21:54:27"
-  },
-  {
-    "coordenadas": "491|835",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Alonsito",
-    "tribo_nova": "DRUNKS",
-    "data_hora_conquista": "2026-04-19 21:46:28"
-  },
-  {
-    "coordenadas": "419|485",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 21:45:04"
-  },
-  {
-    "coordenadas": "440|564",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Jax Teller -",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 21:44:05"
-  },
-  {
-    "coordenadas": "510|402",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": ".Akuma.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 21:42:50"
   }
 ]
