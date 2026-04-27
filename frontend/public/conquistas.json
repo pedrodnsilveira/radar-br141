@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "419|522",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 13:24:43"
+  },
+  {
+    "coordenadas": "524|518",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 13:24:24"
+  },
+  {
+    "coordenadas": "358|238",
+    "proprietario_anterior": "Wars1",
+    "tribo_anterior": "DDD",
+    "proprietario_novo": "Warofthewar",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-27 13:16:40"
+  },
+  {
     "coordenadas": "570|698",
     "proprietario_anterior": "lukaslockjhn2",
     "tribo_anterior": null,
@@ -33110,37 +33134,5 @@
     "proprietario_novo": "Mordet",
     "tribo_nova": "ACAD",
     "data_hora_conquista": "2026-04-20 12:33:52"
-  },
-  {
-    "coordenadas": "734|574",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "SACI DE PATINETTE",
-    "tribo_nova": "MaT",
-    "data_hora_conquista": "2026-04-20 12:28:46"
-  },
-  {
-    "coordenadas": "684|235",
-    "proprietario_anterior": "biohard",
-    "tribo_anterior": null,
-    "proprietario_novo": "NinjaGaji",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-20 12:26:43"
-  },
-  {
-    "coordenadas": "539|484",
-    "proprietario_anterior": "Márcio Betta",
-    "tribo_anterior": null,
-    "proprietario_novo": "swylle7",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 12:25:42"
-  },
-  {
-    "coordenadas": "540|551",
-    "proprietario_anterior": "Dungueira",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "gilsouza10",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 12:22:49"
   }
 ]
