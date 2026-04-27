@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "578|669",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 10:01:12"
+  },
+  {
+    "coordenadas": "505|382",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "gajkozin",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-27 09:59:55"
+  },
+  {
+    "coordenadas": "382|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VarãoDeGuerra",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 09:59:06"
+  },
+  {
+    "coordenadas": "572|443",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "juarezj94",
+    "tribo_nova": "MMCV",
+    "data_hora_conquista": "2026-04-27 09:57:03"
+  },
+  {
+    "coordenadas": "427|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 09:56:24"
+  },
+  {
     "coordenadas": "653|180",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33102,85 +33142,5 @@
     "proprietario_novo": "jonaschagasneto",
     "tribo_nova": "KFC",
     "data_hora_conquista": "2026-04-20 09:10:15"
-  },
-  {
-    "coordenadas": "732|399",
-    "proprietario_anterior": "gordoperussi",
-    "tribo_anterior": "RG",
-    "proprietario_novo": "Vixi Moio",
-    "tribo_nova": "TRTN",
-    "data_hora_conquista": "2026-04-20 09:10:01"
-  },
-  {
-    "coordenadas": "385|469",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Consolacao Resende",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-20 09:08:34"
-  },
-  {
-    "coordenadas": "554|819",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MrPaolo",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-20 09:07:30"
-  },
-  {
-    "coordenadas": "519|516",
-    "proprietario_anterior": "Lenhador-suado",
-    "tribo_anterior": null,
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 09:05:11"
-  },
-  {
-    "coordenadas": "297|410",
-    "proprietario_anterior": "BadMontenegro",
-    "tribo_anterior": "ACAD",
-    "proprietario_novo": "jonaschagasneto",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-20 09:05:03"
-  },
-  {
-    "coordenadas": "499|525",
-    "proprietario_anterior": "Nowlights",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Saiyajin",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 09:05:01"
-  },
-  {
-    "coordenadas": "588|404",
-    "proprietario_anterior": "-GuiGuga-",
-    "tribo_anterior": "CASA",
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 09:05:00"
-  },
-  {
-    "coordenadas": "331|231",
-    "proprietario_anterior": "Myyttos",
-    "tribo_anterior": null,
-    "proprietario_novo": "Warofthewar",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-20 09:02:02"
-  },
-  {
-    "coordenadas": "178|522",
-    "proprietario_anterior": "Ciborg",
-    "tribo_anterior": "AUS",
-    "proprietario_novo": "Britx2000",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-20 09:00:50"
-  },
-  {
-    "coordenadas": "388|359",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "VTNeo",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 09:00:48"
   }
 ]
