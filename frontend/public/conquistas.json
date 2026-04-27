@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "271|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saubher",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-27 06:55:34"
+  },
+  {
     "coordenadas": "532|428",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33270,21 +33278,5 @@
     "proprietario_novo": "TO ATOA DE NOVO",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-20 06:12:59"
-  },
-  {
-    "coordenadas": "669|758",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Vinicius.fa",
-    "tribo_nova": "GCa",
-    "data_hora_conquista": "2026-04-20 06:08:33"
-  },
-  {
-    "coordenadas": "596|784",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "luiz123santos",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-20 06:01:46"
   }
 ]
