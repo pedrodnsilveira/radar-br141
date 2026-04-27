@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "390|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 14:18:03"
+  },
+  {
+    "coordenadas": "624|390",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 14:17:56"
+  },
+  {
+    "coordenadas": "312|260",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Fabex",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-27 14:12:48"
+  },
+  {
+    "coordenadas": "604|369",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 14:12:47"
+  },
+  {
+    "coordenadas": "499|476",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 14:09:59"
+  },
+  {
     "coordenadas": "601|367",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33094,21 +33134,5 @@
     "proprietario_novo": "w4rlock",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-20 13:25:12"
-  },
-  {
-    "coordenadas": "562|655",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 13:17:25"
-  },
-  {
-    "coordenadas": "508|633",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "design.inthedark",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 13:15:05"
   }
 ]
