@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "510|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 20:03:55"
+  },
+  {
+    "coordenadas": "384|628",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "campanato",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-27 20:03:40"
+  },
+  {
+    "coordenadas": "313|583",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 20:03:06"
+  },
+  {
+    "coordenadas": "651|353",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "kamikaze 001",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 20:03:05"
+  },
+  {
     "coordenadas": "351|213",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32670,21 +32702,5 @@
     "proprietario_novo": "Robertojr09",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-20 19:12:30"
-  },
-  {
-    "coordenadas": "372|593",
-    "proprietario_anterior": "Black Villaje",
-    "tribo_anterior": null,
-    "proprietario_novo": "GuiStein",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-20 19:09:08"
-  },
-  {
-    "coordenadas": "595|362",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 19:00:44"
   }
 ]
