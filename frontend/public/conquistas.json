@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "552|607",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Silmar",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 12:08:23"
+  },
+  {
+    "coordenadas": "407|298",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "HENRIKING.xM",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-27 12:07:55"
+  },
+  {
+    "coordenadas": "272|292",
+    "proprietario_anterior": "Toldi",
+    "tribo_anterior": "AVG",
+    "proprietario_novo": "HDtroll",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-27 11:59:15"
+  },
+  {
     "coordenadas": "479|499",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33134,29 +33158,5 @@
     "proprietario_novo": "Karma Akabane.",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 11:10:11"
-  },
-  {
-    "coordenadas": "567|372",
-    "proprietario_anterior": "particulartri",
-    "tribo_anterior": "Pirata",
-    "proprietario_novo": "picamiolhos",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 11:08:28"
-  },
-  {
-    "coordenadas": "714|244",
-    "proprietario_anterior": "pedrobitt1995",
-    "tribo_anterior": null,
-    "proprietario_novo": "MaxximosDcost",
-    "tribo_nova": "LYC",
-    "data_hora_conquista": "2026-04-20 11:02:37"
-  },
-  {
-    "coordenadas": "413|481",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 11:00:58"
   }
 ]
