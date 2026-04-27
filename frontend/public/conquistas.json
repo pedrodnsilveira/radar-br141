@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "472|567",
+    "proprietario_anterior": "Zlaicraa",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shorts",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 05:15:48"
+  },
+  {
+    "coordenadas": "533|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 05:13:40"
+  },
+  {
     "coordenadas": "184|485",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33198,29 +33214,5 @@
     "proprietario_novo": "Panda Master Full Time",
     "tribo_nova": ".RIP.",
     "data_hora_conquista": "2026-04-20 04:24:26"
-  },
-  {
-    "coordenadas": "397|536",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cleber 25",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 04:19:56"
-  },
-  {
-    "coordenadas": "500|417",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Luiz.maciel98",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 04:18:54"
-  },
-  {
-    "coordenadas": "552|488",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 04:13:34"
   }
 ]
