@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "580|664",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IMPERADOR ELIAS",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-26 23:42:40"
+  },
+  {
+    "coordenadas": "604|305",
+    "proprietario_anterior": "DARK OF TREVAS",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "DARK OF TREVAS",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 23:39:07"
+  },
+  {
     "coordenadas": "551|489",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33222,45 +33238,5 @@
     "proprietario_novo": "TOPIRAMATO",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-19 22:50:12"
-  },
-  {
-    "coordenadas": "709|629",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "CarunchiGAMER",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-19 22:49:17"
-  },
-  {
-    "coordenadas": "517|439",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 22:47:09"
-  },
-  {
-    "coordenadas": "448|463",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "pereiramarcelo94",
-    "tribo_nova": "A.K",
-    "data_hora_conquista": "2026-04-19 22:45:09"
-  },
-  {
-    "coordenadas": "495|463",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 22:41:35"
-  },
-  {
-    "coordenadas": "393|384",
-    "proprietario_anterior": "barbary.",
-    "tribo_anterior": null,
-    "proprietario_novo": "draxler",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 22:40:42"
   }
 ]
