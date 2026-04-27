@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "394|506",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 15:44:46"
+  },
+  {
+    "coordenadas": "392|389",
+    "proprietario_anterior": "foilhes55",
+    "tribo_anterior": null,
+    "proprietario_novo": "draxler",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 15:44:31"
+  },
+  {
+    "coordenadas": "508|418",
+    "proprietario_anterior": "FeldschlosscheN",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 15:43:26"
+  },
+  {
+    "coordenadas": "471|411",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 15:43:02"
+  },
+  {
+    "coordenadas": "461|381",
+    "proprietario_anterior": "Trazeiros",
+    "tribo_anterior": "[Fran]",
+    "proprietario_novo": "joaoalceumombach",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 15:41:51"
+  },
+  {
+    "coordenadas": "479|625",
+    "proprietario_anterior": "studiedcigare",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arthemus",
+    "tribo_nova": "RAN",
+    "data_hora_conquista": "2026-04-27 15:41:10"
+  },
+  {
+    "coordenadas": "298|253",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "zero1433",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-27 15:40:08"
+  },
+  {
+    "coordenadas": "478|577",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusass",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 15:39:28"
+  },
+  {
+    "coordenadas": "520|413",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 15:39:19"
+  },
+  {
     "coordenadas": "397|276",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32982,45 +33054,5 @@
     "proprietario_novo": "shakashaka",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 14:51:18"
-  },
-  {
-    "coordenadas": "354|501",
-    "proprietario_anterior": "bolsonaro22",
-    "tribo_anterior": null,
-    "proprietario_novo": "gangrafa",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:47:15"
-  },
-  {
-    "coordenadas": "417|480",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 14:43:11"
-  },
-  {
-    "coordenadas": "495|188",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "bugre doido",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-20 14:41:32"
-  },
-  {
-    "coordenadas": "470|655",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "WBPinto",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 14:41:16"
-  },
-  {
-    "coordenadas": "499|460",
-    "proprietario_anterior": "FierceLeviathaN301",
-    "tribo_anterior": "WM",
-    "proprietario_novo": "Lucaotaliso",
-    "tribo_nova": "VAL 2",
-    "data_hora_conquista": "2026-04-20 14:40:25"
   }
 ]
