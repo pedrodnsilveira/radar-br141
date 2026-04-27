@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "389|270",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Convidado997477",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-27 00:24:24"
+  },
+  {
+    "coordenadas": "636|530",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BARTZINHOO",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-27 00:24:04"
+  },
+  {
+    "coordenadas": "255|273",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Jezus",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-27 00:14:41"
+  },
+  {
     "coordenadas": "385|298",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33166,53 +33190,5 @@
     "proprietario_novo": "almeida",
     "tribo_nova": "AmgK",
     "data_hora_conquista": "2026-04-19 23:31:45"
-  },
-  {
-    "coordenadas": "448|744",
-    "proprietario_anterior": "brufelipe",
-    "tribo_anterior": "O4F",
-    "proprietario_novo": "Sekaioshi",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 23:30:00"
-  },
-  {
-    "coordenadas": "283|671",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Juca Chavess",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 23:28:07"
-  },
-  {
-    "coordenadas": "635|786",
-    "proprietario_anterior": "Grossa1",
-    "tribo_anterior": "PCT",
-    "proprietario_novo": "Enterprise",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 23:27:55"
-  },
-  {
-    "coordenadas": "617|599",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "gustavofeichas",
-    "tribo_nova": "ACAD",
-    "data_hora_conquista": "2026-04-19 23:24:41"
-  },
-  {
-    "coordenadas": "558|701",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Kelverick",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 23:22:07"
-  },
-  {
-    "coordenadas": "615|423",
-    "proprietario_anterior": "S E M A L M A S",
-    "tribo_anterior": "ENEL",
-    "proprietario_novo": "7Copa",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 23:21:38"
   }
 ]
