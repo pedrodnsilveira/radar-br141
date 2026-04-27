@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "442|551",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DEAD17",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 04:26:09"
+  },
+  {
+    "coordenadas": "391|582",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Cabra da Peste",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 04:24:00"
+  },
+  {
+    "coordenadas": "537|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guioliveira.br",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 04:21:55"
+  },
+  {
     "coordenadas": "638|660",
     "proprietario_anterior": "Mikha",
     "tribo_anterior": null,
@@ -33190,21 +33214,5 @@
     "proprietario_novo": "swylle7",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-20 03:34:51"
-  },
-  {
-    "coordenadas": "391|542",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Greatfullded",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 03:28:35"
-  },
-  {
-    "coordenadas": "520|702",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "liplinharesjf",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-20 03:20:47"
   }
 ]
