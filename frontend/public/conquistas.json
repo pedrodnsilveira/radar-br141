@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "395|327",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guisantana10",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-27 04:06:29"
+  },
+  {
+    "coordenadas": "418|504",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bugado",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 04:06:14"
+  },
+  {
+    "coordenadas": "474|621",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 04:04:39"
+  },
+  {
+    "coordenadas": "818|580",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "RBALVES",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-27 04:04:14"
+  },
+  {
+    "coordenadas": "596|607",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 04:04:08"
+  },
+  {
+    "coordenadas": "735|618",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "alv1nho",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-27 03:58:09"
+  },
+  {
     "coordenadas": "492|483",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33134,37 +33182,5 @@
     "proprietario_novo": "junior72",
     "tribo_nova": "V D T",
     "data_hora_conquista": "2026-04-20 03:14:02"
-  },
-  {
-    "coordenadas": "489|293",
-    "proprietario_anterior": "-Rustic Hall",
-    "tribo_anterior": "[LSE]",
-    "proprietario_novo": "STONEHENGE",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-20 03:07:38"
-  },
-  {
-    "coordenadas": "455|606",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jadson1",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 03:05:47"
-  },
-  {
-    "coordenadas": "417|379",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MAGRELUS",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-20 03:04:25"
-  },
-  {
-    "coordenadas": "441|564",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Jax Teller -",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 03:00:31"
   }
 ]
