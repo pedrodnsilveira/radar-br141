@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "551|489",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "dlslopes",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 23:39:00"
+  },
+  {
+    "coordenadas": "392|388",
+    "proprietario_anterior": "AllaNBrag4",
+    "tribo_anterior": null,
+    "proprietario_novo": "draxler",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 23:38:53"
+  },
+  {
+    "coordenadas": "718|625",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavanhas",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-26 23:37:44"
+  },
+  {
+    "coordenadas": "486|399",
+    "proprietario_anterior": "Rage Potato",
+    "tribo_anterior": null,
+    "proprietario_novo": "NEGÃO RD",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-26 23:37:37"
+  },
+  {
+    "coordenadas": "669|253",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kikinho",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 23:34:38"
+  },
+  {
+    "coordenadas": "671|418",
+    "proprietario_anterior": "I am WALL-E",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-26 23:32:50"
+  },
+  {
+    "coordenadas": "264|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 23:32:26"
+  },
+  {
     "coordenadas": "498|476",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33206,29 +33262,5 @@
     "proprietario_novo": "draxler",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-19 22:40:42"
-  },
-  {
-    "coordenadas": "561|437",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 22:38:51"
-  },
-  {
-    "coordenadas": "494|423",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Luiz.maciel98",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 22:34:59"
-  },
-  {
-    "coordenadas": "251|405",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "diegofagundes",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-19 22:34:28"
   }
 ]
