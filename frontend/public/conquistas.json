@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "462|559",
+    "proprietario_anterior": "Qadufabouar6957",
+    "tribo_anterior": null,
+    "proprietario_novo": "Machado98",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 11:35:38"
+  },
+  {
+    "coordenadas": "509|587",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lajes",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 11:32:47"
+  },
+  {
+    "coordenadas": "792|622",
+    "proprietario_anterior": "falconluiz",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chozin",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-27 11:28:23"
+  },
+  {
     "coordenadas": "655|410",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33102,29 +33126,5 @@
     "proprietario_novo": "Freedoni",
     "tribo_nova": "K48",
     "data_hora_conquista": "2026-04-20 10:50:36"
-  },
-  {
-    "coordenadas": "658|652",
-    "proprietario_anterior": "SeuKuCa",
-    "tribo_anterior": null,
-    "proprietario_novo": "jonleal",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-20 10:38:59"
-  },
-  {
-    "coordenadas": "381|758",
-    "proprietario_anterior": "kaueadrian",
-    "tribo_anterior": "O4F",
-    "proprietario_novo": "wandrew",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-20 10:35:48"
-  },
-  {
-    "coordenadas": "549|478",
-    "proprietario_anterior": "zaifovias",
-    "tribo_anterior": null,
-    "proprietario_novo": "Karma Akabane.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 10:33:27"
   }
 ]
