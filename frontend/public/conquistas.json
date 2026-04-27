@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "447|361",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lord soberano",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-27 01:09:52"
+  },
+  {
+    "coordenadas": "520|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yacabo",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 01:06:30"
+  },
+  {
     "coordenadas": "475|576",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33166,29 +33182,5 @@
     "proprietario_novo": "Cnogueira",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-20 00:21:54"
-  },
-  {
-    "coordenadas": "291|422",
-    "proprietario_anterior": "Saorim89",
-    "tribo_anterior": null,
-    "proprietario_novo": "BadMontenegro",
-    "tribo_nova": "ACAD",
-    "data_hora_conquista": "2026-04-20 00:14:56"
-  },
-  {
-    "coordenadas": "419|428",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eriicksansi",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 00:12:10"
-  },
-  {
-    "coordenadas": "347|560",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "lord will",
-    "tribo_nova": "SCA",
-    "data_hora_conquista": "2026-04-20 00:10:11"
   }
 ]
