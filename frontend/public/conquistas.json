@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "519|375",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 16:41:18"
+  },
+  {
     "coordenadas": "422|595",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33014,37 +33022,5 @@
     "proprietario_novo": "TamborimDeOuro",
     "tribo_nova": "3OS",
     "data_hora_conquista": "2026-04-20 15:50:35"
-  },
-  {
-    "coordenadas": "546|604",
-    "proprietario_anterior": "greenduck609",
-    "tribo_anterior": null,
-    "proprietario_novo": "juninhounderground",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-20 15:44:38"
-  },
-  {
-    "coordenadas": "711|676",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Royal Sunrise",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-20 15:43:47"
-  },
-  {
-    "coordenadas": "514|509",
-    "proprietario_anterior": "Utzig",
-    "tribo_anterior": "FN",
-    "proprietario_novo": "djvoldemort",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 15:41:11"
-  },
-  {
-    "coordenadas": "577|439",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Ralove92",
-    "tribo_nova": "MMCV",
-    "data_hora_conquista": "2026-04-20 15:40:16"
   }
 ]
