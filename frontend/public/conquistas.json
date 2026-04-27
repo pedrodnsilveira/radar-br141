@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "544|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 22:03:13"
+  },
+  {
+    "coordenadas": "519|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "accelerator",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 22:02:55"
+  },
+  {
+    "coordenadas": "520|498",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "swylle7",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 22:01:50"
+  },
+  {
+    "coordenadas": "501|555",
+    "proprietario_anterior": "Zenski",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coelh0z",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 22:00:02"
+  },
+  {
+    "coordenadas": "546|415",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 21:58:49"
+  },
+  {
     "coordenadas": "804|551",
     "proprietario_anterior": "Brian Winchester",
     "tribo_anterior": "SS",
@@ -33182,61 +33222,5 @@
     "proprietario_novo": "Shorts",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 21:11:27"
-  },
-  {
-    "coordenadas": "525|568",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 21:10:01"
-  },
-  {
-    "coordenadas": "432|444",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eriicksansi",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-19 21:09:45"
-  },
-  {
-    "coordenadas": "300|338",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "knight War III",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-19 21:04:16"
-  },
-  {
-    "coordenadas": "550|186",
-    "proprietario_anterior": "Richard ígnacio",
-    "tribo_anterior": null,
-    "proprietario_novo": "TiagoGTA",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-19 21:03:28"
-  },
-  {
-    "coordenadas": "174|472",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "alexnosse",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-19 21:03:12"
-  },
-  {
-    "coordenadas": "464|573",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Feelipe",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 21:03:05"
-  },
-  {
-    "coordenadas": "442|617",
-    "proprietario_anterior": "barbosatrilha",
-    "tribo_anterior": null,
-    "proprietario_novo": "Carluz",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 21:01:21"
   }
 ]
