@@ -1,5 +1,85 @@
 [
   {
+    "coordenadas": "570|698",
+    "proprietario_anterior": "lukaslockjhn2",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 13:04:51"
+  },
+  {
+    "coordenadas": "411|600",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 13:04:18"
+  },
+  {
+    "coordenadas": "456|479",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "konlunli",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 13:02:32"
+  },
+  {
+    "coordenadas": "640|432",
+    "proprietario_anterior": "BRILLIANTSENTINEL865",
+    "tribo_anterior": null,
+    "proprietario_novo": "insetim",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 13:02:20"
+  },
+  {
+    "coordenadas": "295|729",
+    "proprietario_anterior": "wilcla",
+    "tribo_anterior": null,
+    "proprietario_novo": "cavalheiro da morte",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-27 13:00:24"
+  },
+  {
+    "coordenadas": "661|516",
+    "proprietario_anterior": "PatoTurbo",
+    "tribo_anterior": "LOBOS",
+    "proprietario_novo": "jean da morte",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-27 13:00:10"
+  },
+  {
+    "coordenadas": "492|612",
+    "proprietario_anterior": "RagingKagE67",
+    "tribo_anterior": null,
+    "proprietario_novo": "andrecattoo",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 12:59:59"
+  },
+  {
+    "coordenadas": "669|488",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-27 12:59:35"
+  },
+  {
+    "coordenadas": "829|625",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lef2288",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-27 12:59:08"
+  },
+  {
+    "coordenadas": "419|270",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mdorigattijr",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-27 12:57:36"
+  },
+  {
     "coordenadas": "471|413",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33110,13 +33190,5 @@
     "proprietario_novo": "Robinho15d3",
     "tribo_nova": "RG",
     "data_hora_conquista": "2026-04-20 12:11:41"
-  },
-  {
-    "coordenadas": "490|474",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 12:04:11"
   }
 ]
