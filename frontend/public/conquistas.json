@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "514|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Utzig",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 20:25:28"
+  },
+  {
+    "coordenadas": "470|398",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 20:25:15"
+  },
+  {
+    "coordenadas": "778|642",
+    "proprietario_anterior": "CtrlAltDel1",
+    "tribo_anterior": null,
+    "proprietario_novo": "PrinceEvans",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-27 20:24:42"
+  },
+  {
+    "coordenadas": "475|627",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 20:24:18"
+  },
+  {
+    "coordenadas": "523|684",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 20:23:25"
+  },
+  {
+    "coordenadas": "408|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 20:21:12"
+  },
+  {
+    "coordenadas": "725|624",
+    "proprietario_anterior": "LETAROS",
+    "tribo_anterior": "AmgK",
+    "proprietario_novo": "Zazu",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-27 20:20:50"
+  },
+  {
+    "coordenadas": "740|298",
+    "proprietario_anterior": "DJ Agostino",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shogun Justo Takeyama",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-27 20:19:54"
+  },
+  {
+    "coordenadas": "654|742",
+    "proprietario_anterior": "Mezz",
+    "tribo_anterior": null,
+    "proprietario_novo": "carloscesar",
+    "tribo_nova": "EXAL",
+    "data_hora_conquista": "2026-04-27 20:17:26"
+  },
+  {
     "coordenadas": "510|479",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32614,37 +32686,5 @@
     "proprietario_novo": "WarleyVN",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-20 19:30:36"
-  },
-  {
-    "coordenadas": "551|189",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "TiagoGTA",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-20 19:26:36"
-  },
-  {
-    "coordenadas": "515|382",
-    "proprietario_anterior": "chapeudecouro",
-    "tribo_anterior": null,
-    "proprietario_novo": "Wellington o mister X 23",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-20 19:25:27"
-  },
-  {
-    "coordenadas": "780|495",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Cheleu",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-20 19:24:27"
-  },
-  {
-    "coordenadas": "490|479",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-20 19:24:04"
   }
 ]
