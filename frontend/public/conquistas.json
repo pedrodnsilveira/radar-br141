@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "659|661",
+    "proprietario_anterior": "agilidade",
+    "tribo_anterior": null,
+    "proprietario_novo": "LOBOSOLITARIO1",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-26 22:25:00"
+  },
+  {
+    "coordenadas": "418|482",
+    "proprietario_anterior": "Spartacos",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 22:23:54"
+  },
+  {
+    "coordenadas": "371|343",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VTNeo",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-26 22:22:27"
+  },
+  {
+    "coordenadas": "290|639",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TamborimDeOuro",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-26 22:18:16"
+  },
+  {
     "coordenadas": "553|496",
     "proprietario_anterior": "henribaudrillard",
     "tribo_anterior": null,
@@ -33174,53 +33206,5 @@
     "proprietario_novo": "TROMPY67",
     "tribo_nova": "DuMau",
     "data_hora_conquista": "2026-04-19 21:30:58"
-  },
-  {
-    "coordenadas": "574|805",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DouglasLopes",
-    "tribo_nova": "FENIX",
-    "data_hora_conquista": "2026-04-19 21:24:20"
-  },
-  {
-    "coordenadas": "583|486",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "COSTA BRANCA",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-19 21:22:37"
-  },
-  {
-    "coordenadas": "398|237",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Soyuz",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-19 21:21:45"
-  },
-  {
-    "coordenadas": "399|689",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Chilliminter",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-19 21:21:04"
-  },
-  {
-    "coordenadas": "615|245",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Legendre",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-19 21:20:48"
-  },
-  {
-    "coordenadas": "560|654",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Big-Z",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 21:20:11"
   }
 ]
