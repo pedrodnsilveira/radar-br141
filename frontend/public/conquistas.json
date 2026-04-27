@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "393|517",
+    "proprietario_anterior": "alice S m i t h",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 17:18:25"
+  },
+  {
+    "coordenadas": "438|836",
+    "proprietario_anterior": "mushystratum",
+    "tribo_anterior": null,
+    "proprietario_novo": "Savilio",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-27 17:18:24"
+  },
+  {
+    "coordenadas": "407|516",
+    "proprietario_anterior": "Yenor",
+    "tribo_anterior": null,
+    "proprietario_novo": "vinexz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 17:16:10"
+  },
+  {
+    "coordenadas": "595|458",
+    "proprietario_anterior": "Rafão",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Kami",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 17:12:10"
+  },
+  {
+    "coordenadas": "422|591",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pequeno Big See",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 17:09:36"
+  },
+  {
     "coordenadas": "661|743",
     "proprietario_anterior": "Mydan",
     "tribo_anterior": "GC",
@@ -32918,53 +32958,5 @@
     "proprietario_novo": "Convidado003746",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-20 16:20:13"
-  },
-  {
-    "coordenadas": "488|398",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "NEGÃO RD",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-20 16:19:19"
-  },
-  {
-    "coordenadas": "448|368",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "digoamil",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 16:18:15"
-  },
-  {
-    "coordenadas": "541|539",
-    "proprietario_anterior": "Arceus James",
-    "tribo_anterior": "FN",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-20 16:13:05"
-  },
-  {
-    "coordenadas": "627|320",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "-=MALUNGO=-",
-    "tribo_nova": "V D T",
-    "data_hora_conquista": "2026-04-20 16:12:37"
-  },
-  {
-    "coordenadas": "425|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 16:12:16"
-  },
-  {
-    "coordenadas": "637|341",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fernandez",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-20 16:10:37"
   }
 ]
