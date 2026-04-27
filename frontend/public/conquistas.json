@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "406|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 05:52:45"
+  },
+  {
+    "coordenadas": "394|664",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Black Horse",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-27 05:50:43"
+  },
+  {
+    "coordenadas": "407|530",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Take That Lantern-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-27 05:50:24"
+  },
+  {
+    "coordenadas": "639|451",
+    "proprietario_anterior": "Ben23",
+    "tribo_anterior": "COSTA",
+    "proprietario_novo": "shakashaka",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 05:49:43"
+  },
+  {
     "coordenadas": "400|533",
     "proprietario_anterior": "primitivework",
     "tribo_anterior": null,
@@ -33238,21 +33270,5 @@
     "proprietario_novo": "taelzera",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-20 05:07:29"
-  },
-  {
-    "coordenadas": "417|483",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-20 04:56:16"
-  },
-  {
-    "coordenadas": "582|692",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bear",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-20 04:55:58"
   }
 ]
