@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "344|520",
+    "proprietario_anterior": "gangrafa",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "gangrafa",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 23:08:22"
+  },
+  {
+    "coordenadas": "510|451",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FelipeLucas32",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 23:07:51"
+  },
+  {
+    "coordenadas": "470|535",
+    "proprietario_anterior": "..Joker..",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "..Joker..",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 23:04:42"
+  },
+  {
+    "coordenadas": "470|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "..Joker..",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 23:04:41"
+  },
+  {
+    "coordenadas": "601|345",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DARK OF TREVAS",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 23:04:25"
+  },
+  {
+    "coordenadas": "536|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guioliveira.br",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-26 23:04:22"
+  },
+  {
+    "coordenadas": "593|371",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-26 23:04:05"
+  },
+  {
+    "coordenadas": "416|554",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Greatfullded",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-26 23:00:46"
+  },
+  {
     "coordenadas": "614|456",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -33214,45 +33278,5 @@
     "proprietario_novo": "design.inthedark",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-19 22:12:06"
-  },
-  {
-    "coordenadas": "391|526",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cleber 25",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-19 22:07:22"
-  },
-  {
-    "coordenadas": "608|251",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "zikadopantano",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-19 22:04:49"
-  },
-  {
-    "coordenadas": "534|530",
-    "proprietario_anterior": "PacifistaSacana",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-19 22:04:07"
-  },
-  {
-    "coordenadas": "531|629",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Suets",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-19 22:03:44"
-  },
-  {
-    "coordenadas": "576|689",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bear",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-19 22:00:03"
   }
 ]
