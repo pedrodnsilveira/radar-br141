@@ -33102,29 +33102,5 @@
     "proprietario_novo": "Arceus James",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-20 01:10:50"
-  },
-  {
-    "coordenadas": "371|203",
-    "proprietario_anterior": "Luna Costa",
-    "tribo_anterior": null,
-    "proprietario_novo": "Moçambique7",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-20 01:07:48"
-  },
-  {
-    "coordenadas": "650|326",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "kamikaze 001",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-20 01:06:52"
-  },
-  {
-    "coordenadas": "537|812",
-    "proprietario_anterior": "mc eneas",
-    "tribo_anterior": "FENIX",
-    "proprietario_novo": "comandoromulo",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 01:06:20"
   }
 ]
