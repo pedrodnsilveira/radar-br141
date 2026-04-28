@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "382|519",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr. Mamuth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 12:24:55"
+  },
+  {
+    "coordenadas": "468|742",
+    "proprietario_anterior": "dub san master",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 12:19:40"
+  },
+  {
+    "coordenadas": "351|792",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Siqueira",
+    "tribo_nova": "O4F",
+    "data_hora_conquista": "2026-04-28 12:19:32"
+  },
+  {
+    "coordenadas": "561|573",
+    "proprietario_anterior": "Yandurlacher",
+    "tribo_anterior": null,
+    "proprietario_novo": "fulampa",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 12:18:12"
+  },
+  {
     "coordenadas": "540|507",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32910,29 +32942,5 @@
     "proprietario_novo": "jpsports",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-21 11:30:17"
-  },
-  {
-    "coordenadas": "566|495",
-    "proprietario_anterior": "wolfmetal",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 11:28:04"
-  },
-  {
-    "coordenadas": "488|421",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "LíderJoe",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 11:27:10"
-  },
-  {
-    "coordenadas": "509|501",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mr. JimmyS",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 11:25:38"
   }
 ]
