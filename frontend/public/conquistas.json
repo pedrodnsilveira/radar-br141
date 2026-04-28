@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "336|706",
+    "proprietario_anterior": "joosh",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "Queen No Mercy",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-28 08:36:55"
+  },
+  {
+    "coordenadas": "202|306",
+    "proprietario_anterior": "stormsentinel51",
+    "tribo_anterior": null,
+    "proprietario_novo": "MataVelhas",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 08:34:11"
+  },
+  {
+    "coordenadas": "307|215",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mono Singed",
+    "tribo_nova": "F's",
+    "data_hora_conquista": "2026-04-28 08:29:39"
+  },
+  {
+    "coordenadas": "535|427",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 08:29:07"
+  },
+  {
+    "coordenadas": "427|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 08:28:39"
+  },
+  {
     "coordenadas": "554|776",
     "proprietario_anterior": "Barriga Verde",
     "tribo_anterior": "PCT",
@@ -32838,13 +32878,5 @@
     "proprietario_novo": "DeaDLove",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-21 07:42:18"
-  },
-  {
-    "coordenadas": "337|737",
-    "proprietario_anterior": "alexstrindade",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "alexstrindade",
-    "tribo_nova": "-UNI-",
-    "data_hora_conquista": "2026-04-21 07:30:44"
   }
 ]
