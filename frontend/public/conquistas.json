@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "661|703",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wehlbrito",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-28 15:03:35"
+  },
+  {
+    "coordenadas": "254|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 15:03:03"
+  },
+  {
+    "coordenadas": "563|627",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silenc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 15:02:39"
+  },
+  {
     "coordenadas": "513|516",
     "proprietario_anterior": "cerberusZZZ",
     "tribo_anterior": null,
@@ -32790,69 +32814,5 @@
     "proprietario_novo": "Greatfullded",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 14:11:44"
-  },
-  {
-    "coordenadas": "492|429",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "LíderJoe",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:08:59"
-  },
-  {
-    "coordenadas": "390|529",
-    "proprietario_anterior": "SrGaladriel",
-    "tribo_anterior": "AD",
-    "proprietario_novo": "is it coyote z",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 14:08:47"
-  },
-  {
-    "coordenadas": "416|475",
-    "proprietario_anterior": "MayRushworth",
-    "tribo_anterior": "FN!",
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 14:07:42"
-  },
-  {
-    "coordenadas": "451|358",
-    "proprietario_anterior": "O Síndico",
-    "tribo_anterior": "GALOS",
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 14:06:55"
-  },
-  {
-    "coordenadas": "522|408",
-    "proprietario_anterior": "Chuva",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:03:53"
-  },
-  {
-    "coordenadas": "404|741",
-    "proprietario_anterior": "Feiticeiro boladão",
-    "tribo_anterior": "URSS",
-    "proprietario_novo": "leandrolfs",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-21 14:03:39"
-  },
-  {
-    "coordenadas": "514|403",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": ".Akuma.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:02:59"
-  },
-  {
-    "coordenadas": "457|324",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "liicious",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-21 14:01:59"
   }
 ]
