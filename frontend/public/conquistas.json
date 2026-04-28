@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "406|498",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 09:05:29"
+  },
+  {
+    "coordenadas": "558|544",
+    "proprietario_anterior": "Moreno da Ita",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 09:05:09"
+  },
+  {
+    "coordenadas": "555|546",
+    "proprietario_anterior": "Moreno da Ita",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 09:05:02"
+  },
+  {
+    "coordenadas": "560|544",
+    "proprietario_anterior": "Moreno da Ita",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 09:05:02"
+  },
+  {
+    "coordenadas": "557|547",
+    "proprietario_anterior": "Moreno da Ita",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 09:05:02"
+  },
+  {
+    "coordenadas": "479|509",
+    "proprietario_anterior": "Skryl18",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "GALO - A LENDA",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 09:05:01"
+  },
+  {
+    "coordenadas": "388|323",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VTNeo",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 09:01:17"
+  },
+  {
+    "coordenadas": "528|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 09:00:09"
+  },
+  {
     "coordenadas": "385|613",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32854,21 +32918,5 @@
     "proprietario_novo": "Yandurlacher",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-21 08:11:15"
-  },
-  {
-    "coordenadas": "450|509",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "steinn",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 08:09:27"
-  },
-  {
-    "coordenadas": "511|583",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 08:07:25"
   }
 ]
