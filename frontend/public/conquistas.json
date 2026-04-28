@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "486|521",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JJGomesJr",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 19:33:34"
+  },
+  {
+    "coordenadas": "395|283",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Torrinco",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-28 19:33:20"
+  },
+  {
+    "coordenadas": "354|701",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wandrew",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 19:31:48"
+  },
+  {
+    "coordenadas": "391|515",
+    "proprietario_anterior": "KineticKaijU959",
+    "tribo_anterior": null,
+    "proprietario_novo": "is it coyote z",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 19:28:48"
+  },
+  {
+    "coordenadas": "458|557",
+    "proprietario_anterior": "JailiodiaX",
+    "tribo_anterior": null,
+    "proprietario_novo": "Machado98",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 19:28:11"
+  },
+  {
+    "coordenadas": "352|687",
+    "proprietario_anterior": "SiegeMaster",
+    "tribo_anterior": "-UNI-",
+    "proprietario_novo": "O Príncipe",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 19:27:29"
+  },
+  {
+    "coordenadas": "743|566",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "tenebrozu",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 19:25:37"
+  },
+  {
     "coordenadas": "561|553",
     "proprietario_anterior": "MONTEIRO1",
     "tribo_anterior": "DuMau",
@@ -32526,45 +32582,5 @@
     "proprietario_novo": "DouglasLopes",
     "tribo_nova": "FENIX",
     "data_hora_conquista": "2026-04-21 18:48:25"
-  },
-  {
-    "coordenadas": "401|631",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "antonio98",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 18:38:55"
-  },
-  {
-    "coordenadas": "762|378",
-    "proprietario_anterior": "Casaboa",
-    "tribo_anterior": "PCT",
-    "proprietario_novo": "Jm tribal",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-21 18:36:57"
-  },
-  {
-    "coordenadas": "471|569",
-    "proprietario_anterior": "WegoutoZero",
-    "tribo_anterior": null,
-    "proprietario_novo": "Shorts",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 18:35:35"
-  },
-  {
-    "coordenadas": "351|349",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "tibajan",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 18:35:13"
-  },
-  {
-    "coordenadas": "591|528",
-    "proprietario_anterior": "Samael",
-    "tribo_anterior": "LGDS",
-    "proprietario_novo": "- RiPaDo By GodCaveira -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 18:33:26"
   }
 ]
