@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "484|358",
+    "proprietario_anterior": "resourcefulwo",
+    "tribo_anterior": "SBC",
+    "proprietario_novo": "Lord dragao negro",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 20:26:13"
+  },
+  {
+    "coordenadas": "421|461",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 20:23:47"
+  },
+  {
+    "coordenadas": "552|259",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GILDO PLASTICO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 20:22:35"
+  },
+  {
+    "coordenadas": "432|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 20:22:12"
+  },
+  {
+    "coordenadas": "453|542",
+    "proprietario_anterior": "champs",
+    "tribo_anterior": "BRANCA",
+    "proprietario_novo": "Faver",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 20:21:22"
+  },
+  {
+    "coordenadas": "307|693",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Shouder",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 20:20:04"
+  },
+  {
+    "coordenadas": "627|264",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Silver Back",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 20:16:53"
+  },
+  {
     "coordenadas": "785|520",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32558,53 +32614,5 @@
     "proprietario_novo": "Edu45678",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-21 19:34:18"
-  },
-  {
-    "coordenadas": "518|591",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Lajes",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 19:28:19"
-  },
-  {
-    "coordenadas": "346|702",
-    "proprietario_anterior": "RedWarClan",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "O Príncipe",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 19:27:56"
-  },
-  {
-    "coordenadas": "610|548",
-    "proprietario_anterior": "parabellum",
-    "tribo_anterior": "ACAD",
-    "proprietario_novo": "- RiPaDo By GodCaveira -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 19:26:32"
-  },
-  {
-    "coordenadas": "448|578",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Jax Teller -",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 19:26:29"
-  },
-  {
-    "coordenadas": "488|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 19:23:11"
-  },
-  {
-    "coordenadas": "202|638",
-    "proprietario_anterior": "Leodxm",
-    "tribo_anterior": "3OS",
-    "proprietario_novo": "Leodxm",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 19:21:25"
   }
 ]
