@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "392|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "IceIguanaa",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 11:22:19"
+  },
+  {
+    "coordenadas": "663|487",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-28 11:21:26"
+  },
+  {
+    "coordenadas": "519|374",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 11:21:26"
+  },
+  {
+    "coordenadas": "708|371",
+    "proprietario_anterior": "ea.joker",
+    "tribo_anterior": null,
+    "proprietario_novo": "fernandez",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 11:21:23"
+  },
+  {
+    "coordenadas": "517|612",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lord Silmar",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 11:20:19"
+  },
+  {
+    "coordenadas": "664|310",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dracmas",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-28 11:17:56"
+  },
+  {
     "coordenadas": "528|521",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32854,21 +32902,5 @@
     "proprietario_novo": "PeZaDeL0",
     "tribo_nova": "KFC",
     "data_hora_conquista": "2026-04-21 10:32:00"
-  },
-  {
-    "coordenadas": "514|511",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "djvoldemort",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 10:28:21"
-  },
-  {
-    "coordenadas": "565|497",
-    "proprietario_anterior": "wolfmetal",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 10:20:19"
   }
 ]
