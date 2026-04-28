@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "237|328",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Osíris.D",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 03:54:33"
+  },
+  {
+    "coordenadas": "277|463",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TottixD",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-28 03:53:34"
+  },
+  {
+    "coordenadas": "430|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 03:50:31"
+  },
+  {
+    "coordenadas": "421|622",
+    "proprietario_anterior": "DreadLord",
+    "tribo_anterior": null,
+    "proprietario_novo": "jhonatahn2307",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 03:47:21"
+  },
+  {
     "coordenadas": "478|532",
     "proprietario_anterior": "J.Karl",
     "tribo_anterior": "N.O",
@@ -32910,37 +32942,5 @@
     "proprietario_novo": "Noke Destroyer",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-21 03:02:46"
-  },
-  {
-    "coordenadas": "606|572",
-    "proprietario_anterior": "tmjenois",
-    "tribo_anterior": null,
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 02:57:22"
-  },
-  {
-    "coordenadas": "263|574",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cinthiab",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 02:56:01"
-  },
-  {
-    "coordenadas": "401|581",
-    "proprietario_anterior": "RaidenPT",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Cabra da Peste",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 02:52:21"
-  },
-  {
-    "coordenadas": "443|603",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "wesleyv6",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 02:51:35"
   }
 ]
