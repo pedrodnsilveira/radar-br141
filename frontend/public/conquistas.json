@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "526|357",
+    "proprietario_anterior": "Fofoquinha",
+    "tribo_anterior": null,
+    "proprietario_novo": "Schellito",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 17:33:29"
+  },
+  {
+    "coordenadas": "502|672",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LeaoXP",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 17:32:58"
+  },
+  {
+    "coordenadas": "237|611",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lucasbarroos",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-28 17:32:30"
+  },
+  {
+    "coordenadas": "569|622",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "charlesfade",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 17:31:30"
+  },
+  {
+    "coordenadas": "255|458",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Magnani",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 17:26:41"
+  },
+  {
     "coordenadas": "428|533",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32630,29 +32670,5 @@
     "proprietario_novo": "vinexz",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 16:41:28"
-  },
-  {
-    "coordenadas": "503|622",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "WBPinto",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 16:38:33"
-  },
-  {
-    "coordenadas": "711|362",
-    "proprietario_anterior": "SiosneizidioNova",
-    "tribo_anterior": null,
-    "proprietario_novo": "TonSpd",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-21 16:37:41"
-  },
-  {
-    "coordenadas": "602|750",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Jozam",
-    "tribo_nova": "GCa",
-    "data_hora_conquista": "2026-04-21 16:33:39"
   }
 ]
