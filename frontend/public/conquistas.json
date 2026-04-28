@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "747|290",
+    "proprietario_anterior": "Wolf selvagem",
+    "tribo_anterior": null,
+    "proprietario_novo": "joaopaulofrann",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 18:16:10"
+  },
+  {
+    "coordenadas": "394|390",
+    "proprietario_anterior": "japa8182",
+    "tribo_anterior": null,
+    "proprietario_novo": "draxler",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 18:15:41"
+  },
+  {
+    "coordenadas": "547|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zandorfire",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 18:14:54"
+  },
+  {
+    "coordenadas": "562|213",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusfjose",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-28 18:11:47"
+  },
+  {
+    "coordenadas": "276|567",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saubher",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 18:09:55"
+  },
+  {
+    "coordenadas": "479|433",
+    "proprietario_anterior": "SolarWitcH116",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapitaoWhey",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-28 18:09:19"
+  },
+  {
+    "coordenadas": "641|712",
+    "proprietario_anterior": "noob66",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 18:08:59"
+  },
+  {
+    "coordenadas": "640|718",
+    "proprietario_anterior": "noob66",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 18:08:59"
+  },
+  {
     "coordenadas": "232|697",
     "proprietario_anterior": "AtillaSoldadovisk",
     "tribo_anterior": null,
@@ -32646,29 +32710,5 @@
     "proprietario_novo": "- BanneD",
     "tribo_nova": "CLT",
     "data_hora_conquista": "2026-04-21 17:20:32"
-  },
-  {
-    "coordenadas": "489|424",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "LíderJoe",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 17:18:22"
-  },
-  {
-    "coordenadas": "347|328",
-    "proprietario_anterior": "mistydemon919",
-    "tribo_anterior": null,
-    "proprietario_novo": "Vinicius.com",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-21 17:15:14"
-  },
-  {
-    "coordenadas": "587|741",
-    "proprietario_anterior": "Sennin",
-    "tribo_anterior": "PÂNIC0",
-    "proprietario_novo": "anao cego",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-21 17:13:53"
   }
 ]
