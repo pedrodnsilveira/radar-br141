@@ -1,5 +1,77 @@
 [
   {
+    "coordenadas": "595|728",
+    "proprietario_anterior": "QUASETEBOLOTEI",
+    "tribo_anterior": null,
+    "proprietario_novo": "mandakeru",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 14:04:44"
+  },
+  {
+    "coordenadas": "665|485",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-28 14:03:50"
+  },
+  {
+    "coordenadas": "521|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SERGINHO1234",
+    "tribo_nova": "FRONT2",
+    "data_hora_conquista": "2026-04-28 14:03:28"
+  },
+  {
+    "coordenadas": "413|376",
+    "proprietario_anterior": "Matheusnak1234",
+    "tribo_anterior": "Frango",
+    "proprietario_novo": "Lord fralda rosa",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 14:03:12"
+  },
+  {
+    "coordenadas": "504|357",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 14:02:43"
+  },
+  {
+    "coordenadas": "558|549",
+    "proprietario_anterior": "Moreno da Ita",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Bjorn Ironside",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 14:02:12"
+  },
+  {
+    "coordenadas": "632|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "General Imoral Mahoraga2",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 14:02:01"
+  },
+  {
+    "coordenadas": "843|439",
+    "proprietario_anterior": "eternodark",
+    "tribo_anterior": "K48",
+    "proprietario_novo": "O TNT",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 13:58:01"
+  },
+  {
+    "coordenadas": "375|549",
+    "proprietario_anterior": "Rambooloko",
+    "tribo_anterior": "U-141",
+    "proprietario_novo": "lordnetu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 13:55:36"
+  },
+  {
     "coordenadas": "782|621",
     "proprietario_anterior": "dchueri",
     "tribo_anterior": null,
@@ -32750,13 +32822,5 @@
     "proprietario_novo": "tekratos",
     "tribo_nova": "3OS",
     "data_hora_conquista": "2026-04-21 13:12:18"
-  },
-  {
-    "coordenadas": "530|806",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "yanet",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-21 13:08:42"
   }
 ]
