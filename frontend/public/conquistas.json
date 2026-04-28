@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "542|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 08:14:51"
+  },
+  {
+    "coordenadas": "485|489",
+    "proprietario_anterior": "murgarida",
+    "tribo_anterior": null,
+    "proprietario_novo": "dandezaal",
+    "tribo_nova": "N.O",
+    "data_hora_conquista": "2026-04-28 08:12:22"
+  },
+  {
+    "coordenadas": "391|524",
+    "proprietario_anterior": "Grosmer",
+    "tribo_anterior": null,
+    "proprietario_novo": "Robertojr09",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 08:10:04"
+  },
+  {
+    "coordenadas": "514|678",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 08:07:24"
+  },
+  {
     "coordenadas": "511|684",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32838,29 +32870,5 @@
     "proprietario_novo": "jhonatahn2307",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-21 07:21:45"
-  },
-  {
-    "coordenadas": "609|453",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Forasteyro",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 07:19:25"
-  },
-  {
-    "coordenadas": "372|604",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jneves87",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 07:14:27"
-  },
-  {
-    "coordenadas": "656|458",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "atiq hamuta",
-    "tribo_nova": "MARMAS",
-    "data_hora_conquista": "2026-04-21 07:11:07"
   }
 ]
