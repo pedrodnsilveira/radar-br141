@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "321|571",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 14:15:31"
+  },
+  {
+    "coordenadas": "471|402",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 14:14:20"
+  },
+  {
+    "coordenadas": "464|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 14:13:42"
+  },
+  {
+    "coordenadas": "637|507",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-28 14:13:14"
+  },
+  {
+    "coordenadas": "400|261",
+    "proprietario_anterior": "Ferpa17",
+    "tribo_anterior": "23",
+    "proprietario_novo": "Ferpa17",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-28 14:11:24"
+  },
+  {
+    "coordenadas": "720|556",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GAUCHO SC",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 14:07:15"
+  },
+  {
+    "coordenadas": "416|437",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 14:05:33"
+  },
+  {
     "coordenadas": "595|728",
     "proprietario_anterior": "QUASETEBOLOTEI",
     "tribo_anterior": null,
@@ -32790,37 +32846,5 @@
     "proprietario_novo": "KennoLVLpro",
     "tribo_nova": "AmgK",
     "data_hora_conquista": "2026-04-21 13:21:22"
-  },
-  {
-    "coordenadas": "600|483",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "COSTA BRANCA",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 13:16:27"
-  },
-  {
-    "coordenadas": "479|511",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Skryl18",
-    "tribo_nova": "N.O",
-    "data_hora_conquista": "2026-04-21 13:16:09"
-  },
-  {
-    "coordenadas": "593|557",
-    "proprietario_anterior": "atiR C l a r k",
-    "tribo_anterior": null,
-    "proprietario_novo": "ElJonjon",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 13:14:13"
-  },
-  {
-    "coordenadas": "228|683",
-    "proprietario_anterior": "glucas01",
-    "tribo_anterior": "SPARTA",
-    "proprietario_novo": "tekratos",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 13:12:18"
   }
 ]
