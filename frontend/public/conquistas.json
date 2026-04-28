@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "608|340",
+    "proprietario_anterior": "junior72",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "VegaPunk",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 18:27:02"
+  },
+  {
+    "coordenadas": "572|535",
+    "proprietario_anterior": "Danilo Guara",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "ReisC",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 18:19:52"
+  },
+  {
     "coordenadas": "747|290",
     "proprietario_anterior": "Wolf selvagem",
     "tribo_anterior": null,
@@ -32662,53 +32678,5 @@
     "proprietario_novo": "DeeJay",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 17:31:28"
-  },
-  {
-    "coordenadas": "613|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "shakashaka",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 17:29:00"
-  },
-  {
-    "coordenadas": "168|466",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "alexnosse",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-21 17:28:35"
-  },
-  {
-    "coordenadas": "351|738",
-    "proprietario_anterior": "alexstrindade",
-    "tribo_anterior": "-UNI-",
-    "proprietario_novo": "O Príncipe",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 17:27:49"
-  },
-  {
-    "coordenadas": "826|396",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Sd.dorea",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 17:24:13"
-  },
-  {
-    "coordenadas": "533|389",
-    "proprietario_anterior": "HeroicValkyriE758",
-    "tribo_anterior": null,
-    "proprietario_novo": "PiresAlexandre01",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-21 17:24:07"
-  },
-  {
-    "coordenadas": "673|365",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- BanneD",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 17:20:32"
   }
 ]
