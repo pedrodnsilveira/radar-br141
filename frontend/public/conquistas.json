@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "481|432",
+    "proprietario_anterior": "Freakraivruzor",
+    "tribo_anterior": null,
+    "proprietario_novo": "CapitaoWhey",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-28 10:07:34"
+  },
+  {
+    "coordenadas": "718|513",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GAUCHO SC",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 10:01:21"
+  },
+  {
     "coordenadas": "773|517",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32894,101 +32910,5 @@
     "proprietario_novo": "PitocoOFClans",
     "tribo_nova": "NoJob",
     "data_hora_conquista": "2026-04-21 09:10:03"
-  },
-  {
-    "coordenadas": "510|522",
-    "proprietario_anterior": "SABATHKONDON",
-    "tribo_anterior": "CT",
-    "proprietario_novo": "Saiyajin",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 09:10:01"
-  },
-  {
-    "coordenadas": "202|638",
-    "proprietario_anterior": "Kazix99",
-    "tribo_anterior": "-3OS-",
-    "proprietario_novo": "JFOB",
-    "tribo_nova": "ROMA",
-    "data_hora_conquista": "2026-04-21 09:06:45"
-  },
-  {
-    "coordenadas": "462|561",
-    "proprietario_anterior": "BriohaiviaPrime",
-    "tribo_anterior": null,
-    "proprietario_novo": "Machado98",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 09:05:00"
-  },
-  {
-    "coordenadas": "568|505",
-    "proprietario_anterior": "BrogrisneastaiFlux",
-    "tribo_anterior": null,
-    "proprietario_novo": "marce10nike",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 09:05:00"
-  },
-  {
-    "coordenadas": "766|582",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MatheusKiroBr",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-21 09:04:38"
-  },
-  {
-    "coordenadas": "320|437",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Budlua",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-21 09:04:28"
-  },
-  {
-    "coordenadas": "797|456",
-    "proprietario_anterior": "renangrx",
-    "tribo_anterior": "VET",
-    "proprietario_novo": "K1LL3R",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-21 09:02:20"
-  },
-  {
-    "coordenadas": "635|455",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Bilk",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 09:01:45"
-  },
-  {
-    "coordenadas": "295|419",
-    "proprietario_anterior": "BadMontenegro",
-    "tribo_anterior": "ACAD",
-    "proprietario_novo": "noizii",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-21 09:01:20"
-  },
-  {
-    "coordenadas": "784|370",
-    "proprietario_anterior": "LKGB",
-    "tribo_anterior": null,
-    "proprietario_novo": "You Dont Know Me",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-21 09:01:12"
-  },
-  {
-    "coordenadas": "581|417",
-    "proprietario_anterior": "PREDADOR",
-    "tribo_anterior": null,
-    "proprietario_novo": "Zandorfire",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 09:01:09"
-  },
-  {
-    "coordenadas": "543|640",
-    "proprietario_anterior": "josebail",
-    "tribo_anterior": "PCT",
-    "proprietario_novo": "Rocky.Balboa",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 09:00:06"
   }
 ]
