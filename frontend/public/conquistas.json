@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "541|626",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jereko",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 02:18:23"
+  },
+  {
+    "coordenadas": "423|624",
+    "proprietario_anterior": "DreadLord",
+    "tribo_anterior": null,
+    "proprietario_novo": "jhonatahn2307",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 02:18:20"
+  },
+  {
+    "coordenadas": "399|650",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "antonio98",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 02:17:14"
+  },
+  {
+    "coordenadas": "344|398",
+    "proprietario_anterior": "Feltras",
+    "tribo_anterior": null,
+    "proprietario_novo": "sorhento",
+    "tribo_nova": "Se",
+    "data_hora_conquista": "2026-04-28 02:15:33"
+  },
+  {
     "coordenadas": "202|385",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32846,13 +32878,5 @@
     "proprietario_novo": "O TNT",
     "tribo_nova": "[NG]",
     "data_hora_conquista": "2026-04-21 01:21:45"
-  },
-  {
-    "coordenadas": "540|160",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ph aprendiz do carmo",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-21 01:12:56"
   }
 ]
