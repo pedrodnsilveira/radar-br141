@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "212|379",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor UrubuRei",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 19:13:37"
+  },
+  {
+    "coordenadas": "428|519",
+    "proprietario_anterior": "Negomel",
+    "tribo_anterior": "FN!",
+    "proprietario_novo": "Negomel",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 19:13:20"
+  },
+  {
+    "coordenadas": "386|436",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "macor6",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-28 19:08:44"
+  },
+  {
+    "coordenadas": "297|615",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Juca Chavess",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 19:06:59"
+  },
+  {
     "coordenadas": "303|666",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32558,61 +32590,5 @@
     "proprietario_novo": "Lelecol",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-21 18:22:43"
-  },
-  {
-    "coordenadas": "453|603",
-    "proprietario_anterior": "aetherialghoul358",
-    "tribo_anterior": null,
-    "proprietario_novo": "andrecattoo",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 18:19:04"
-  },
-  {
-    "coordenadas": "694|541",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "UzeBR",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 18:18:32"
-  },
-  {
-    "coordenadas": "338|575",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "-Gold Of Wars-",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 18:17:26"
-  },
-  {
-    "coordenadas": "246|554",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "alisonlansarini",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 18:16:59"
-  },
-  {
-    "coordenadas": "500|405",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "yacabo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 18:15:12"
-  },
-  {
-    "coordenadas": "583|433",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Brenno -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 18:12:52"
-  },
-  {
-    "coordenadas": "388|525",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Robertojr09",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 18:12:02"
   }
 ]
