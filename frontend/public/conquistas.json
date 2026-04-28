@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "786|547",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "LucasModric",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 01:47:12"
+  },
+  {
+    "coordenadas": "551|612",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Big-Z",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 01:45:46"
+  },
+  {
+    "coordenadas": "846|684",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "wtioo2",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-28 01:43:43"
+  },
+  {
+    "coordenadas": "752|417",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "caique860",
+    "tribo_nova": "EXACT",
+    "data_hora_conquista": "2026-04-28 01:42:47"
+  },
+  {
+    "coordenadas": "492|515",
+    "proprietario_anterior": "Priorw3",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "luftal para criança",
+    "tribo_nova": "TPZ",
+    "data_hora_conquista": "2026-04-28 01:41:42"
+  },
+  {
+    "coordenadas": "441|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 01:41:32"
+  },
+  {
     "coordenadas": "470|399",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32798,69 +32846,5 @@
     "proprietario_novo": "PedroGarcia17",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 00:50:42"
-  },
-  {
-    "coordenadas": "676|446",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Triguinal",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 00:49:41"
-  },
-  {
-    "coordenadas": "459|369",
-    "proprietario_anterior": "Creatine",
-    "tribo_anterior": "GAL0S",
-    "proprietario_novo": "ezynho17",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 00:46:55"
-  },
-  {
-    "coordenadas": "562|436",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FeldschlosscheN",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 00:46:22"
-  },
-  {
-    "coordenadas": "398|558",
-    "proprietario_anterior": "CRIMSONVIPER411",
-    "tribo_anterior": null,
-    "proprietario_novo": "Foresst",
-    "tribo_nova": "U-141",
-    "data_hora_conquista": "2026-04-21 00:45:58"
-  },
-  {
-    "coordenadas": "420|307",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "daniellorient",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 00:43:50"
-  },
-  {
-    "coordenadas": "528|544",
-    "proprietario_anterior": "*Winterfell*",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 00:42:50"
-  },
-  {
-    "coordenadas": "745|703",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mustadio",
-    "tribo_nova": "AmgK",
-    "data_hora_conquista": "2026-04-21 00:42:25"
-  },
-  {
-    "coordenadas": "371|626",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "GuiStein",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 00:41:41"
   }
 ]
