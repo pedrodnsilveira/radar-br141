@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "658|311",
+    "proprietario_anterior": "Giguitaia",
+    "tribo_anterior": "CLT",
+    "proprietario_novo": "Giguitaia",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 12:34:18"
+  },
+  {
+    "coordenadas": "302|533",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "adrpat",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 12:31:28"
+  },
+  {
     "coordenadas": "382|519",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32878,69 +32894,5 @@
     "proprietario_novo": "BBgzaNN",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 11:40:43"
-  },
-  {
-    "coordenadas": "493|520",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "azanutox",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 11:39:58"
-  },
-  {
-    "coordenadas": "484|504",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mr. JimmyS",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 11:39:48"
-  },
-  {
-    "coordenadas": "564|534",
-    "proprietario_anterior": "GANG DO MACHADO",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "GANG DO MACHADO",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-21 11:35:51"
-  },
-  {
-    "coordenadas": "504|451",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FelipeLucas32",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 11:33:51"
-  },
-  {
-    "coordenadas": "468|772",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Belryk",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-21 11:32:40"
-  },
-  {
-    "coordenadas": "499|505",
-    "proprietario_anterior": "serranozap",
-    "tribo_anterior": "MQ",
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 11:32:20"
-  },
-  {
-    "coordenadas": "617|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "shakashaka",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 11:31:06"
-  },
-  {
-    "coordenadas": "384|481",
-    "proprietario_anterior": "conciliatorymammoth",
-    "tribo_anterior": "Papi??",
-    "proprietario_novo": "jpsports",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 11:30:17"
   }
 ]
