@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "459|341",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Delivrar1",
+    "tribo_nova": "ABN",
+    "data_hora_conquista": "2026-04-28 13:42:20"
+  },
+  {
     "coordenadas": "601|656",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32734,37 +32742,5 @@
     "proprietario_novo": "cleber 25",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 12:52:38"
-  },
-  {
-    "coordenadas": "368|511",
-    "proprietario_anterior": "Lord mentuss",
-    "tribo_anterior": null,
-    "proprietario_novo": "gangrafa",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 12:47:52"
-  },
-  {
-    "coordenadas": "630|608",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "luizusa",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 12:46:53"
-  },
-  {
-    "coordenadas": "306|494",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Cowboy25",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-21 12:46:53"
-  },
-  {
-    "coordenadas": "461|631",
-    "proprietario_anterior": "Guilherme xv",
-    "tribo_anterior": "PÂNICO",
-    "proprietario_novo": "Guilherme xv",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 12:42:53"
   }
 ]
