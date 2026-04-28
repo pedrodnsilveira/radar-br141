@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "545|542",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 22:19:27"
+  },
+  {
+    "coordenadas": "455|375",
+    "proprietario_anterior": "- DEMON SLAYER",
+    "tribo_anterior": "ALOK",
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 22:18:09"
+  },
+  {
+    "coordenadas": "596|267",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "CoyoteST",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-27 22:15:20"
+  },
+  {
+    "coordenadas": "242|460",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Rei Constantinos",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-27 22:14:17"
+  },
+  {
+    "coordenadas": "499|497",
+    "proprietario_anterior": "Produto inflamável",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 22:12:54"
+  },
+  {
+    "coordenadas": "499|497",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 22:12:51"
+  },
+  {
+    "coordenadas": "507|251",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nei Lima",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-27 22:12:13"
+  },
+  {
     "coordenadas": "426|430",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32830,29 +32886,5 @@
     "proprietario_novo": "maykbn",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-20 21:24:00"
-  },
-  {
-    "coordenadas": "379|491",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "SIDarta GODtama",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 21:12:29"
-  },
-  {
-    "coordenadas": "462|456",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Sr Fabiano",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-20 21:10:33"
-  },
-  {
-    "coordenadas": "328|217",
-    "proprietario_anterior": "5ZephyrX",
-    "tribo_anterior": null,
-    "proprietario_novo": "Oliver Queen.",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-20 21:10:04"
   }
 ]
