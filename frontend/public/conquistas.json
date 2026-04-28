@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "603|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "COSTA BRANCA",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 13:15:42"
+  },
+  {
+    "coordenadas": "489|656",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "liplinharesjf",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 13:11:40"
+  },
+  {
+    "coordenadas": "541|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Tia da Limpeza",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 13:11:36"
+  },
+  {
+    "coordenadas": "275|414",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wolfgang88",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 13:10:39"
+  },
+  {
+    "coordenadas": "536|514",
+    "proprietario_anterior": "bragre",
+    "tribo_anterior": null,
+    "proprietario_novo": "nisep",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 13:10:06"
+  },
+  {
     "coordenadas": "190|594",
     "proprietario_anterior": "Sev3rakill",
     "tribo_anterior": null,
@@ -32750,61 +32790,5 @@
     "proprietario_novo": "Kikinho",
     "tribo_nova": "CLT",
     "data_hora_conquista": "2026-04-21 12:25:13"
-  },
-  {
-    "coordenadas": "547|543",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Obelixbr",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-21 12:18:53"
-  },
-  {
-    "coordenadas": "562|608",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jereko",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 12:17:51"
-  },
-  {
-    "coordenadas": "591|455",
-    "proprietario_anterior": "- Asta -",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "- Asta -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 12:17:33"
-  },
-  {
-    "coordenadas": "262|266",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mmch",
-    "tribo_nova": "AVG",
-    "data_hora_conquista": "2026-04-21 12:15:32"
-  },
-  {
-    "coordenadas": "177|526",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Britx2000",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-21 12:15:24"
-  },
-  {
-    "coordenadas": "225|590",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Macak Al Bino",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 12:12:10"
-  },
-  {
-    "coordenadas": "539|812",
-    "proprietario_anterior": "comandoromulo",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rick.Iza",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-21 12:10:35"
   }
 ]
