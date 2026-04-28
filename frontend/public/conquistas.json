@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "469|746",
+    "proprietario_anterior": "dub san master",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sekaioshi",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 15:35:42"
+  },
+  {
+    "coordenadas": "551|555",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mrgugu",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 15:33:28"
+  },
+  {
+    "coordenadas": "486|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arthemus",
+    "tribo_nova": "RAN",
+    "data_hora_conquista": "2026-04-28 15:30:11"
+  },
+  {
+    "coordenadas": "510|421",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "FeldschlosscheN",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 15:30:05"
+  },
+  {
     "coordenadas": "464|576",
     "proprietario_anterior": "TCards",
     "tribo_anterior": "FN",
@@ -32694,61 +32726,5 @@
     "proprietario_novo": "shakashaka",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 14:40:46"
-  },
-  {
-    "coordenadas": "375|549",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rambooloko",
-    "tribo_nova": "U-141",
-    "data_hora_conquista": "2026-04-21 14:38:07"
-  },
-  {
-    "coordenadas": "540|347",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mimilitao",
-    "tribo_nova": "LOST",
-    "data_hora_conquista": "2026-04-21 14:38:05"
-  },
-  {
-    "coordenadas": "494|617",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Chemical",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 14:37:10"
-  },
-  {
-    "coordenadas": "589|462",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Peja.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:32:53"
-  },
-  {
-    "coordenadas": "367|461",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nelsonpalanque",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 14:31:47"
-  },
-  {
-    "coordenadas": "382|469",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nelsonpalanque",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 14:31:32"
-  },
-  {
-    "coordenadas": "525|536",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nebulosa Fênix",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 14:31:14"
   }
 ]
