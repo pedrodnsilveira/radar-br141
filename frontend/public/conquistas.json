@@ -1,5 +1,93 @@
 [
   {
+    "coordenadas": "760|385",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Senhor SenhorDaGuerra",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 01:58:32"
+  },
+  {
+    "coordenadas": "446|483",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "biscatilda",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 01:57:46"
+  },
+  {
+    "coordenadas": "434|422",
+    "proprietario_anterior": "M A N A U A R A",
+    "tribo_anterior": null,
+    "proprietario_novo": "Thiago Mendonça",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 01:57:17"
+  },
+  {
+    "coordenadas": "421|473",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 01:56:00"
+  },
+  {
+    "coordenadas": "659|486",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Wars-Lord",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-28 01:53:27"
+  },
+  {
+    "coordenadas": "602|604",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 01:52:38"
+  },
+  {
+    "coordenadas": "534|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 01:52:36"
+  },
+  {
+    "coordenadas": "432|476",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 01:51:15"
+  },
+  {
+    "coordenadas": "395|286",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Torrinco",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-28 01:51:14"
+  },
+  {
+    "coordenadas": "319|577",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 01:50:53"
+  },
+  {
+    "coordenadas": "395|284",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Torrinco",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-28 01:49:09"
+  },
+  {
     "coordenadas": "786|547",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32798,53 +32886,5 @@
     "proprietario_novo": "elitejp",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-21 01:00:05"
-  },
-  {
-    "coordenadas": "185|503",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MNVidori",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-21 00:59:58"
-  },
-  {
-    "coordenadas": "492|472",
-    "proprietario_anterior": "Magaiver",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "rafa3081",
-    "tribo_nova": "N.O",
-    "data_hora_conquista": "2026-04-21 00:58:53"
-  },
-  {
-    "coordenadas": "379|488",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "SIDarta GODtama",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 00:53:20"
-  },
-  {
-    "coordenadas": "582|545",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ElJonjon",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 00:52:27"
-  },
-  {
-    "coordenadas": "460|461",
-    "proprietario_anterior": "vmort",
-    "tribo_anterior": null,
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 00:51:40"
-  },
-  {
-    "coordenadas": "479|439",
-    "proprietario_anterior": "ElZoro",
-    "tribo_anterior": "N.O",
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 00:50:42"
   }
 ]
