@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "799|645",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mazzera.",
+    "tribo_nova": "ACID",
+    "data_hora_conquista": "2026-04-28 05:44:46"
+  },
+  {
+    "coordenadas": "154|419",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vullpixxx",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 05:42:24"
+  },
+  {
     "coordenadas": "379|425",
     "proprietario_anterior": "Escopeta",
     "tribo_anterior": null,
@@ -32870,29 +32886,5 @@
     "proprietario_novo": "tiboiosco1972",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-21 04:51:09"
-  },
-  {
-    "coordenadas": "366|424",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Minions",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 04:47:04"
-  },
-  {
-    "coordenadas": "605|416",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Iraki -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 04:46:38"
-  },
-  {
-    "coordenadas": "490|471",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 04:40:55"
   }
 ]
