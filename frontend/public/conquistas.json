@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "481|626",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Chemical",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 05:15:50"
+  },
+  {
+    "coordenadas": "376|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "fabriciok",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 05:11:22"
+  },
+  {
+    "coordenadas": "511|469",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Magoga -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 05:09:35"
+  },
+  {
     "coordenadas": "363|455",
     "proprietario_anterior": "Mr.Unamed",
     "tribo_anterior": "GALOS",
@@ -32870,37 +32894,5 @@
     "proprietario_novo": "Guui97",
     "tribo_nova": "PÂNIC0",
     "data_hora_conquista": "2026-04-21 04:32:30"
-  },
-  {
-    "coordenadas": "630|326",
-    "proprietario_anterior": "kittora",
-    "tribo_anterior": null,
-    "proprietario_novo": "Cristiano Wagner",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 04:19:07"
-  },
-  {
-    "coordenadas": "543|609",
-    "proprietario_anterior": "Skylline",
-    "tribo_anterior": null,
-    "proprietario_novo": "Lord Silmar",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 04:16:34"
-  },
-  {
-    "coordenadas": "233|377",
-    "proprietario_anterior": "Corpuszoic",
-    "tribo_anterior": "PCT",
-    "proprietario_novo": "kenshiin27",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-21 04:16:26"
-  },
-  {
-    "coordenadas": "444|535",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "steinn",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 04:11:45"
   }
 ]
