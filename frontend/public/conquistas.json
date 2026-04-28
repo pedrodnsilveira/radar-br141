@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "392|660",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Black Horse",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 16:44:13"
+  },
+  {
+    "coordenadas": "418|633",
+    "proprietario_anterior": "DreadLord",
+    "tribo_anterior": null,
+    "proprietario_novo": "Coxinhabolada",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 16:40:34"
+  },
+  {
+    "coordenadas": "427|526",
+    "proprietario_anterior": "Brigadeirao",
+    "tribo_anterior": null,
+    "proprietario_novo": "- O Westbrook -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 16:40:29"
+  },
+  {
     "coordenadas": "391|568",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32654,37 +32678,5 @@
     "proprietario_novo": "WBPinto",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-21 15:53:17"
-  },
-  {
-    "coordenadas": "607|296",
-    "proprietario_anterior": "guitar2026",
-    "tribo_anterior": "CASA",
-    "proprietario_novo": "jackgiitar",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 15:44:52"
-  },
-  {
-    "coordenadas": "263|507",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MVAlencar",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 15:44:36"
-  },
-  {
-    "coordenadas": "386|558",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "IDakaHz",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 15:41:08"
-  },
-  {
-    "coordenadas": "194|520",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DASCOLINAS",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-21 15:40:34"
   }
 ]
