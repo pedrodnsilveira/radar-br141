@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "445|523",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "steinn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 14:45:33"
+  },
+  {
+    "coordenadas": "479|357",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cadelaprenha",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 14:45:24"
+  },
+  {
+    "coordenadas": "611|457",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 14:41:47"
+  },
+  {
+    "coordenadas": "547|468",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zandorfire",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 14:37:16"
+  },
+  {
     "coordenadas": "446|477",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32790,37 +32822,5 @@
     "proprietario_novo": "Marvin Annton",
     "tribo_nova": "D23",
     "data_hora_conquista": "2026-04-21 13:50:14"
-  },
-  {
-    "coordenadas": "383|745",
-    "proprietario_anterior": "kaueadrian",
-    "tribo_anterior": "O4F",
-    "proprietario_novo": "wandrew",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 13:46:52"
-  },
-  {
-    "coordenadas": "559|655",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Big-Z",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 13:46:44"
-  },
-  {
-    "coordenadas": "300|617",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mlx023",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 13:42:41"
-  },
-  {
-    "coordenadas": "516|616",
-    "proprietario_anterior": "INFERNALORACLE551",
-    "tribo_anterior": null,
-    "proprietario_novo": "DMPaiva2020",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 13:42:23"
   }
 ]
