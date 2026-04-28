@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "605|492",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SIR KIM",
+    "tribo_nova": ".PPP.",
+    "data_hora_conquista": "2026-04-28 07:20:53"
+  },
+  {
+    "coordenadas": "677|233",
+    "proprietario_anterior": "...Dark...",
+    "tribo_anterior": null,
+    "proprietario_novo": "NinjaGaji",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 07:19:03"
+  },
+  {
+    "coordenadas": "429|627",
+    "proprietario_anterior": "DreadLord",
+    "tribo_anterior": null,
+    "proprietario_novo": "jhonatahn2307",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 07:17:56"
+  },
+  {
+    "coordenadas": "616|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "iMoon",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 07:17:08"
+  },
+  {
+    "coordenadas": "433|646",
+    "proprietario_anterior": "Lordkaz",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dura Teston",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 07:17:06"
+  },
+  {
     "coordenadas": "481|575",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32846,21 +32886,5 @@
     "proprietario_novo": "Juca Chavess",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-21 06:33:31"
-  },
-  {
-    "coordenadas": "643|736",
-    "proprietario_anterior": "Jean132",
-    "tribo_anterior": null,
-    "proprietario_novo": "Tomás mester",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-21 06:28:06"
-  },
-  {
-    "coordenadas": "490|524",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Labres",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 06:25:19"
   }
 ]
