@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "479|530",
+    "proprietario_anterior": "J.Karl",
+    "tribo_anterior": "N.O",
+    "proprietario_novo": "JJGomesJr",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 02:22:21"
+  },
+  {
     "coordenadas": "541|626",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32854,29 +32862,5 @@
     "proprietario_novo": "Soyuz",
     "tribo_nova": "23",
     "data_hora_conquista": "2026-04-21 01:30:36"
-  },
-  {
-    "coordenadas": "416|486",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 01:28:39"
-  },
-  {
-    "coordenadas": "378|419",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "murim05",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 01:22:27"
-  },
-  {
-    "coordenadas": "838|450",
-    "proprietario_anterior": "Garage01",
-    "tribo_anterior": null,
-    "proprietario_novo": "O TNT",
-    "tribo_nova": "[NG]",
-    "data_hora_conquista": "2026-04-21 01:21:45"
   }
 ]
