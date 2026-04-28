@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "464|576",
+    "proprietario_anterior": "TCards",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "TCards",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 15:26:35"
+  },
+  {
+    "coordenadas": "602|498",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "COSTA BRANCA",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 15:20:33"
+  },
+  {
     "coordenadas": "421|634",
     "proprietario_anterior": "DreadLord",
     "tribo_anterior": null,
@@ -32734,61 +32750,5 @@
     "proprietario_novo": "Nebulosa Fênix",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-21 14:31:14"
-  },
-  {
-    "coordenadas": "520|407",
-    "proprietario_anterior": "Chuva",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:27:56"
-  },
-  {
-    "coordenadas": "523|537",
-    "proprietario_anterior": "1234wemerson",
-    "tribo_anterior": "PoRT",
-    "proprietario_novo": "Arceus James",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 14:27:04"
-  },
-  {
-    "coordenadas": "523|509",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 14:25:14"
-  },
-  {
-    "coordenadas": "490|835",
-    "proprietario_anterior": "Alonsito",
-    "tribo_anterior": "DRUNKS",
-    "proprietario_novo": "Alonsito",
-    "tribo_nova": "DRUNKS",
-    "data_hora_conquista": "2026-04-21 14:24:12"
-  },
-  {
-    "coordenadas": "525|486",
-    "proprietario_anterior": "EureK",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:22:47"
-  },
-  {
-    "coordenadas": "428|328",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Padback420",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 14:21:17"
-  },
-  {
-    "coordenadas": "280|638",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "JociAfonso",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-21 14:21:05"
   }
 ]
