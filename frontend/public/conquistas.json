@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "571|703",
+    "proprietario_anterior": "lukaslockjhn2",
+    "tribo_anterior": null,
+    "proprietario_novo": "Lelecol",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 09:12:29"
+  },
+  {
+    "coordenadas": "361|719",
+    "proprietario_anterior": "IgRmS",
+    "tribo_anterior": "PÂNICO",
+    "proprietario_novo": "IgRmS",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 09:10:00"
+  },
+  {
     "coordenadas": "406|498",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32894,29 +32910,5 @@
     "proprietario_novo": "-Bob-",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-21 08:21:03"
-  },
-  {
-    "coordenadas": "597|426",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Iraki -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 08:12:54"
-  },
-  {
-    "coordenadas": "491|622",
-    "proprietario_anterior": "Olympus",
-    "tribo_anterior": null,
-    "proprietario_novo": "design.inthedark",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 08:12:09"
-  },
-  {
-    "coordenadas": "612|550",
-    "proprietario_anterior": "XiluxeiPrime",
-    "tribo_anterior": null,
-    "proprietario_novo": "Yandurlacher",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 08:11:15"
   }
 ]
