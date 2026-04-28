@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "554|776",
+    "proprietario_anterior": "Barriga Verde",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "ferreiranuno",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-28 08:25:07"
+  },
+  {
+    "coordenadas": "531|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 08:21:39"
+  },
+  {
     "coordenadas": "542|424",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32830,45 +32846,5 @@
     "proprietario_novo": "alexstrindade",
     "tribo_nova": "-UNI-",
     "data_hora_conquista": "2026-04-21 07:30:44"
-  },
-  {
-    "coordenadas": "601|457",
-    "proprietario_anterior": "- Asta -",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "- Asta -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 07:28:45"
-  },
-  {
-    "coordenadas": "508|647",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DUDYss",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 07:27:40"
-  },
-  {
-    "coordenadas": "339|317",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Greengozes",
-    "tribo_nova": "23",
-    "data_hora_conquista": "2026-04-21 07:25:51"
-  },
-  {
-    "coordenadas": "573|431",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Braicks",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 07:24:43"
-  },
-  {
-    "coordenadas": "449|696",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jhonatahn2307",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 07:21:45"
   }
 ]
