@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "426|430",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Eriicksansi",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-27 22:07:09"
+  },
+  {
+    "coordenadas": "449|616",
+    "proprietario_anterior": "GeneralJuanll",
+    "tribo_anterior": null,
+    "proprietario_novo": "NBL Allan",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 22:07:02"
+  },
+  {
+    "coordenadas": "505|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "zorba",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-27 22:06:13"
+  },
+  {
+    "coordenadas": "674|814",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mestre-Jiraya",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-27 22:05:55"
+  },
+  {
+    "coordenadas": "637|330",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vfreire99",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-27 22:05:49"
+  },
+  {
+    "coordenadas": "859|546",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "le4ndroh",
+    "tribo_nova": "[NG]",
+    "data_hora_conquista": "2026-04-27 22:05:21"
+  },
+  {
+    "coordenadas": "504|354",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-27 22:03:42"
+  },
+  {
+    "coordenadas": "530|526",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-27 22:03:30"
+  },
+  {
     "coordenadas": "389|246",
     "proprietario_anterior": "nexvar58",
     "tribo_anterior": "LOBOS",
@@ -32790,37 +32854,5 @@
     "proprietario_novo": "Oliver Queen.",
     "tribo_nova": "23",
     "data_hora_conquista": "2026-04-20 21:10:04"
-  },
-  {
-    "coordenadas": "529|611",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "llucas",
-    "tribo_nova": "DICK",
-    "data_hora_conquista": "2026-04-20 21:08:50"
-  },
-  {
-    "coordenadas": "810|537",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "blt01",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 21:07:44"
-  },
-  {
-    "coordenadas": "329|763",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Maris1960",
-    "tribo_nova": "O4F",
-    "data_hora_conquista": "2026-04-20 21:03:23"
-  },
-  {
-    "coordenadas": "546|501",
-    "proprietario_anterior": "Mão de Alface",
-    "tribo_anterior": "FC",
-    "proprietario_novo": "marcola120",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-20 21:01:26"
   }
 ]
