@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "721|290",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amnesus",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-28 15:53:03"
+  },
+  {
+    "coordenadas": "273|259",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Scalld",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-28 15:49:14"
+  },
+  {
+    "coordenadas": "404|494",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "eluigiii",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 15:49:10"
+  },
+  {
+    "coordenadas": "486|220",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lnrd",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-28 15:48:47"
+  },
+  {
     "coordenadas": "478|650",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32646,53 +32678,5 @@
     "proprietario_novo": "Magaiver",
     "tribo_nova": ".RIP.",
     "data_hora_conquista": "2026-04-21 15:01:35"
-  },
-  {
-    "coordenadas": "497|505",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Utzig",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 14:58:37"
-  },
-  {
-    "coordenadas": "534|609",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cristianfjv",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 14:54:36"
-  },
-  {
-    "coordenadas": "560|610",
-    "proprietario_anterior": "wakieneb",
-    "tribo_anterior": "[M]",
-    "proprietario_novo": "charlesfade",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 14:54:20"
-  },
-  {
-    "coordenadas": "483|477",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 14:54:10"
-  },
-  {
-    "coordenadas": "377|463",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bitencourt",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 14:53:53"
-  },
-  {
-    "coordenadas": "280|525",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "adrpat",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 14:50:36"
   }
 ]
