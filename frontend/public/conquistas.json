@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "394|386",
+    "proprietario_anterior": "draxler",
+    "tribo_anterior": "Tchu",
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 05:34:47"
+  },
+  {
+    "coordenadas": "471|200",
+    "proprietario_anterior": "Charlene",
+    "tribo_anterior": null,
+    "proprietario_novo": "yspoky",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-29 05:32:14"
+  },
+  {
+    "coordenadas": "360|550",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "lordnetu",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 05:29:28"
+  },
+  {
+    "coordenadas": "524|579",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "guioliveira.br",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 05:28:33"
+  },
+  {
     "coordenadas": "496|392",
     "proprietario_anterior": "horribleaviat",
     "tribo_anterior": "LBB",
@@ -32254,21 +32286,5 @@
     "proprietario_novo": "EureK",
     "tribo_nova": ".RIP.",
     "data_hora_conquista": "2026-04-22 04:45:28"
-  },
-  {
-    "coordenadas": "382|458",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bitencourt",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 04:39:35"
-  },
-  {
-    "coordenadas": "381|590",
-    "proprietario_anterior": "King 53",
-    "tribo_anterior": "PÂNIC0",
-    "proprietario_novo": "BR 019",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 04:32:33"
   }
 ]
