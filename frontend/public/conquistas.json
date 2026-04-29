@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "532|472",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zandorfire",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 07:05:15"
+  },
+  {
+    "coordenadas": "602|643",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Harry Holt",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 07:02:28"
+  },
+  {
+    "coordenadas": "474|335",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "rocagi",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-29 06:59:32"
+  },
+  {
+    "coordenadas": "641|433",
+    "proprietario_anterior": "HOLYORACLE844",
+    "tribo_anterior": null,
+    "proprietario_novo": "-R A G N A R-",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 06:59:25"
+  },
+  {
+    "coordenadas": "679|293",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kikinho",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 06:59:15"
+  },
+  {
+    "coordenadas": "620|468",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Forasteyro",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 06:57:46"
+  },
+  {
     "coordenadas": "804|747",
     "proprietario_anterior": "Kiazlea",
     "tribo_anterior": null,
@@ -32206,29 +32254,5 @@
     "proprietario_novo": "Lajes",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 06:11:45"
-  },
-  {
-    "coordenadas": "275|617",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Klaus - Deus do Front",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-22 06:05:16"
-  },
-  {
-    "coordenadas": "393|523",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Robertojr09",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 06:04:23"
-  },
-  {
-    "coordenadas": "324|336",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "knight War III",
-    "tribo_nova": "KFC",
-    "data_hora_conquista": "2026-04-22 06:03:45"
   }
 ]
