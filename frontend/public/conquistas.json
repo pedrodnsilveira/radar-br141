@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "552|395",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sir.Chini",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 04:43:03"
+  },
+  {
+    "coordenadas": "636|457",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Bilk",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-29 04:38:11"
+  },
+  {
+    "coordenadas": "527|427",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Evair -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 04:37:45"
+  },
+  {
     "coordenadas": "331|590",
     "proprietario_anterior": "BBgzaNN",
     "tribo_anterior": "FN!",
@@ -32230,13 +32254,5 @@
     "proprietario_novo": "Fabio67",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-22 03:51:18"
-  },
-  {
-    "coordenadas": "551|560",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bjorn Ironside",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 03:45:45"
   }
 ]
