@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "293|561",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-29 09:45:17"
+  },
+  {
+    "coordenadas": "475|382",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 09:42:57"
+  },
+  {
     "coordenadas": "779|499",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32334,45 +32350,5 @@
     "proprietario_novo": "adrpat",
     "tribo_nova": "3OS",
     "data_hora_conquista": "2026-04-22 08:53:31"
-  },
-  {
-    "coordenadas": "516|525",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nebulosa Fênix",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 08:49:08"
-  },
-  {
-    "coordenadas": "524|465",
-    "proprietario_anterior": "Magaiver",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "Charlie Sheen",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 08:48:30"
-  },
-  {
-    "coordenadas": "511|465",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Charlie Sheen",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 08:46:09"
-  },
-  {
-    "coordenadas": "386|365",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "VTNeo",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 08:42:35"
-  },
-  {
-    "coordenadas": "549|441",
-    "proprietario_anterior": "LUCASREIS2365",
-    "tribo_anterior": "CASA",
-    "proprietario_novo": "Marcelo Maeda",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-22 08:41:02"
   }
 ]
