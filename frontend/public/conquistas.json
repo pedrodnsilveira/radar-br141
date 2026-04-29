@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "649|496",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Carta na Manga",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:05:00"
+  },
+  {
+    "coordenadas": "606|423",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:04:54"
+  },
+  {
+    "coordenadas": "708|210",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "KRAZIERPHOCZ",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-29 14:04:43"
+  },
+  {
+    "coordenadas": "496|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:04:20"
+  },
+  {
+    "coordenadas": "635|510",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vitorpereira",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-29 14:02:03"
+  },
+  {
+    "coordenadas": "535|201",
+    "proprietario_anterior": "paladinomascarado",
+    "tribo_anterior": null,
+    "proprietario_novo": "bagui loko",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-29 14:00:58"
+  },
+  {
+    "coordenadas": "592|335",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ricardoju",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-29 14:00:56"
+  },
+  {
     "coordenadas": "631|608",
     "proprietario_anterior": "luizusa",
     "tribo_anterior": null,
@@ -32142,13 +32198,5 @@
     "proprietario_novo": "cjda",
     "tribo_nova": "D23",
     "data_hora_conquista": "2026-04-22 13:13:01"
-  },
-  {
-    "coordenadas": "475|527",
-    "proprietario_anterior": "Rabugento MS",
-    "tribo_anterior": null,
-    "proprietario_novo": "azanutox",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 13:02:11"
   }
 ]
