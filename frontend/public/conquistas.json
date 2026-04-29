@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "554|570",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nebulosa Fênix",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 08:06:51"
+  },
+  {
+    "coordenadas": "295|573",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-FortreK-",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-29 08:00:03"
+  },
+  {
+    "coordenadas": "407|217",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "King Darion",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-29 07:59:43"
+  },
+  {
     "coordenadas": "858|442",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32238,13 +32262,5 @@
     "proprietario_novo": "Crazy Arrows",
     "tribo_nova": "CLT.",
     "data_hora_conquista": "2026-04-22 07:12:40"
-  },
-  {
-    "coordenadas": "468|464",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "George Bartolomeu",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-22 07:03:32"
   }
 ]
