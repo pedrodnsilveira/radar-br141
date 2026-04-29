@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "648|520",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 05:52:16"
+  },
+  {
+    "coordenadas": "482|530",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JJGomesJr",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 05:51:40"
+  },
+  {
+    "coordenadas": "385|460",
+    "proprietario_anterior": "rafarpo22",
+    "tribo_anterior": null,
+    "proprietario_novo": "jpsports",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 05:49:48"
+  },
+  {
     "coordenadas": "305|600",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32230,53 +32254,5 @@
     "proprietario_novo": "-Gold Of Wars-",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 05:02:33"
-  },
-  {
-    "coordenadas": "579|509",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 04:59:33"
-  },
-  {
-    "coordenadas": "468|623",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 04:57:58"
-  },
-  {
-    "coordenadas": "562|640",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Ferwachtel",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 04:57:49"
-  },
-  {
-    "coordenadas": "800|640",
-    "proprietario_anterior": "Sr.Draco",
-    "tribo_anterior": null,
-    "proprietario_novo": "henri",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-22 04:57:31"
-  },
-  {
-    "coordenadas": "525|431",
-    "proprietario_anterior": "caioadv",
-    "tribo_anterior": "RISEPP",
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 04:54:31"
-  },
-  {
-    "coordenadas": "542|603",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "IMPERADOR ELIAS",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 04:51:02"
   }
 ]
