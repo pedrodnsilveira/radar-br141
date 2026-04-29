@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "305|600",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "biel-",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-29 05:40:14"
+  },
+  {
     "coordenadas": "394|386",
     "proprietario_anterior": "draxler",
     "tribo_anterior": "Tchu",
@@ -32270,21 +32278,5 @@
     "proprietario_novo": "IMPERADOR ELIAS",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-22 04:51:02"
-  },
-  {
-    "coordenadas": "375|449",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bitencourt",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 04:50:03"
-  },
-  {
-    "coordenadas": "521|452",
-    "proprietario_anterior": "realMFG",
-    "tribo_anterior": null,
-    "proprietario_novo": "EureK",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-22 04:45:28"
   }
 ]
