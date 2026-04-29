@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "709|282",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Amnesus",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 14:46:16"
+  },
+  {
+    "coordenadas": "375|263",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maxi 191",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-29 14:45:26"
+  },
+  {
+    "coordenadas": "616|445",
+    "proprietario_anterior": "Bilk",
+    "tribo_anterior": ".RIP.",
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:45:26"
+  },
+  {
+    "coordenadas": "522|449",
+    "proprietario_anterior": "realMFG",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:45:26"
+  },
+  {
+    "coordenadas": "756|284",
+    "proprietario_anterior": "TririseasiX",
+    "tribo_anterior": null,
+    "proprietario_novo": "coronel01",
+    "tribo_nova": "CLT.",
+    "data_hora_conquista": "2026-04-29 14:38:56"
+  },
+  {
+    "coordenadas": "539|533",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arceus James",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 14:38:05"
+  },
+  {
     "coordenadas": "632|448",
     "proprietario_anterior": "Macarenas",
     "tribo_anterior": "VMD",
@@ -32142,37 +32190,5 @@
     "proprietario_novo": "shirop2",
     "tribo_nova": null,
     "data_hora_conquista": "2026-04-22 13:51:58"
-  },
-  {
-    "coordenadas": "614|459",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Forasteyro",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 13:48:23"
-  },
-  {
-    "coordenadas": "462|405",
-    "proprietario_anterior": "cccgggjjj",
-    "tribo_anterior": "D.G.",
-    "proprietario_novo": "O Síndico",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 13:45:05"
-  },
-  {
-    "coordenadas": "550|425",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Luiz.maciel98",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 13:44:02"
-  },
-  {
-    "coordenadas": "502|525",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Saiyajin",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 13:43:48"
   }
 ]
