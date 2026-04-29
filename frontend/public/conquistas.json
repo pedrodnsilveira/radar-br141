@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "265|575",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cinthiab",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 23:04:00"
+  },
+  {
+    "coordenadas": "797|621",
+    "proprietario_anterior": "Facetube",
+    "tribo_anterior": "EST",
+    "proprietario_novo": "Kolore",
+    "tribo_nova": "EIRAS",
+    "data_hora_conquista": "2026-04-28 23:03:57"
+  },
+  {
+    "coordenadas": "475|380",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 23:03:53"
+  },
+  {
+    "coordenadas": "519|395",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "sayb0t",
+    "tribo_nova": "FRONT2",
+    "data_hora_conquista": "2026-04-28 23:03:05"
+  },
+  {
+    "coordenadas": "434|475",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 23:01:16"
+  },
+  {
+    "coordenadas": "595|577",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "cilodexx",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-28 22:59:15"
+  },
+  {
+    "coordenadas": "569|803",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DouglasLopes",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-28 22:59:00"
+  },
+  {
     "coordenadas": "463|629",
     "proprietario_anterior": "revealingsuns",
     "tribo_anterior": null,
@@ -32502,85 +32558,5 @@
     "proprietario_novo": "HectoplasmA",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-21 22:11:20"
-  },
-  {
-    "coordenadas": "472|443",
-    "proprietario_anterior": "Felipeal10",
-    "tribo_anterior": "N.O",
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:09:32"
-  },
-  {
-    "coordenadas": "545|558",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mrgugu",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 22:07:28"
-  },
-  {
-    "coordenadas": "494|480",
-    "proprietario_anterior": "Produto inflamável",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:05:55"
-  },
-  {
-    "coordenadas": "379|595",
-    "proprietario_anterior": "300 Defender",
-    "tribo_anterior": "PÂNIC0",
-    "proprietario_novo": "BR 019",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 22:05:45"
-  },
-  {
-    "coordenadas": "461|600",
-    "proprietario_anterior": "AbyssalMonarch40",
-    "tribo_anterior": null,
-    "proprietario_novo": "Feelipe",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 22:05:00"
-  },
-  {
-    "coordenadas": "439|562",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Jax Teller -",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 22:04:23"
-  },
-  {
-    "coordenadas": "538|618",
-    "proprietario_anterior": "Leticia11",
-    "tribo_anterior": "PCT",
-    "proprietario_novo": "Harry Holt",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 22:03:53"
-  },
-  {
-    "coordenadas": "521|568",
-    "proprietario_anterior": "TeiqoutuX",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 22:03:34"
-  },
-  {
-    "coordenadas": "544|407",
-    "proprietario_anterior": "xixinoescuro",
-    "tribo_anterior": "SPN",
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:03:07"
-  },
-  {
-    "coordenadas": "570|496",
-    "proprietario_anterior": "wolfmetal",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:01:45"
   }
 ]
