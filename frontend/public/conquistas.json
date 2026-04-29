@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "611|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:13:22"
+  },
+  {
+    "coordenadas": "461|526",
+    "proprietario_anterior": "taresou",
+    "tribo_anterior": null,
+    "proprietario_novo": "Engwars",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 15:10:24"
+  },
+  {
+    "coordenadas": "649|407",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Maacknx",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 15:09:40"
+  },
+  {
+    "coordenadas": "635|328",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "vfreire99",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 15:09:31"
+  },
+  {
+    "coordenadas": "389|441",
+    "proprietario_anterior": "KRAKATU",
+    "tribo_anterior": "A.K",
+    "proprietario_novo": "m.fischer",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 15:08:54"
+  },
+  {
     "coordenadas": "636|450",
     "proprietario_anterior": "Ff55",
     "tribo_anterior": "VMD",
@@ -32118,77 +32158,5 @@
     "proprietario_novo": "Forneck14",
     "tribo_nova": "AVG",
     "data_hora_conquista": "2026-04-22 14:24:04"
-  },
-  {
-    "coordenadas": "552|486",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:18:54"
-  },
-  {
-    "coordenadas": "408|514",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cleber 25",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 14:18:39"
-  },
-  {
-    "coordenadas": "723|501",
-    "proprietario_anterior": "los hermanos",
-    "tribo_anterior": null,
-    "proprietario_novo": "Aeroox",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-22 14:16:15"
-  },
-  {
-    "coordenadas": "555|501",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:15:35"
-  },
-  {
-    "coordenadas": "554|500",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "joaogustavo",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:15:29"
-  },
-  {
-    "coordenadas": "407|497",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 14:15:18"
-  },
-  {
-    "coordenadas": "441|496",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 14:14:29"
-  },
-  {
-    "coordenadas": "625|512",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:12:22"
-  },
-  {
-    "coordenadas": "499|783",
-    "proprietario_anterior": "Jormungandr",
-    "tribo_anterior": "PÂNIC0",
-    "proprietario_novo": "Sekaioshi",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 14:11:26"
   }
 ]
