@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "630|605",
+    "proprietario_anterior": "Sir.Sonntag",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 16:48:06"
+  },
+  {
+    "coordenadas": "423|481",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "MayRushworth",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 16:42:37"
+  },
+  {
+    "coordenadas": "418|554",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "corpo2009",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 16:39:14"
+  },
+  {
+    "coordenadas": "237|265",
+    "proprietario_anterior": "novatosk8",
+    "tribo_anterior": "K22",
+    "proprietario_novo": "daandysk8",
+    "tribo_nova": "AVG",
+    "data_hora_conquista": "2026-04-29 16:38:18"
+  },
+  {
+    "coordenadas": "522|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Produto inflamável",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 16:38:12"
+  },
+  {
     "coordenadas": "446|444",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32102,69 +32142,5 @@
     "proprietario_novo": "RwinchesterR Jr.",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-22 15:52:19"
-  },
-  {
-    "coordenadas": "608|465",
-    "proprietario_anterior": "RiftWitch",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Asta -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 15:49:44"
-  },
-  {
-    "coordenadas": "770|628",
-    "proprietario_anterior": "FrostBarbarian",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eric C4rtman",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-22 15:49:15"
-  },
-  {
-    "coordenadas": "566|558",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "fulampa",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 15:44:54"
-  },
-  {
-    "coordenadas": "341|201",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cjda",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-22 15:44:08"
-  },
-  {
-    "coordenadas": "384|616",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jiripoca",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-22 15:43:25"
-  },
-  {
-    "coordenadas": "585|551",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ElJonjon",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 15:41:03"
-  },
-  {
-    "coordenadas": "526|380",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 15:40:27"
-  },
-  {
-    "coordenadas": "439|497",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 15:40:13"
   }
 ]
