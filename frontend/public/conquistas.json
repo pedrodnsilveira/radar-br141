@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "610|720",
+    "proprietario_anterior": "jose bezerra",
+    "tribo_anterior": null,
+    "proprietario_novo": "mandakeru",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-28 23:43:22"
+  },
+  {
+    "coordenadas": "361|368",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "TiranoMestre",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-28 23:40:35"
+  },
+  {
+    "coordenadas": "473|631",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "livioprofight",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 23:39:16"
+  },
+  {
+    "coordenadas": "470|373",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-28 23:39:13"
+  },
+  {
+    "coordenadas": "459|524",
+    "proprietario_anterior": "taresou",
+    "tribo_anterior": null,
+    "proprietario_novo": "Engwars",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 23:38:57"
+  },
+  {
+    "coordenadas": "342|573",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-28 23:38:46"
+  },
+  {
     "coordenadas": "473|303",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32446,29 +32494,5 @@
     "proprietario_novo": "LíderJoe",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 22:53:29"
-  },
-  {
-    "coordenadas": "512|433",
-    "proprietario_anterior": "Krastradreavezor",
-    "tribo_anterior": null,
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:44:24"
-  },
-  {
-    "coordenadas": "721|243",
-    "proprietario_anterior": "ORDINÁRIO",
-    "tribo_anterior": null,
-    "proprietario_novo": "MaxximosDcost",
-    "tribo_nova": "LYC",
-    "data_hora_conquista": "2026-04-21 22:41:46"
-  },
-  {
-    "coordenadas": "548|498",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:41:38"
   }
 ]
