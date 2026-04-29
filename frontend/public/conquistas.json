@@ -1,5 +1,69 @@
 [
   {
+    "coordenadas": "434|582",
+    "proprietario_anterior": "guerreiros",
+    "tribo_anterior": "DDT",
+    "proprietario_novo": "Isa Neri",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 10:19:11"
+  },
+  {
+    "coordenadas": "605|767",
+    "proprietario_anterior": "7caveira",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Enterprise",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-29 10:18:40"
+  },
+  {
+    "coordenadas": "571|603",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DMPaiva2020",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 10:16:56"
+  },
+  {
+    "coordenadas": "554|420",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 10:16:52"
+  },
+  {
+    "coordenadas": "561|746",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mestre makarov",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 10:15:54"
+  },
+  {
+    "coordenadas": "345|565",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "-Gold Of Wars-",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 10:15:50"
+  },
+  {
+    "coordenadas": "490|525",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "jacsonn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 10:15:50"
+  },
+  {
+    "coordenadas": "490|526",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "jacsonn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 10:15:36"
+  },
+  {
     "coordenadas": "505|256",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32214,45 +32278,5 @@
     "proprietario_novo": "ze11",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 09:21:27"
-  },
-  {
-    "coordenadas": "427|494",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "eluigiii",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 09:20:00"
-  },
-  {
-    "coordenadas": "475|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FelipeWizu",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 09:19:38"
-  },
-  {
-    "coordenadas": "445|453",
-    "proprietario_anterior": "Jouleacroar",
-    "tribo_anterior": null,
-    "proprietario_novo": "DeeJay",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 09:15:54"
-  },
-  {
-    "coordenadas": "737|344",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Madrugaa",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-22 09:11:16"
-  },
-  {
-    "coordenadas": "449|494",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 09:10:30"
   }
 ]
