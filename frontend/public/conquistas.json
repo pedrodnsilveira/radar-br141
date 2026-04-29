@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "387|441",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "macor6",
+    "tribo_nova": "GAL0S",
+    "data_hora_conquista": "2026-04-28 23:25:13"
+  },
+  {
+    "coordenadas": "258|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Klaus - Deus do Front",
+    "tribo_nova": "3OS",
+    "data_hora_conquista": "2026-04-28 23:24:27"
+  },
+  {
+    "coordenadas": "585|606",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ArcanjosGaMi",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-28 23:22:28"
+  },
+  {
+    "coordenadas": "475|607",
+    "proprietario_anterior": "streamlinedmu",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arthemus",
+    "tribo_nova": "RAN",
+    "data_hora_conquista": "2026-04-28 23:17:44"
+  },
+  {
     "coordenadas": "515|362",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32478,61 +32510,5 @@
     "proprietario_novo": "junior72",
     "tribo_nova": "CLT",
     "data_hora_conquista": "2026-04-21 22:30:15"
-  },
-  {
-    "coordenadas": "246|284",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rsraupp",
-    "tribo_nova": "AVG",
-    "data_hora_conquista": "2026-04-21 22:28:48"
-  },
-  {
-    "coordenadas": "490|574",
-    "proprietario_anterior": "Shorts",
-    "tribo_anterior": "FN",
-    "proprietario_novo": "Shorts",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 22:28:01"
-  },
-  {
-    "coordenadas": "587|729",
-    "proprietario_anterior": "AS Filho",
-    "tribo_anterior": "GCa",
-    "proprietario_novo": "blacksands",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 22:24:36"
-  },
-  {
-    "coordenadas": "386|385",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HectoplasmA",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 22:23:20"
-  },
-  {
-    "coordenadas": "392|383",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HectoplasmA",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 22:22:50"
-  },
-  {
-    "coordenadas": "429|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "MayRushworth",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 22:20:55"
-  },
-  {
-    "coordenadas": "355|224",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Convidado002776",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-21 22:20:21"
   }
 ]
