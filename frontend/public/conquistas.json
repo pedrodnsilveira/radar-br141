@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "473|303",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "SUPER PATO",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-28 23:36:29"
+  },
+  {
     "coordenadas": "387|441",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32462,53 +32470,5 @@
     "proprietario_novo": "dlslopes",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 22:41:38"
-  },
-  {
-    "coordenadas": "499|400",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "mauriciowederson21",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-21 22:39:41"
-  },
-  {
-    "coordenadas": "508|451",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FelipeLucas32",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:35:17"
-  },
-  {
-    "coordenadas": "546|483",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 22:35:08"
-  },
-  {
-    "coordenadas": "629|565",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ioriaxe",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-21 22:33:37"
-  },
-  {
-    "coordenadas": "423|513",
-    "proprietario_anterior": "ZigreaVoid",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fanntasy",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 22:30:43"
-  },
-  {
-    "coordenadas": "613|330",
-    "proprietario_anterior": "Imperador Jadler",
-    "tribo_anterior": "CLT.",
-    "proprietario_novo": "junior72",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 22:30:15"
   }
 ]
