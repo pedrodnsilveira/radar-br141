@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "360|567",
+    "proprietario_anterior": "boliboli",
+    "tribo_anterior": null,
+    "proprietario_novo": "lord will",
+    "tribo_nova": "SCA",
+    "data_hora_conquista": "2026-04-29 11:35:47"
+  },
+  {
+    "coordenadas": "423|635",
+    "proprietario_anterior": "DreadLord",
+    "tribo_anterior": null,
+    "proprietario_novo": "Dura Teston",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 11:34:55"
+  },
+  {
+    "coordenadas": "347|788",
+    "proprietario_anterior": "AetherialVanguarD74",
+    "tribo_anterior": null,
+    "proprietario_novo": "bioforce",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-29 11:34:00"
+  },
+  {
+    "coordenadas": "526|639",
+    "proprietario_anterior": "WillGrelvo",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 11:32:40"
+  },
+  {
+    "coordenadas": "526|639",
+    "proprietario_anterior": "WBPinto",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "WillGrelvo",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 11:31:23"
+  },
+  {
+    "coordenadas": "526|639",
+    "proprietario_anterior": "WBPinto",
+    "tribo_anterior": "FN",
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 11:29:17"
+  },
+  {
     "coordenadas": "456|380",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32102,93 +32150,5 @@
     "proprietario_novo": "design.inthedark",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 10:40:03"
-  },
-  {
-    "coordenadas": "188|559",
-    "proprietario_anterior": "xtequila",
-    "tribo_anterior": "AUS",
-    "proprietario_novo": "Moleque Business.",
-    "tribo_nova": "-3OS-",
-    "data_hora_conquista": "2026-04-22 10:35:39"
-  },
-  {
-    "coordenadas": "426|493",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:34:28"
-  },
-  {
-    "coordenadas": "435|497",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:34:08"
-  },
-  {
-    "coordenadas": "438|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:33:53"
-  },
-  {
-    "coordenadas": "442|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:33:34"
-  },
-  {
-    "coordenadas": "467|474",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DeeJay",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:33:25"
-  },
-  {
-    "coordenadas": "591|467",
-    "proprietario_anterior": "Lord Fantasma",
-    "tribo_anterior": null,
-    "proprietario_novo": "Kami",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 10:33:14"
-  },
-  {
-    "coordenadas": "418|351",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Padback420",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 10:33:09"
-  },
-  {
-    "coordenadas": "377|364",
-    "proprietario_anterior": "Emmanuel232",
-    "tribo_anterior": null,
-    "proprietario_novo": "WarleyVN",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 10:32:13"
-  },
-  {
-    "coordenadas": "449|492",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:32:01"
-  },
-  {
-    "coordenadas": "445|488",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:31:28"
   }
 ]
