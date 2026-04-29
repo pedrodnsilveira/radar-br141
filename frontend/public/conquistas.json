@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "631|608",
+    "proprietario_anterior": "luizusa",
+    "tribo_anterior": null,
+    "proprietario_novo": "thiago tsc",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 13:53:36"
+  },
+  {
+    "coordenadas": "251|605",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jean jorge",
+    "tribo_nova": "-3OS-",
+    "data_hora_conquista": "2026-04-29 13:51:23"
+  },
+  {
+    "coordenadas": "476|349",
+    "proprietario_anterior": "frequentaerop",
+    "tribo_anterior": "SBC",
+    "proprietario_novo": "Boca de Fumo Portão",
+    "tribo_nova": "FRONT",
+    "data_hora_conquista": "2026-04-29 13:46:05"
+  },
+  {
     "coordenadas": "519|522",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32126,53 +32150,5 @@
     "proprietario_novo": "azanutox",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 13:02:11"
-  },
-  {
-    "coordenadas": "556|657",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 12:59:07"
-  },
-  {
-    "coordenadas": "497|480",
-    "proprietario_anterior": "Produto inflamável",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 12:54:57"
-  },
-  {
-    "coordenadas": "447|498",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 12:54:08"
-  },
-  {
-    "coordenadas": "288|567",
-    "proprietario_anterior": "ajicy",
-    "tribo_anterior": "PFMVL",
-    "proprietario_novo": "-FortreK-",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-22 12:53:04"
-  },
-  {
-    "coordenadas": "341|308",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rockman X",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 12:52:04"
-  },
-  {
-    "coordenadas": "385|645",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "campanato",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-22 12:51:18"
   }
 ]
