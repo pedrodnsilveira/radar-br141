@@ -1,5 +1,61 @@
 [
   {
+    "coordenadas": "351|786",
+    "proprietario_anterior": "T3ratus",
+    "tribo_anterior": "ACAD",
+    "proprietario_novo": "Guui97",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-29 01:56:54"
+  },
+  {
+    "coordenadas": "514|438",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 01:56:37"
+  },
+  {
+    "coordenadas": "493|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 01:52:12"
+  },
+  {
+    "coordenadas": "510|433",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 01:51:29"
+  },
+  {
+    "coordenadas": "511|445",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 01:50:09"
+  },
+  {
+    "coordenadas": "516|431",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 01:49:23"
+  },
+  {
+    "coordenadas": "434|708",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Jhonesx",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 01:48:39"
+  },
+  {
     "coordenadas": "556|260",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32214,37 +32270,5 @@
     "proprietario_novo": "VicenteG",
     "tribo_nova": ".RIP.",
     "data_hora_conquista": "2026-04-22 01:00:21"
-  },
-  {
-    "coordenadas": "520|635",
-    "proprietario_anterior": "Torricelli",
-    "tribo_anterior": "Dubar",
-    "proprietario_novo": "Corta pra mim",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 00:59:12"
-  },
-  {
-    "coordenadas": "501|496",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 00:58:22"
-  },
-  {
-    "coordenadas": "421|494",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "eluigiii",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 00:51:45"
-  },
-  {
-    "coordenadas": "537|605",
-    "proprietario_anterior": "InfernalElementalist",
-    "tribo_anterior": null,
-    "proprietario_novo": "Kopp",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 00:50:25"
   }
 ]
