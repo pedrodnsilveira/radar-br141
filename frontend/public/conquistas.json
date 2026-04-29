@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "426|528",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "noha T.U.E",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 08:16:05"
+  },
+  {
+    "coordenadas": "431|540",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Nykon",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 08:08:19"
+  },
+  {
     "coordenadas": "554|570",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32222,45 +32238,5 @@
     "proprietario_novo": "A N O N Y M O U S",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 07:21:00"
-  },
-  {
-    "coordenadas": "143|580",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fofinhos",
-    "tribo_nova": "CR4CK",
-    "data_hora_conquista": "2026-04-22 07:16:58"
-  },
-  {
-    "coordenadas": "665|403",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Amarela",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-22 07:16:07"
-  },
-  {
-    "coordenadas": "684|522",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "UzeBR",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 07:15:32"
-  },
-  {
-    "coordenadas": "768|616",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "tenebrozu",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-22 07:12:42"
-  },
-  {
-    "coordenadas": "782|361",
-    "proprietario_anterior": "euromario",
-    "tribo_anterior": null,
-    "proprietario_novo": "Crazy Arrows",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-22 07:12:40"
   }
 ]
