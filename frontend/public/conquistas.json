@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "519|522",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saiyajin",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 13:44:21"
+  },
+  {
+    "coordenadas": "528|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:43:31"
+  },
+  {
     "coordenadas": "509|544",
     "proprietario_anterior": "VaillantM",
     "tribo_anterior": "DuMau",
@@ -32158,37 +32174,5 @@
     "proprietario_novo": "campanato",
     "tribo_nova": "PÂNIC0",
     "data_hora_conquista": "2026-04-22 12:51:18"
-  },
-  {
-    "coordenadas": "627|384",
-    "proprietario_anterior": "senhorgustavogtv1000",
-    "tribo_anterior": null,
-    "proprietario_novo": "gustavo .cn",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-22 12:48:12"
-  },
-  {
-    "coordenadas": "593|453",
-    "proprietario_anterior": "samoht aivilo",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rafão",
-    "tribo_nova": "DuMau",
-    "data_hora_conquista": "2026-04-22 12:46:25"
-  },
-  {
-    "coordenadas": "500|664",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "LeaoXP",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 12:45:42"
-  },
-  {
-    "coordenadas": "452|427",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fabiano Moura",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 12:43:34"
   }
 ]
