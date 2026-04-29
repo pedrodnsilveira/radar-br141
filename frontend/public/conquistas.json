@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "456|380",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 11:26:19"
+  },
+  {
+    "coordenadas": "157|480",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Douglas-",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-29 11:21:04"
+  },
+  {
+    "coordenadas": "461|477",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 11:18:54"
+  },
+  {
     "coordenadas": "601|462",
     "proprietario_anterior": "Rafão",
     "tribo_anterior": "DuMau",
@@ -32166,21 +32190,5 @@
     "proprietario_novo": "ze11",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 10:31:28"
-  },
-  {
-    "coordenadas": "463|487",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "FelipeWizu",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 10:28:57"
-  },
-  {
-    "coordenadas": "632|262",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "NUMBNESS",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-22 10:23:27"
   }
 ]
