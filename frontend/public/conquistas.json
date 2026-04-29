@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "476|381",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 00:31:46"
+  },
+  {
+    "coordenadas": "435|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ze11",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 00:27:03"
+  },
+  {
+    "coordenadas": "455|378",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ICEDARK WAR",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 00:25:02"
+  },
+  {
     "coordenadas": "608|269",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32470,61 +32494,5 @@
     "proprietario_novo": "accelerator",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 23:41:56"
-  },
-  {
-    "coordenadas": "698|254",
-    "proprietario_anterior": "Sr.Nell4s",
-    "tribo_anterior": "MLS",
-    "proprietario_novo": "BentoAraujo",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-21 23:39:01"
-  },
-  {
-    "coordenadas": "522|567",
-    "proprietario_anterior": "Eduhahaha",
-    "tribo_anterior": null,
-    "proprietario_novo": "mateusiglesias",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 23:38:21"
-  },
-  {
-    "coordenadas": "560|491",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 23:36:40"
-  },
-  {
-    "coordenadas": "640|511",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "vitorpereira",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-21 23:36:13"
-  },
-  {
-    "coordenadas": "493|499",
-    "proprietario_anterior": "ytalo.nunes",
-    "tribo_anterior": "DuMau",
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 23:34:47"
-  },
-  {
-    "coordenadas": "537|246",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Matdelta",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-21 23:32:57"
-  },
-  {
-    "coordenadas": "495|523",
-    "proprietario_anterior": "Sr ruffles",
-    "tribo_anterior": null,
-    "proprietario_novo": "Saiyajin",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 23:30:02"
   }
 ]
