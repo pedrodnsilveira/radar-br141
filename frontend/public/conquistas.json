@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "677|410",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "I am WALL-E",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 13:23:32"
+  },
+  {
+    "coordenadas": "611|430",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:22:54"
+  },
+  {
+    "coordenadas": "537|491",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "swylle7",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:19:49"
+  },
+  {
+    "coordenadas": "640|522",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:16:07"
+  },
+  {
     "coordenadas": "486|428",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32174,37 +32206,5 @@
     "proprietario_novo": "Yandurlacher",
     "tribo_nova": "[A]",
     "data_hora_conquista": "2026-04-22 12:30:30"
-  },
-  {
-    "coordenadas": "545|603",
-    "proprietario_anterior": "ELECTRICGUNDAM505",
-    "tribo_anterior": null,
-    "proprietario_novo": "juninhounderground",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 12:24:29"
-  },
-  {
-    "coordenadas": "497|480",
-    "proprietario_anterior": "King.Akirael",
-    "tribo_anterior": "D.G.",
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 12:24:19"
-  },
-  {
-    "coordenadas": "487|391",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Perry",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-22 12:23:58"
-  },
-  {
-    "coordenadas": "246|286",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rsraupp",
-    "tribo_nova": "AVG",
-    "data_hora_conquista": "2026-04-22 12:23:39"
   }
 ]
