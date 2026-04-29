@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "486|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:14:53"
+  },
+  {
+    "coordenadas": "409|554",
+    "proprietario_anterior": "Nikiar",
+    "tribo_anterior": null,
+    "proprietario_novo": "Haulbrosley",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 13:13:51"
+  },
+  {
+    "coordenadas": "639|527",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 13:13:31"
+  },
+  {
+    "coordenadas": "404|509",
+    "proprietario_anterior": "Yenor",
+    "tribo_anterior": null,
+    "proprietario_novo": "Negomel",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 13:09:57"
+  },
+  {
+    "coordenadas": "616|620",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "juninhounderground",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 13:05:45"
+  },
+  {
+    "coordenadas": "566|617",
+    "proprietario_anterior": "Navarre1967",
+    "tribo_anterior": "Fugo",
+    "proprietario_novo": "Zumbi67",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 13:05:32"
+  },
+  {
     "coordenadas": "511|687",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32158,29 +32206,5 @@
     "proprietario_novo": "Rsraupp",
     "tribo_nova": "AVG",
     "data_hora_conquista": "2026-04-22 12:23:39"
-  },
-  {
-    "coordenadas": "337|762",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "amixel",
-    "tribo_nova": "O4F",
-    "data_hora_conquista": "2026-04-22 12:17:01"
-  },
-  {
-    "coordenadas": "806|356",
-    "proprietario_anterior": "GarotoSEXY",
-    "tribo_anterior": null,
-    "proprietario_novo": "robsonz",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-22 12:14:01"
-  },
-  {
-    "coordenadas": "516|226",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "chelesmoto",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-22 12:10:03"
   }
 ]
