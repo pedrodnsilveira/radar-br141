@@ -1,5 +1,101 @@
 [
   {
+    "coordenadas": "489|526",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 09:06:10"
+  },
+  {
+    "coordenadas": "526|639",
+    "proprietario_anterior": "Marcospai",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 09:05:11"
+  },
+  {
+    "coordenadas": "524|642",
+    "proprietario_anterior": "kiyoshiixd",
+    "tribo_anterior": "[A]",
+    "proprietario_novo": "WBPinto",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 09:05:11"
+  },
+  {
+    "coordenadas": "489|525",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 09:05:02"
+  },
+  {
+    "coordenadas": "334|816",
+    "proprietario_anterior": "Bonaldi",
+    "tribo_anterior": null,
+    "proprietario_novo": "FelpsBarcelos",
+    "tribo_nova": "NoJob",
+    "data_hora_conquista": "2026-04-29 09:05:01"
+  },
+  {
+    "coordenadas": "596|459",
+    "proprietario_anterior": "Rafão",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "Peja.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 09:03:46"
+  },
+  {
+    "coordenadas": "641|720",
+    "proprietario_anterior": "Gengizcan",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Bear",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 09:01:05"
+  },
+  {
+    "coordenadas": "781|624",
+    "proprietario_anterior": "Alpha004",
+    "tribo_anterior": null,
+    "proprietario_novo": "Prince EpiczZ x Kolore",
+    "tribo_nova": "EIRAS",
+    "data_hora_conquista": "2026-04-29 09:00:22"
+  },
+  {
+    "coordenadas": "603|701",
+    "proprietario_anterior": "motoboy47",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "bristleback",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 09:00:13"
+  },
+  {
+    "coordenadas": "415|463",
+    "proprietario_anterior": "PhantomGundaM371",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 09:00:12"
+  },
+  {
+    "coordenadas": "668|492",
+    "proprietario_anterior": "csjran",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "RwinchesterR Jr.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 09:00:01"
+  },
+  {
+    "coordenadas": "548|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 08:58:26"
+  },
+  {
     "coordenadas": "553|633",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32254,21 +32350,5 @@
     "proprietario_novo": "Rogoski123",
     "tribo_nova": "[NG]",
     "data_hora_conquista": "2026-04-22 08:18:16"
-  },
-  {
-    "coordenadas": "621|505",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 08:07:42"
-  },
-  {
-    "coordenadas": "553|577",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Odarnoc",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 08:06:27"
   }
 ]
