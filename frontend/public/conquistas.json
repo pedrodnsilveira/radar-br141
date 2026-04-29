@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "626|428",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VicenteG",
+    "tribo_nova": ".RIP.",
+    "data_hora_conquista": "2026-04-29 08:27:28"
+  },
+  {
+    "coordenadas": "544|463",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ZekaUruburgeR",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 08:27:26"
+  },
+  {
+    "coordenadas": "649|744",
+    "proprietario_anterior": "Mydan",
+    "tribo_anterior": "GC",
+    "proprietario_novo": "Milanisss",
+    "tribo_nova": "PÂNICO",
+    "data_hora_conquista": "2026-04-29 08:24:45"
+  },
+  {
     "coordenadas": "426|528",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32214,29 +32238,5 @@
     "proprietario_novo": "Gustavo Lima",
     "tribo_nova": "TRTN",
     "data_hora_conquista": "2026-04-22 07:32:11"
-  },
-  {
-    "coordenadas": "340|653",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "xRichard56",
-    "tribo_nova": "PÂNIC0",
-    "data_hora_conquista": "2026-04-22 07:23:44"
-  },
-  {
-    "coordenadas": "533|555",
-    "proprietario_anterior": "pvitormg2",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bjorn Ironside",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 07:21:31"
-  },
-  {
-    "coordenadas": "531|591",
-    "proprietario_anterior": "Proucofriowizor2484",
-    "tribo_anterior": null,
-    "proprietario_novo": "A N O N Y M O U S",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 07:21:00"
   }
 ]
