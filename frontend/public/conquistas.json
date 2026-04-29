@@ -1,5 +1,45 @@
 [
   {
+    "coordenadas": "374|367",
+    "proprietario_anterior": "Emmanuel232",
+    "tribo_anterior": null,
+    "proprietario_novo": "WarleyVN",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 16:58:46"
+  },
+  {
+    "coordenadas": "488|525",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "trokaforte",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 16:58:28"
+  },
+  {
+    "coordenadas": "528|581",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mateusiglesias",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 16:56:07"
+  },
+  {
+    "coordenadas": "339|577",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "BBgzaNN",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 16:51:17"
+  },
+  {
+    "coordenadas": "409|823",
+    "proprietario_anterior": "sandrord",
+    "tribo_anterior": "O4F",
+    "proprietario_novo": "Savilio",
+    "tribo_nova": "DRUNKS",
+    "data_hora_conquista": "2026-04-29 16:49:46"
+  },
+  {
     "coordenadas": "630|605",
     "proprietario_anterior": "Sir.Sonntag",
     "tribo_anterior": null,
@@ -32126,21 +32166,5 @@
     "proprietario_novo": "Fandangos100",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 16:00:40"
-  },
-  {
-    "coordenadas": "692|477",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Spartacus",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 15:56:51"
-  },
-  {
-    "coordenadas": "655|505",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "RwinchesterR Jr.",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 15:52:19"
   }
 ]
