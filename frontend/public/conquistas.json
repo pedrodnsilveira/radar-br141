@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "521|585",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "mateusiglesias",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 16:04:08"
+  },
+  {
+    "coordenadas": "351|461",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Winner of Game",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 16:03:30"
+  },
+  {
+    "coordenadas": "488|438",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 16:01:19"
+  },
+  {
+    "coordenadas": "489|439",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 16:01:14"
+  },
+  {
+    "coordenadas": "492|410",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 16:00:39"
+  },
+  {
+    "coordenadas": "520|374",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By Brenno -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:57:26"
+  },
+  {
     "coordenadas": "542|476",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32118,45 +32166,5 @@
     "proprietario_novo": "liicious",
     "tribo_nova": "FRONT",
     "data_hora_conquista": "2026-04-22 15:13:03"
-  },
-  {
-    "coordenadas": "769|631",
-    "proprietario_anterior": "cov3ro",
-    "tribo_anterior": null,
-    "proprietario_novo": "Eric C4rtman",
-    "tribo_nova": "ACID",
-    "data_hora_conquista": "2026-04-22 15:05:57"
-  },
-  {
-    "coordenadas": "819|491",
-    "proprietario_anterior": "dragonbol",
-    "tribo_anterior": null,
-    "proprietario_novo": "Cheleu",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-22 15:04:21"
-  },
-  {
-    "coordenadas": "583|186",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jlguerer",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-22 15:03:51"
-  },
-  {
-    "coordenadas": "417|310",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "STONEHENGE",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-22 15:03:12"
-  },
-  {
-    "coordenadas": "506|655",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "DUDYss",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 15:02:27"
   }
 ]
