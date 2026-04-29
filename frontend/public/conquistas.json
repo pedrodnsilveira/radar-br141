@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "401|336",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "VTNeo",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 06:22:01"
+  },
+  {
+    "coordenadas": "435|548",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JoKer by biGODe",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 06:20:31"
+  },
+  {
+    "coordenadas": "432|270",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Zecahrs",
+    "tribo_nova": "D23",
+    "data_hora_conquista": "2026-04-29 06:17:52"
+  },
+  {
+    "coordenadas": "621|478",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mat-Legend",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 06:17:22"
+  },
+  {
     "coordenadas": "398|260",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32182,29 +32214,5 @@
     "proprietario_novo": "MiniSix",
     "tribo_nova": "N.O",
     "data_hora_conquista": "2026-04-22 05:34:59"
-  },
-  {
-    "coordenadas": "604|594",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "thiago tsc",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-22 05:29:08"
-  },
-  {
-    "coordenadas": "620|520",
-    "proprietario_anterior": "cassioAres",
-    "tribo_anterior": null,
-    "proprietario_novo": "Carta na Manga",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 05:28:07"
-  },
-  {
-    "coordenadas": "469|620",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 05:23:32"
   }
 ]
