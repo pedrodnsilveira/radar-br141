@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "393|386",
+    "proprietario_anterior": "draxler",
+    "tribo_anterior": "Tchu",
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 01:34:07"
+  },
+  {
     "coordenadas": "472|577",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32238,29 +32246,5 @@
     "proprietario_novo": "shhz",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 00:41:06"
-  },
-  {
-    "coordenadas": "249|515",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dududdf",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-22 00:38:10"
-  },
-  {
-    "coordenadas": "687|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Lord Styfler",
-    "tribo_nova": "CLT",
-    "data_hora_conquista": "2026-04-22 00:35:26"
-  },
-  {
-    "coordenadas": "551|485",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 00:34:23"
   }
 ]
