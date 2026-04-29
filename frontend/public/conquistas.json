@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "508|531",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "jacsonn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 00:52:32"
+  },
+  {
+    "coordenadas": "506|470",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": ".Akuma.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 00:51:52"
+  },
+  {
+    "coordenadas": "489|524",
+    "proprietario_anterior": "Cap. Nascimento",
+    "tribo_anterior": null,
+    "proprietario_novo": "Saiyajin",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 00:49:10"
+  },
+  {
     "coordenadas": "166|371",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32398,85 +32422,5 @@
     "proprietario_novo": "atiq hamuta",
     "tribo_nova": "MARMAS",
     "data_hora_conquista": "2026-04-22 00:02:51"
-  },
-  {
-    "coordenadas": "321|704",
-    "proprietario_anterior": "Black Horse",
-    "tribo_anterior": "PÂNICO",
-    "proprietario_novo": "Black Horse",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 23:59:16"
-  },
-  {
-    "coordenadas": "321|704",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Black Horse",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-21 23:59:14"
-  },
-  {
-    "coordenadas": "518|632",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ArcanjosGaMi",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 23:57:57"
-  },
-  {
-    "coordenadas": "597|421",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Iraki -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 23:57:44"
-  },
-  {
-    "coordenadas": "437|606",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "wesleyv6",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-21 23:56:44"
-  },
-  {
-    "coordenadas": "548|441",
-    "proprietario_anterior": "LUCASREIS2365",
-    "tribo_anterior": "CASA",
-    "proprietario_novo": "Marcelo Maeda",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-21 23:56:32"
-  },
-  {
-    "coordenadas": "379|366",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Emmanuel232",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 23:55:08"
-  },
-  {
-    "coordenadas": "472|443",
-    "proprietario_anterior": "PedroGarcia17",
-    "tribo_anterior": "RIP",
-    "proprietario_novo": "g123ui",
-    "tribo_nova": "GAL0S",
-    "data_hora_conquista": "2026-04-21 23:55:04"
-  },
-  {
-    "coordenadas": "413|390",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "WiNHarD",
-    "tribo_nova": null,
-    "data_hora_conquista": "2026-04-21 23:53:45"
-  },
-  {
-    "coordenadas": "642|511",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "vitorpereira",
-    "tribo_nova": ".RIP.",
-    "data_hora_conquista": "2026-04-21 23:51:21"
   }
 ]
