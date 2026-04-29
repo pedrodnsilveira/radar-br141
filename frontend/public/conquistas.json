@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "500|356",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 21:58:07"
+  },
+  {
+    "coordenadas": "852|452",
+    "proprietario_anterior": "23savage",
+    "tribo_anterior": "[NG]",
+    "proprietario_novo": "ShadowNx",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-28 21:58:00"
+  },
+  {
+    "coordenadas": "525|418",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Cavera07",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 21:54:24"
+  },
+  {
+    "coordenadas": "477|538",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "JJGomesJr",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 21:52:40"
+  },
+  {
     "coordenadas": "529|522",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32598,45 +32630,5 @@
     "proprietario_novo": "azanutox",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-21 21:00:55"
-  },
-  {
-    "coordenadas": "494|480",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Produto inflamável",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 20:55:19"
-  },
-  {
-    "coordenadas": "673|229",
-    "proprietario_anterior": "viceroy",
-    "tribo_anterior": null,
-    "proprietario_novo": "...Dark...",
-    "tribo_nova": "CLT.",
-    "data_hora_conquista": "2026-04-21 20:54:50"
-  },
-  {
-    "coordenadas": "448|621",
-    "proprietario_anterior": "Miithow",
-    "tribo_anterior": null,
-    "proprietario_novo": "jadson1",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 20:53:19"
-  },
-  {
-    "coordenadas": "494|617",
-    "proprietario_anterior": "Chemical",
-    "tribo_anterior": "FN",
-    "proprietario_novo": "Tia da Merenda",
-    "tribo_nova": "[A]",
-    "data_hora_conquista": "2026-04-21 20:50:40"
-  },
-  {
-    "coordenadas": "550|486",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "dlslopes",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 20:50:24"
   }
 ]
