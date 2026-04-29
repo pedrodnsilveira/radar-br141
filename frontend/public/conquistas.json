@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "626|835",
+    "proprietario_anterior": "airlessopal",
+    "tribo_anterior": null,
+    "proprietario_novo": "Kayque22",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-29 03:27:25"
+  },
+  {
+    "coordenadas": "721|574",
+    "proprietario_anterior": "kaiapo",
+    "tribo_anterior": null,
+    "proprietario_novo": "MatheusKiroBr",
+    "tribo_nova": "RG",
+    "data_hora_conquista": "2026-04-29 03:27:06"
+  },
+  {
+    "coordenadas": "509|184",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "moral",
+    "tribo_nova": "NP",
+    "data_hora_conquista": "2026-04-29 03:22:28"
+  },
+  {
     "coordenadas": "485|480",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32182,29 +32206,5 @@
     "proprietario_novo": "vinnyale",
     "tribo_nova": "FRONT",
     "data_hora_conquista": "2026-04-22 02:37:18"
-  },
-  {
-    "coordenadas": "282|676",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Juca Chavess",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 02:29:01"
-  },
-  {
-    "coordenadas": "235|536",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HAYLANDER.S45",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-22 02:27:48"
-  },
-  {
-    "coordenadas": "433|536",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Nykon",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 02:26:33"
   }
 ]
