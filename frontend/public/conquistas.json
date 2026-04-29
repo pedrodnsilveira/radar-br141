@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "441|379",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Pankadoo",
+    "tribo_nova": "KMKZ",
+    "data_hora_conquista": "2026-04-29 02:34:15"
+  },
+  {
+    "coordenadas": "490|435",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 02:29:36"
+  },
+  {
+    "coordenadas": "610|421",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 02:28:44"
+  },
+  {
+    "coordenadas": "610|422",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 02:28:26"
+  },
+  {
     "coordenadas": "510|443",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32158,45 +32190,5 @@
     "proprietario_novo": "Pequeno Big See",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 01:45:42"
-  },
-  {
-    "coordenadas": "599|414",
-    "proprietario_anterior": "Pior pesadelo",
-    "tribo_anterior": "JK",
-    "proprietario_novo": "FelipeVicente",
-    "tribo_nova": "CASA",
-    "data_hora_conquista": "2026-04-22 01:38:53"
-  },
-  {
-    "coordenadas": "497|375",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "gurilandopo",
-    "tribo_nova": "FRONT",
-    "data_hora_conquista": "2026-04-22 01:36:38"
-  },
-  {
-    "coordenadas": "610|497",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Mat-Legend",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 01:32:53"
-  },
-  {
-    "coordenadas": "444|364",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "digoamil",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 01:32:19"
-  },
-  {
-    "coordenadas": "390|716",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Fazenda B.G",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 01:31:13"
   }
 ]
