@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "398|260",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Ferpa17",
+    "tribo_nova": "23",
+    "data_hora_conquista": "2026-04-29 06:11:55"
+  },
+  {
+    "coordenadas": "468|618",
+    "proprietario_anterior": "primdetail",
+    "tribo_anterior": null,
+    "proprietario_novo": "Arthemus",
+    "tribo_nova": "RAN",
+    "data_hora_conquista": "2026-04-29 06:09:45"
+  },
+  {
+    "coordenadas": "671|503",
+    "proprietario_anterior": "csjran",
+    "tribo_anterior": "DuMau",
+    "proprietario_novo": "RwinchesterR Jr.",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 06:00:00"
+  },
+  {
     "coordenadas": "648|520",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32182,77 +32206,5 @@
     "proprietario_novo": "livioprofight",
     "tribo_nova": "FN!",
     "data_hora_conquista": "2026-04-22 05:23:32"
-  },
-  {
-    "coordenadas": "485|678",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "LeeoziNNsz",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 05:16:11"
-  },
-  {
-    "coordenadas": "843|558",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "pijon",
-    "tribo_nova": "VT",
-    "data_hora_conquista": "2026-04-22 05:15:13"
-  },
-  {
-    "coordenadas": "366|440",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- Bitencourt",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 05:14:52"
-  },
-  {
-    "coordenadas": "468|624",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "livioprofight",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 05:11:10"
-  },
-  {
-    "coordenadas": "526|484",
-    "proprietario_anterior": "EureK",
-    "tribo_anterior": ".RIP.",
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 05:10:40"
-  },
-  {
-    "coordenadas": "459|453",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 05:07:39"
-  },
-  {
-    "coordenadas": "499|223",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Vozen",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-22 05:03:48"
-  },
-  {
-    "coordenadas": "408|632",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "jstrois",
-    "tribo_nova": "PÂNICO",
-    "data_hora_conquista": "2026-04-22 05:03:39"
-  },
-  {
-    "coordenadas": "336|582",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "-Gold Of Wars-",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 05:02:33"
   }
 ]
