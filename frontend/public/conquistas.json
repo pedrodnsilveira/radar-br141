@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "470|400",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Sr Fabiano",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 00:18:54"
+  },
+  {
+    "coordenadas": "832|368",
+    "proprietario_anterior": "aggravatedmom",
+    "tribo_anterior": null,
+    "proprietario_novo": "ImBlack?",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-29 00:18:37"
+  },
+  {
+    "coordenadas": "175|401",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "leoleonardo1998",
+    "tribo_nova": null,
+    "data_hora_conquista": "2026-04-29 00:18:12"
+  },
+  {
+    "coordenadas": "462|459",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "GhostDog66",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 00:18:10"
+  },
+  {
+    "coordenadas": "433|535",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "noha T.U.E",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 00:17:07"
+  },
+  {
+    "coordenadas": "535|643",
+    "proprietario_anterior": "ToleranciaZERO",
+    "tribo_anterior": null,
+    "proprietario_novo": "Suets",
+    "tribo_nova": "[A]",
+    "data_hora_conquista": "2026-04-29 00:15:57"
+  },
+  {
     "coordenadas": "608|358",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32462,29 +32510,5 @@
     "proprietario_novo": "knight War III",
     "tribo_nova": "KFC",
     "data_hora_conquista": "2026-04-21 23:20:36"
-  },
-  {
-    "coordenadas": "253|406",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "diegofagundes",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-21 23:19:22"
-  },
-  {
-    "coordenadas": "548|453",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "GotChuNowRX",
-    "tribo_nova": "MMCV",
-    "data_hora_conquista": "2026-04-21 23:12:42"
-  },
-  {
-    "coordenadas": "524|494",
-    "proprietario_anterior": "tp-hmartins",
-    "tribo_anterior": null,
-    "proprietario_novo": "accelerator",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 23:10:23"
   }
 ]
