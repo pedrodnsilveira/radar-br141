@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "430|533",
+    "proprietario_anterior": "Galo Doido 1908",
+    "tribo_anterior": "RDV",
+    "proprietario_novo": "- O Westbrook -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 08:37:10"
+  },
+  {
+    "coordenadas": "709|677",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Royal Sunrise",
+    "tribo_nova": "GC",
+    "data_hora_conquista": "2026-04-29 08:31:17"
+  },
+  {
     "coordenadas": "626|428",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32230,13 +32246,5 @@
     "proprietario_novo": "O Síndico",
     "tribo_nova": "GALOS",
     "data_hora_conquista": "2026-04-22 07:40:59"
-  },
-  {
-    "coordenadas": "719|409",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Gustavo Lima",
-    "tribo_nova": "TRTN",
-    "data_hora_conquista": "2026-04-22 07:32:11"
   }
 ]
