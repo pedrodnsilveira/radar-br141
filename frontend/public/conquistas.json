@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "606|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "7Copa",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 14:14:02"
+  },
+  {
+    "coordenadas": "542|785",
+    "proprietario_anterior": "Roger Betio",
+    "tribo_anterior": "FENIX",
+    "proprietario_novo": "Jormungandr",
+    "tribo_nova": "PÂNIC0",
+    "data_hora_conquista": "2026-04-29 14:11:58"
+  },
+  {
+    "coordenadas": "441|592",
+    "proprietario_anterior": "RadiantSentineL897",
+    "tribo_anterior": null,
+    "proprietario_novo": "wesleyv6",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 14:09:56"
+  },
+  {
     "coordenadas": "649|496",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32190,13 +32214,5 @@
     "proprietario_novo": "STIME s",
     "tribo_nova": "PÂNIC0",
     "data_hora_conquista": "2026-04-22 13:24:37"
-  },
-  {
-    "coordenadas": "347|193",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "cjda",
-    "tribo_nova": "D23",
-    "data_hora_conquista": "2026-04-22 13:13:01"
   }
 ]
