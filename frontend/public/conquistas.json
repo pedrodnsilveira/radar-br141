@@ -1,5 +1,37 @@
 [
   {
+    "coordenadas": "323|410",
+    "proprietario_anterior": "maikonav",
+    "tribo_anterior": null,
+    "proprietario_novo": "Budlua",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-29 05:12:44"
+  },
+  {
+    "coordenadas": "394|390",
+    "proprietario_anterior": "draxler",
+    "tribo_anterior": "Tchu",
+    "proprietario_novo": "NumChora.",
+    "tribo_nova": "GALOS",
+    "data_hora_conquista": "2026-04-29 05:12:18"
+  },
+  {
+    "coordenadas": "433|584",
+    "proprietario_anterior": "NobleTitan635",
+    "tribo_anterior": null,
+    "proprietario_novo": "Isa Neri",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 05:10:12"
+  },
+  {
+    "coordenadas": "647|290",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "harger paul",
+    "tribo_nova": "CLT",
+    "data_hora_conquista": "2026-04-29 05:07:40"
+  },
+  {
     "coordenadas": "392|384",
     "proprietario_anterior": "draxler",
     "tribo_anterior": "Tchu",
@@ -32230,13 +32262,5 @@
     "proprietario_novo": "Lelecol",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-22 04:23:34"
-  },
-  {
-    "coordenadas": "523|407",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 04:17:53"
   }
 ]
