@@ -1,5 +1,13 @@
 [
   {
+    "coordenadas": "583|543",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "ElJonjon",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:44:41"
+  },
+  {
     "coordenadas": "515|464",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32182,29 +32190,5 @@
     "proprietario_novo": "Mr. JimmyS",
     "tribo_nova": "FN",
     "data_hora_conquista": "2026-04-22 14:50:39"
-  },
-  {
-    "coordenadas": "642|748",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "carloscesar",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-22 14:46:33"
-  },
-  {
-    "coordenadas": "467|428",
-    "proprietario_anterior": "Bolsonaro 26",
-    "tribo_anterior": "A.K",
-    "proprietario_novo": "PedroGarcia17",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:46:18"
-  },
-  {
-    "coordenadas": "674|673",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Guga Ajs",
-    "tribo_nova": "GC",
-    "data_hora_conquista": "2026-04-22 14:40:07"
   }
 ]
