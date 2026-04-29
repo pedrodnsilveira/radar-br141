@@ -1,5 +1,21 @@
 [
   {
+    "coordenadas": "515|464",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Charlie Sheen",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:29:47"
+  },
+  {
+    "coordenadas": "639|459",
+    "proprietario_anterior": "guerra..guerra",
+    "tribo_anterior": "RIP",
+    "proprietario_novo": "guerra..guerra",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:29:37"
+  },
+  {
     "coordenadas": "386|461",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32190,21 +32206,5 @@
     "proprietario_novo": "Guga Ajs",
     "tribo_nova": "GC",
     "data_hora_conquista": "2026-04-22 14:40:07"
-  },
-  {
-    "coordenadas": "378|561",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "IDakaHz",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-22 14:38:04"
-  },
-  {
-    "coordenadas": "442|497",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ze11",
-    "tribo_nova": "FN!",
-    "data_hora_conquista": "2026-04-22 14:33:34"
   }
 ]
