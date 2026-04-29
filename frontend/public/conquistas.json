@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "512|434",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 22:40:31"
+  },
+  {
+    "coordenadas": "510|432",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-28 22:38:43"
+  },
+  {
+    "coordenadas": "485|581",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "matheusass",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-28 22:36:43"
+  },
+  {
     "coordenadas": "298|563",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32606,45 +32630,5 @@
     "proprietario_novo": "Carta na Manga",
     "tribo_nova": "RIP",
     "data_hora_conquista": "2026-04-21 21:51:12"
-  },
-  {
-    "coordenadas": "584|524",
-    "proprietario_anterior": "Samael",
-    "tribo_anterior": "LGDS",
-    "proprietario_novo": "ElJonjon",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-21 21:45:54"
-  },
-  {
-    "coordenadas": "772|455",
-    "proprietario_anterior": "UncleIroh",
-    "tribo_anterior": null,
-    "proprietario_novo": "budabuda",
-    "tribo_nova": "RG",
-    "data_hora_conquista": "2026-04-21 21:45:52"
-  },
-  {
-    "coordenadas": "569|585",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "A N O N Y M O U S",
-    "tribo_nova": "FN",
-    "data_hora_conquista": "2026-04-21 21:44:59"
-  },
-  {
-    "coordenadas": "387|384",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HectoplasmA",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 21:42:48"
-  },
-  {
-    "coordenadas": "351|307",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Rockman X",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-21 21:41:23"
   }
 ]
