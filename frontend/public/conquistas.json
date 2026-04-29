@@ -1,5 +1,53 @@
 [
   {
+    "coordenadas": "308|541",
+    "proprietario_anterior": "bisgui",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 12:17:55"
+  },
+  {
+    "coordenadas": "239|383",
+    "proprietario_anterior": "TyrionLannister",
+    "tribo_anterior": "PCT",
+    "proprietario_novo": "kenshiin27",
+    "tribo_nova": "KFC",
+    "data_hora_conquista": "2026-04-29 12:16:53"
+  },
+  {
+    "coordenadas": "488|524",
+    "proprietario_anterior": "Labres",
+    "tribo_anterior": null,
+    "proprietario_novo": "jacsonn",
+    "tribo_nova": "FN",
+    "data_hora_conquista": "2026-04-29 12:16:02"
+  },
+  {
+    "coordenadas": "333|512",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "yandelacruz",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 12:15:18"
+  },
+  {
+    "coordenadas": "491|424",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- RiPaDo By DeusBolado -",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 12:15:03"
+  },
+  {
+    "coordenadas": "607|809",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "Mhyatha",
+    "tribo_nova": "FENIX",
+    "data_hora_conquista": "2026-04-29 12:11:08"
+  },
+  {
     "coordenadas": "831|463",
     "proprietario_anterior": "Sandero Authentique",
     "tribo_anterior": ".RIP.",
@@ -32158,13 +32206,5 @@
     "proprietario_novo": "Gustavo Lima",
     "tribo_nova": "TRTN",
     "data_hora_conquista": "2026-04-22 11:22:51"
-  },
-  {
-    "coordenadas": "383|342",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "VTNeo",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 11:17:00"
   }
 ]
