@@ -1,5 +1,29 @@
 [
   {
+    "coordenadas": "636|450",
+    "proprietario_anterior": "Ff55",
+    "tribo_anterior": "VMD",
+    "proprietario_novo": "guerra..guerra",
+    "tribo_nova": "RIP",
+    "data_hora_conquista": "2026-04-29 15:08:20"
+  },
+  {
+    "coordenadas": "416|466",
+    "proprietario_anterior": "YAWNINGORACLE",
+    "tribo_anterior": null,
+    "proprietario_novo": "DeeJay",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 15:03:12"
+  },
+  {
+    "coordenadas": "435|564",
+    "proprietario_anterior": "Aldeia de Bárbaros",
+    "tribo_anterior": null,
+    "proprietario_novo": "- Jax Teller -",
+    "tribo_nova": "FN!",
+    "data_hora_conquista": "2026-04-29 15:00:16"
+  },
+  {
     "coordenadas": "403|528",
     "proprietario_anterior": "Aldeia de Bárbaros",
     "tribo_anterior": null,
@@ -32166,45 +32190,5 @@
     "proprietario_novo": "Sekaioshi",
     "tribo_nova": "PÂNICO",
     "data_hora_conquista": "2026-04-22 14:11:26"
-  },
-  {
-    "coordenadas": "548|178",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "ph aprendiz do carmo",
-    "tribo_nova": "NP",
-    "data_hora_conquista": "2026-04-22 14:08:58"
-  },
-  {
-    "coordenadas": "842|558",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "pijon",
-    "tribo_nova": "[NG]",
-    "data_hora_conquista": "2026-04-22 14:06:00"
-  },
-  {
-    "coordenadas": "557|410",
-    "proprietario_anterior": "Fredric Lehne",
-    "tribo_anterior": "SPN",
-    "proprietario_novo": "- RiPaDo By Magoga -",
-    "tribo_nova": "RIP",
-    "data_hora_conquista": "2026-04-22 14:05:19"
-  },
-  {
-    "coordenadas": "388|383",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "HectoplasmA",
-    "tribo_nova": "GALOS",
-    "data_hora_conquista": "2026-04-22 14:04:11"
-  },
-  {
-    "coordenadas": "266|360",
-    "proprietario_anterior": "Aldeia de Bárbaros",
-    "tribo_anterior": null,
-    "proprietario_novo": "Joleno",
-    "tribo_nova": "3OS",
-    "data_hora_conquista": "2026-04-22 14:01:20"
   }
 ]
